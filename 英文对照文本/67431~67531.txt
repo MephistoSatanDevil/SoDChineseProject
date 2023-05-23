@@ -1,0 +1,200 @@
+@67431 = ~Stone Form~
+@67432 = ~Important Events~
+@67433 = ~What's this I smell? More mortal flesh? The poxbringer will gorge this day.~
+@67434 = ~You'll break your teeth on me, monster.~
+@67435 = ~So I smell a little. It's hot here. Rude of you to point it out.~
+@67436 = ~Come at me, fiend, and I'll end your miserable existence.~
+@67437 = ~Already my mouth waters at the thought of your bloody corpse!~
+@67438 = ~I will stay at your side and destroy this emissary of evil!~
+@67439 = ~Let's get 'im and get out of here.~ [BD67439]
+@67440 = ~Fillet this fiery fiend, my friend!~
+@67441 = ~The devil waits. I am ready to fight.~
+@67442 = ~For Baldur's Gate! Get the fiend!~
+@67443 = ~Thou and I shall finish this together. I stay at thy side!~
+@67444 = ~Minsc has no fear of a devil with horns like a bunny's ears! We shall skin this rabbit together!~
+@67445 = ~I sh-shall not desert you in this h-hour of need. I s-stand with you!~
+@67446 = ~This evil must be destroyed. I fight with you, friend.~
+@67447 = ~Let's DO IT!~
+@67448 = ~I shall not last long in this place without you. When the devil is dead, I leave with you.~
+@67449 = ~I don't think you can do this without me, sweetheart. I'm fighting with you.~
+@67450 = ~Such arrogance, to dismiss a great wizard of Thay! Despite your lack of judgment, I shall assist you in this battle.~
+@67451 = ~Ho ho! One cannot rid oneself of Voghiln so easily! Together, we destroy the devil!~
+@67452 = ~You don't think I'm leaving now, do you?~
+@67453 = ~Pull in extraplanar creature~
+@67454 = ~[Movie]Boareskyr Bridge~
+@67455 = ~[Movie]Murder~
+@67456 = ~~
+@67457 = ~One of your lost spells has been restored.~
+@67458 = ~Bard Hat~
+@67459 = ~This ostentatious peacock-blue hat is festooned with green and purple feathers. Once the possession of an unfailingly chipper bard, the hat was stolen when the bard couldn't resist showing off the hat in a seedy tavern and bragging about its magical powers. In truth the hat has only moderate enchantments on it, but its stylish appearance makes it a coveted choice for many bards.
+
+STATISTICS:
+
+Equipped abilities:
+– Immunity to silence and deafness
+– Bard song effects linger on for 2 additional rounds after the bard stops singing
+
+Weight: 0~
+@67460 = ~Etherealness~
+@67461 = ~The Irregulars
+
+I've reported back to Otilda.
+
+I told Lieutenant Otilda that I killed the half-orcs. She was shocked. I'm not sure what she expected; she clearly wanted them out of the way.~
+@67462 = ~The Irregulars
+
+I've reported back to Otilda.
+
+I told Lieutenant Otilda that I drove off the half-orcs. She was happy with my efforts and thanked me with a small reward.~
+@67463 = ~The Irregulars
+
+I've reported back to Otilda.
+
+I told Lieutenant Otilda that I tried to deal with the half-orcs, but they were too strong for me. She thanked me for trying.~
+@67464 = ~Wizzard Hat~
+@67465 = ~This classic pointed wizard's hat has the wearer's title emblazoned across it in rather gaudy sequins. The wizzard's hat makes the wearer much faster, both in casting and on foot. A wizard who runs away from combat lives to run away another day, after all.
+
+STATISTICS:
+
+Equipped abilities:
+– Casting Speed: +1
+– Movement Speed: +2
+
+Weight: 0~
+@67466 = ~The Forest Queen's Benediction~
+@67467 = ~Mielikki, the Forest Queen, bestows her gifts only on those who show kindness and compassion to all living creatures. Legend tells that a bard once came upon a pack of hunters running a unicorn to ground. The bard, despite being outnumbered, threw herself at the hunters and fought them valiantly while the unicorn escaped. The hunters beat the bard near to death and left her broken body on the ground. Moments after they left, the unicorn stepped softly to the bard and extended its horn. The bard grasped the horn weakly and, to her astonishment, it came away in her hand. The bard sat up, healed of all wounds and bestowed with a valuable gift. The unicorn vanished into the trees, and the bard found the horn bestowed healing powers whenever she played it.
+
+The cornetto can only be played by a bard of exceptional virtue and wisdom.
+
+STATISTICS:
+
+Charge abilities:
+– Mass Cure once per day
+
+Requires:
+ 13 Wisdom
+
+Weight: 3~
+@67468 = ~Flute of the Immaculate Breeze~
+@67469 = ~Originally crafted by gnomes, this flute appears diminutive at first but when picked up, it assumes the proper size for the bard who wields it. Tiny engravings of flowers, winding vines, and wispy clouds cover the length of the flute. When played, the scent of flowers fill the air and nearby spectators sometimes feel the sensation of a gentle rain on their face. 
+
+STATISTICS:
+
+Charge abilities:
+– Zone of Sweet Air twice per day
+
+Weight: 3~
+@67470 = ~Tangled Strings~
+@67471 = ~This cittern looks as if no bard could coax a tune from its crisscrossed and frayed strings. However, when played, the cittern gives off a sweet and clear tone. A clever bard can master the art of playing the tangled strings all at once, creating a jangling melody that listners find incredibly disruptive.
+
+STATISTICS:
+
+Charge abilities:
+– Dispels confusion effects on a single target twice per day
+
+Weight: 3~
+@67472 = ~Screaming Bagpipes~
+@67473 = ~This deep purple set of bagpipes has an odd, furry texture to it. On closer inspection, the bagpipes appear to have been made of the hide of some tentacled creature, with each of its furry purple tentacles becoming one of the instrument's pipes. When played, the bagpipe growls and screeches like a creature in pain.
+
+STATISTICS:
+
+Charge abilities:
+– Sound Burst twice per day. If played by a Jester the bagpipes deal double damage.
+
+Sound Burst: 
+Deals 2d8 points of sonic damage to all enemies within 30 feet of the bard and deafens them for 3 rounds. A save vs. breath halves the damage and prevents the deafness.
+
+Weight: 3~
+@67474 = ~Dispel Confusion~
+@67475 = ~Sound Burst~
+@67476 = ~Exit to Surface~
+@67477 = ~This bulbous organic pod detached from the myconid when it died.
+
+STATISTICS:
+
+Weight: 1~
+@67478 = ~Myconid Pod~
+@67479 = ~Cornetto~
+@67480 = ~A cornetto is a slender horn, usually carved from wood. Finger holes bored along its length allow a musician to create a variety of notes. A mouthpiece crafted of ivory or horn is attached to the tapered end.
+
+STATISTICS:
+
+Weight: 3~
+@67481 = ~Cittern~
+@67482 = ~These pear-shaped variations on the common yarting have four sets of paired strings that produce rich tones. They are popular peasant instruments.
+
+STATISTICS:
+
+Weight: 3~
+@67483 = ~Bagpipes~
+@67484 = ~Though bagpipes may look strange to those who have never seen them before, they produce a pleasant buzzing sound. The musician blows through the mouthpiece into the bag while holding a pipe, or "chanter," carved with finger-holes used to create the notes. 
+
+STATISTICS:
+
+Weight: 3~
+@67485 = ~Pool of Water~
+@67486 = ~Exit~
+@67487 = ~To the Lower Level~
+@67488 = ~The gate is sealed and Caelar... she has done what she must. It's strange to be in the world again. I must put my life back together.~
+@67489 = ~~
+@67490 = ~~
+@67491 = ~This creature is on another plane of existence and cannot hear you. You must use the Spectacles of Spectacle to pull it into your world if you wish to speak to it.~
+@67492 = ~edit~
+@67493 = ~The wealth you accumulated since departing Candlekeep has been stored in the palace basement by the treasurer, Ophyllis. Presenting this receipt, meticulously inscribed on delicate parchment. will allow you to withdraw your gold.
+
+A personal note has been written at the bottom of the receipt:
+
+"Dear <CHARNAME>-
+As I've not heard otherwise, I'm guessing the chest I had delivered to your quarters to store your friends' equipment is getting the job done. Please do let me know if it isn't and I'll have another sent to you immediately.
+Regards,
+O"~
+@67494 = ~My Missed Fortune
+
+I should look for the treasurer, Ophyllis, in the Ducal Palace's basement. 
+
+When I began my stay at the palace, I deposited my gold in the basement vault. I can recover it by visiting the palace treasurer, Ophyllis, who can generally be found in a small room on the basement's south side. 
+
+Ophyllis also supplied me with a chest to store items of value, which may prove useful. It's currently in my quarters at the palace.~
+@67495 = ~Meeting of the Minds
+
+I should show this letter to Corwin.
+
+I found a seditious letter on a noble upstairs in the Three Old Kegs. I believe they're plotting treason against the city. I should alert Captain Corwin, who waits at the main door downstairs.~
+@67496 = ~Treasury Note~
+@67497 = ~Worker~
+@67498 = ~Crusader Patrol~
+@67499 = ~You drag the larger of the two figures into your world. The smaller figure, after a moment of confusion, takes off running.~
+@67500 = ~Dwarves of Dumathoin
+
+The lich Gurn Coldhearth has been destroyed at my hand.~
+@67501 = ~Life Transference~
+@67502 = ~The freed druids have made good on their promise. Forest creatures have come to your aid.~
+@67503 = ~Flaming Fist Veteran~
+@67504 = ~Refugee Encampment~
+@67505 = ~Coran and Safana's Chamber~
+@67506 = ~Minsc and Dynaheir's Quarters~
+@67507 = ~Hidden Exit~
+@67508 = ~Equipment Storage~
+@67509 = ~<CHARNAME>'s chamber~
+@67510 = ~Tiax's Cell~
+@67511 = ~To the Basement~
+@67512 = ~Treasury~
+@67513 = ~Burned Inn~
+@67514 = ~Stone Statues~
+@67515 = ~Baeloth's Black Pit to End All Black Pits~
+@67516 = ~Coast Way Blockade~
+@67517 = ~Flaming Fist Encampment~
+@67518 = ~Dwarven Dig Site~
+@67519 = ~To Repository of Undeath~
+@67520 = ~Abandoned Camp~
+@67521 = ~Dwarven Clerics~
+@67522 = ~Raised Pool~
+@67523 = ~Laboratory~
+@67524 = ~Ritual Room~
+@67525 = ~Teleport Circle~
+@67526 = ~Crusader Encampment~
+@67527 = ~Bridgefort~
+@67528 = ~Fort Entrance~
+@67529 = ~Cell~
+@67530 = ~Command Tent~
+@67531 = ~Party Encampment~

@@ -1,0 +1,390 @@
+@52364 = ~Paralytic Bolt +1~
+@52365 = ~Any target hit by this bolt must making a Saving Throw or be paralyzed for 5 rounds.
+
+STATISTICS:
+
+Combat abilities:
+– Hit target must save vs. Paralyzation or be stunned for 5 rounds
+
+Damage: 1d10 (missile)
+Launcher: Crossbow
+
+Weight: 1~
+@52366 = ~Darkness, 15' Radius~
+@52367 = ~Darkness, 15' Radius
+(Alteration)
+
+Level: 2
+Range: 30 ft.
+Duration: 1 turn
+Casting Time: 2
+Area of Effect: 15-ft. radius
+Saving Throw: None
+
+This spell causes total, impenetrable darkness. Neither normal nor magical light works in the area of effect. All vision (including infravision) is severely limited; anyone hostile caught in the area of effect is for all practical purposes blinded as per the 1st-level wizard spell. Creatures that leave the area covered by darkness will have their vision restored after 1 round.~
+@52368 = ~Faerie Fire~
+@52369 = ~Faerie Fire 
+(Alteration)
+
+Level: 1
+Sphere: Weather
+Range: Sight
+Duration: 4 rounds/level
+Casting Time: 4
+Area of Effect: 10-ft. radius
+Saving Throw: None
+
+This spell outlines one or more creatures with a pale violet glow, making positions and movements easily visible. Outlined creatures are easier to strike, giving them an Armor Class penalty of -2.~
+@52370 = ~Dancing Lights~
+@52371 = ~Dancing Lights
+(Alteration)
+
+Level: 1
+Range: Sight
+Duration: 2 rds./level
+Casting Time: 1
+Area of Effect: Special
+Saving Throw: None
+
+This spell creates up to four glowing spheres of light (such as evidenced by will-o-wisps) or one faintly glowing, vaguely humanoid shape, somewhat similar to a fire elemental. The dancing lights move randomly without concentration upon such movement by the wizard. Although the lights cause no physical harm, they can distract enemies until either their duration expires or dispersed by weapon or magic.~
+@52372 = ~Just make sure to stay on Ashatiel's good side.~
+@52373 = ~That's easy for you to say, Beno.~
+@52374 = ~Watch your step, Zagan. You want to stay on my good side too.~
+@52375 = ~Oh, bind ME... <CHARNAME>, come here. We've got to get back to camp.~ [BD52375]
+@52376 = ~Corwin? What's wrong?~
+@52377 = ~All right, what am I missing here?~
+@52378 = ~Go back? Explain yourself.~
+@52379 = ~I don't think we really have the time to go over that right now.~ [BD52379]
+@52380 = ~Where to begin?~ [BD52380]
+@52381 = ~I just saw a face I'd hoped never to see again. That man over there, I killed him once. And then four more times. I don't want to talk about it.~ [BD52381]
+@52382 = ~I see. Let's get out of here before he spots you.~
+@52383 = ~You killed him five times? What could he possibly have done to deserve that?~
+@52384 = ~You killed him five times and he isn't dead?~
+@52385 = ~You slew a single man five times and you don't want to speak of it? Had I done such a thing, I'd speak of little else.~
+@52386 = ~Got resurrected four times. When I slay someone, I prefer they remain dead.~
+@52387 = ~Killing a man who doesn't stay dead is nothing to celebrate.~
+@52388 = ~It's more a matter of what he didn't do.~
+@52389 = ~I prefer to keep my personal life private.~
+@52390 = ~It was a personal matter. And his family has powerful friends in the Lathanderian clergy, so I knew he wouldn't stay dead. Well, I didn't KNOW it, but hearing he's back has never surprised me.~
+@52391 = ~I'd hoped our last meeting would stay our last. Let's just get out of here, before he recognizes me.~ [BD52391]
+@52392 = ~Very well. But once we're clear of him, I want to speak to you about this.~
+@52393 = ~No, no. Go talk to him. Say hello. You don't want to be rude.~
+@52394 = ~You slew him five times already. What's one more?~
+@52395 = ~Fine. Whatever. Let's go.~
+@52396 = ~What I don't want is to have an entire camp looking to cut our throats, which is exactly what WILL happen if I try talking to that deceitful worm. Let's go.~
+@52397 = ~This isn't the time or the place. Let's go.~
+@52398 = ~Good plan. Let's go.~
+@52399 = ~Fouleye's toady didn't lie.~ [BD52413]
+@52400 = ~Is there anything here you can use?~
+@52401 = ~Would've been nice if he'd mentioned the traps.~
+@52402 = ~He was too afraid to lie.~
+@52403 = ~Most goblins'd stop breathing before they'd stop lying.~ [BD52403]
+@52404 = ~Might not've known about them. Doesn't matter now.~ [BD52404]
+@52405 = ~Let's take a look.~ [BD52405]
+@52406 = ~The traps're goblin work. I can tell. ~ [BD52406]
+@52407 = ~They just call attention to whatever it is they were trying to hide by protecting it thus.~
+@52408 = ~They display a certain animal cunning.~
+@52409 = ~Whatever they're hiding better be worth the effort.~
+@52410 = ~Most goblins aren't that smart.~ [BD52410]
+@52411 = ~More cunning than most goblins have.~ [BD52411]
+@52412 = ~We'll see.~ [BD52412]
+@52413 = ~Spiders only ate half this goblin. Stringy meat, we are. ~
+@52414 = ~I'll take your word for it. Is there anything on the body you can use?~
+@52415 = ~Half eaten is still half too much, as far as I'm concerned.~
+@52416 = ~Stringy meat can still be tasty.~
+@52417 = ~There's always something you can use. Just don't always want to do what you can use if for.~ [BD52417]
+@52418 = ~Take what you can use and let's go. I don't even know what we're doing here.~ [BD52418]
+@52419 = ~Any meat tastes good if you're hungry enough.~ [BD52419]
+@52420 = ~Depends who's eating and who's getting eaten. And how hungry the eater is.~ [BD52420]
+@52421 = ~Ja. It's all about the spices.~ [BD52421]
+@52422 = ~What's this? ~ [BD52422]
+@52423 = ~Fragments of the dwarven community that once lived here.~
+@52424 = ~The spoils of war, spoiled by time. Many goblins died that these items could lie moldering in a dank and dreary cave. Will any of it fit you?~
+@52425 = ~Those are shaman's robes, are they not? And a staff? And there, that armor was made for a goblin— Wait. There's something about it... an unnatural power radiating from the metal.~
+@52426 = ~A big pile of junk.~
+@52427 = ~Not all of it. These are goblin shaman robes. That staff too. Or that armor there. I couldn't do the summoning dance in it, but if it's as strong as it looks, might keep me alive.~
+@52428 = ~Not all dwarf—there's things here I can use. Those are goblin shaman robes—that staff too. Or that armor. Couldn't do the summoning dance in it, but if it's as strong as it looks, it might keep me alive.~
+@52429 = ~Don't touch me, vermin!~ [BD52429]
+@52430 = ~Talking armor? That's new.~
+@52431 = ~Vermin? That's a little harsh, don't you think?~
+@52432 = ~The armor talks, and in a voice I don't care for. Destroy it.~
+@52433 = ~Not good, but maybe good enough. Those are goblin shaman robes. That staff too. Or that armor. Couldn't do the summoning dance in it, but if it's as strong as it looks, it might keep me alive.~ [BD52433]
+@52434 = ~Waste of energy. Let's take what we can use and begone.~
+@52435 = ~Don't be so hasty. I might be able to use that. Speak to me, ghost. Who are you?~
+@52436 = ~It happens. Talk, ghost. Who are you?~ [BD52436]
+@52437 = ~I see it now too. Like it was trying to hide from me... I know you're there, ghost. Talk. Who are you?~ [BD52437]
+@52438 = ~I know you're there, ghost. Speak to me now. Who are you?~
+@52439 = ~Silence!~
+@52440 = ~I am Kruntur, claw lord of the dak'Dekanter clan.~ [BD52440]
+@52441 = ~And a very good <DAYNIGHTALL> to you, Kruntur, lord of the dak'Dekanter.~
+@52442 = ~Are you sure? You don't look like the lord of the dak'Dekanter clan. You look like a suit of armor.~
+@52443 = ~You're a dekanter goblin? Be wary, M'Khiin. The dekanter are a cunning and vicious strain of your kind.~
+@52444 = ~A dekanter goblin. More cunning—and vicious—than the common breed. You would do well to listen to this Kruntur, M'Khiin. He may teach you something.~
+@52445 = ~I've no time to waste on this nonsense. M'Khiin, take what you can use, but do it quickly.~
+@52446 = ~What world is mine, flesh or ghost? Can't live in both, not anymore, got to pick—shaman or warrior, robes or armor. Don't know, don't know...~ [BD52446]
+@52447 = ~More goblin warriors die than any other race I can think of. Armor rarely helps them. Your gifts are more spiritual than physical. I'd seriously consider taking the robes and staff.~
+@52448 = ~You are many things, M'Khiin, but indecisive is not one of them. Make your choice.~
+@52449 = ~We'll have an eternity in the spirit realms soon enough. Take the armor, M'Khiin. Become a warrior.~
+@52450 = ~You're right, <CHARNAME>. I will do as you say.~ [BD52450]
+@52451 = ~This vexatious varmint is vicious enough for my tastes.~ [BD52451]
+@52452 = ~Anything he could teach me I learned long ago at the hands of my father. Kruntur, how did you come to be here?~ [BD52452]
+@52453 = ~You mock me, <PRO_RACE>?~ [BD52453]
+@52454 = ~Forget <PRO_HIMHER>. Talk to me. How is it you're here, Kruntur dak'Dekanter?~ [BD52454]
+@52455 = ~I died. But I'm not leaving my armor, oh no. It's mine—MINE! No one else's!~ [BD52455]
+@52456 = ~My friend could use armor like this.~
+@52457 = ~It's M'Khiin's now.~
+@52458 = ~See, now I've pretty much GOT to give your armor to my friend here.~
+@52459 = ~We shall see. The decision is yours, M'Khiin. This armor's superior to what you've got in every way but the obvious one.~
+@52460 = ~He's a ghost. A whisper. Nothing to fear.~ [BD52460]
+@52461 = ~Nothing to fear? I am Kruntur dak'Dekanter! Claw lord! War chief of my clan!~ [BD52461]
+@52462 = ~And it means nothing in the end. Can you hurt anything but my ears, anything at all? Tell me.~ [BD52462]
+@52463 = ~WHAT?! You would foul my armor with this—female? NEVER! I won't allow it!~ [BD52463]
+@52464 = ~She will wear it or not, as she desires.~
+@52465 = ~Can you stop it?~
+@52466 = ~I'll do as I wish, and I see nothing you can do to stop me. You must use the armor, M'Khiin. Its advantages more than makes up for Kruntur's bellowing.~
+@52467 = ~I'll crush your bones to powder! Drink your blood like wine! I'll suck her soul out of her body and cast it down in the bonelands forever!~ [BD52467]
+@52468 = ~That means "no."~ [BD52468]
+@52469 = ~The decision is yours, M'Khiin. This armor is superior to yours, but the cost is high... You'd exchange your dance's gifts for Kruntur's company.~
+@52470 = ~The armor's quite good, in every way but the obvious one. I doubt I could stand to wear it, but I'll not keep you from being better able to defend yourself.~
+@52471 = ~This armor is superior to any you have worn before. You must use it. Kruntur's bellowing is a small price to pay for what it offers.~
+@52472 = ~Dance and ghostsong mean little outside the tribe. This is a world of fist and steel.~ [BD52472]
+@52473 = ~Take it off! Remove the armor now!~ [BD52473]
+@52474 = ~Quiet, you bellowing k'taarn! Be silent or I'll throw this armor down that crack and none will hear your wretched voice ever again.~ [BD52474]
+@52475 = ~You wouldn't dare.~ [BD52475]
+@52476 = ~She would dare.~ [BD52476]
+@52477 = ~If she doesn't, I will.~
+@52478 = ~Keep talking, dekanter. See where you end up.~ [BD52478]
+@52479 = ~Eh. I've nothing more to say to you anyway.~
+@52480 = ~The voices of the dead sing to me. I've known too many like Kruntur in my life. No more, not if I've a choice.~ [BD52480]
+@52481 = ~Hah! The female fears me, and well she should!~ [BD52481]
+@52482 = ~Back, stand back! I am a witch of the east. The blood of seven dragons runs through my veins! I breathe underwater and the stars are jewels for my hair!~ [BD52482]
+@52483 = ~Stop where thou art. I well know how to use my sword and am sworn to defend Julann.~ [BD52483]
+@52484 = ~Fear not, friend—I've no quarrel with you. I am <CHARNAME>. Who are you?~
+@52485 = ~Easy there, big guy. I don't want to hurt you, whoever you are. But I want you to hurt me even less.~
+@52486 = ~Raise that sword to me and your life is over, stranger.~
+@52487 = ~HE is Rigah, my strong and faithful bodyguard. I am Julann, wychlaran of Rashemen and heir to the Thrice-Burned Castle, once I find it.~ [BD52487]
+@52488 = ~Some say the Thrice-Burned Castle is a myth, but if that were so, why would I dream of it every fortnight, hmm? Answer me that!~ [BD52488]
+@52489 = ~Uh... I'm not sure. Did you say you were a witch?~
+@52490 = ~Would that I could. But wait—am I to understand that you're a witch?~
+@52491 = ~I have no answer for you. Perhaps there is such a place as the one that haunts your dreams—stranger things happen in this land.~
+@52492 = ~Did you hear that, Rigah? Finally, we meet one who appreciates my wisdom! Not like the butterflies. They respect me, but they're such frivolous things, really.~ [BD52492]
+@52493 = ~But I am here, yes! Brave Minsc and his not-quite-as-brave but much cleverer miniature giant space hamster, Boo! ~ [BD52493]
+@52494 = ~My witch, Dynaheir, she... she is not with us. For the moment. But Boo says to be brave and carry on till she returns!~ [BD52494]
+@52495 = ~Your hamster speaks with wisdom. I greatly desire to speak with another sister of Rashemen! Should you find her, could you bring her to me? In a speaking state, naturally.~ [BD52495]
+@52496 = ~I am Dynaheir of the wychlaran of Rashemen. My guard, Minsc, of the Ice Dragon Berserker Lodge, is not now with us. His bravery ofttimes overwhelms his good sense, and he rushes too quickly into battle.~ [BD52496]
+@52497 = ~His bravery sometimes overwhelms his good sense and he rushes too-quickly into battle. ~
+@52498 = ~I would like to speak to a brother from the lodge. Should he return to thee, bring him to me, I beseech thee.~ [BD52498]
+@52499 = ~Unless you foresee a problem with introducing us?~ [BD52499]
+@52500 = ~Neither of my companions are... able to speak, at the moment.~
+@52501 = ~It wasn't easy getting a coherent conversation out of Minsc even when he was upright. It's harder still with him dead.~
+@52502 = ~Minsc is a fool who never knew when to leave a battle. This time his foolishness cost Dynaheir her life as well.~
+@52503 = ~Loosen their tongues, then, and bring them to us! We should like to speak to both of them.~ [BD52503]
+@52504 = ~I trust this is the type of death from which one can return? Powerful are the magics of our realm, though not infalliable.~
+@52505 = ~If their spirits should return to their bodies, please bring them to us. I've many questions about the afterlife. Rigah refuses to let me die even a little bit to get a peek at what awaits us all at journey's end.~ [BD52505]
+@52506 = ~We are here. I am Dynaheir, wychlaran of Rashemen and traveler like thyself. This is Minsc, my bodyguard, of the Ice Dragon Berserker Lodge.~ [BD52506]
+@52507 = ~You are SO familiar. Didn't we meet in the moonlight, once? ~ [BD52507]
+@52508 = ~I think you have confused me with someone else.~
+@52509 = ~We just met. About five minutes ago.~
+@52510 = ~I think I'd better be going.~
+@52511 = ~Mutual, I'm sure.~ [BD52511]
+@52512 = ~Yes, of course. Naturally.~ [BD52512]
+@52513 = ~Hast we been introduced? I am Dynaheir, wychlaran of Rashemen. This is my bodyguard, Minsc, of the Ice Dragon Berserker Lodge.~ [BD52513]
+@52514 = ~Boo and I are very pleased to meet you! Say well met, Boo. Boo says, "Well met, Boo!" Such a jester this hamster is.~ [BD52514]
+@52515 = ~Splendid, splendid! What a fortunate thing I followed the wind. Rigah said it was madness, especially when we climbed down that cliff and jumped off that other cliff, but I KNEW it was the right direction.~ [BD52515]
+@52516 = ~I would like to stay and talk to thee, mine sister. It has been too long since I spoke with another from our land, save for Minsc.~ [BD52516]
+@52517 = ~I would LOVE that, truly I would! Talking to ordinary people is like talking to rabbits sometimes, don't you agree? ~
+@52518 = ~I would LOVE that, truly! Talking to ordinary folk is like talking to rabbits sometimes, don't you agree? ENOUGH WITH THE LETTUCE! But Rigah and I must be ready to move with the crusade. We may not have long to chat.~ [BD52518]
+@52519 = ~You follow Caelar Argent?~
+@52520 = ~Wait, you're telling me you've joined the bloody crusade?~
+@52521 = ~Crusaders! All who follow the Shining Lady shall die at my hand!~
+@52522 = ~Not precisely. That is, we might be. We're testing it out in a manner of speaking. Seeing what they have to offer.~ [BD52522]
+@52523 = ~What they have to offer? The Shining Lady offers naught but madness and delusion! How canst thou consider joining her?~ [BD52523]
+@52524 = ~Well, I'll tell you how it came about. We left Rashemen searching for the child of Bhaal, as foretold in the prophecies of the great Alaundo. We heard rumors of a being of divine power in the vicinity, and so our search brought us here.~ [BD52524]
+@52525 = ~It turned out to be an eccentric hedge mage, nothing more, though he DID invite us to stay for tea and we had rather a dear time. ~
+@52526 = ~This supposed spawn of Bhaal turned out to be nothing more than an eccentric hedge mage, but he DID invite us to stay for tea. After that, we continued exploring the area and encountered the crusade.~ [BD52526]
+@52527 = ~Why have you joined with the crusade?~
+@52528 = ~Caelar may believe her cause righteous, but her followers' actions have been anything but. You'd be well-advised to break ties with them.~
+@52529 = ~If you're a crusader, you're my enemy and must die.~
+@52530 = ~No! No, no, no, no, no, no, nononono, not in the least. One of Caelar's lieutenants, Hephernaan his name is, made us a very attractive offer, though.~ [BD52530]
+@52531 = ~The crusade's face seems attractive enough, but beneath they are foul as serpents. Do not be fooled, sister.~ [BD52531]
+@52532 = ~Hephernaan has a wee inner circle of arcane practitioners. If we join him, he'll share his knowledge with us! Lovely of him, that's what I say.~ [BD52532]
+@52533 = ~So you're part of the crusade now?~
+@52534 = ~The crusade is not a righteous organization. I strongly advise you to break ties with them.~
+@52535 = ~If you're a crusader, you're my enemy and must die.~
+@52536 = ~I've seen no evidence of evil or corruption. If I do, I'll certainly rethink my association with the movement.~ [BD52536]
+@52537 = ~Thou must trust a sister wychlaran, Julann. The crusade is not what it seems. It has torn this land asunder!~ [BD52537]
+@52538 = ~This land, perhaps, but Rashemen is safe. Were that not the case it would make a difference, but I don't see how skirmishes up the Sword Coast affect us.~ [BD52538]
+@52539 = ~The crusade's leaders are corrupt and dishonest. They lead their followers to destruction.~
+@52540 = ~That's not exactly... never mind. I shall find proof of the crusade's corruption, hard evidence. Then I shall return to show you your error.~
+@52541 = ~I fail to see how this concerns me. This is not my land. I have little power here and am not one to interfere with politics regardless.~ [BD52541]
+@52542 = ~I cannot believe what I am hearing. <CHARNAME>. Thou must help mine fellow witch. We need proof of the crusade's villainy and soon, lest she pledge her power in service to the Shining Lady.~ [BD52542]
+@52543 = ~I appreciate your interest in me, truly. You're so enthusiastic! But my mind as made up as ever it gets. Which is often "not very," but in this case is "VERY."~
+@52544 = ~I'm quite certain you'll find nothing but cobwebs in the crusade's closets—no skeletons of scandal there. But do as you will. Take care now!~ [BD52544]
+@52545 = ~Oh, my stars! For once, Rigah was right to threaten a stranger! Bodyguard! Guard my body!~ [BD52545]
+@52546 = ~Keep thy distance. My witch trust strangers—I am more cautious.~ [BD52546]
+@52547 = ~A sound philosophy, but I assure you I mean you no harm.~
+@52548 = ~That's sensible, which makes me wonder why you're saying it. My berserker friend, Minsc, would never speak thus.~
+@52549 = ~I don't trust you either.~
+@52550 = ~Then thou understandest me. ~ [BD52550]
+@52551 = ~It is good to see another brother from the east! Minsc has been long in this foreign land where the evil is thick and the people are tiny.~ [BD52551]
+@52552 = ~Agreed. I've been too long away from our people.~ [BD52552]
+@52553 = ~How long have you been on your dajemma?~
+@52554 = ~If you're looking to Minsc for conversation, you might want to get comfortable. Understanding him can take a while.~
+@52555 = ~Talk with Minsc if you must, but be quick about it. We've important work to do.~
+@52556 = ~Too long. When I left the place of my birth, I looked forward to seeing new lands, meeting new people. I have been gone years now, though, with nary a glimpse of home.~ [BD52556]
+@52557 = ~I too know the loneliness of living in strange, smelly lands. Luckily, I have Boo and my witch for company.~ [BD52557]
+@52558 = ~I too know the loneliness of living in a strange, smelly land. But Minsc has Boo for company. And my witch... perhaps she will return someday. Boo says such things happen.~ [BD52558]
+@52559 = ~I have no "Boo," whatever creature that may be. But I do have a witch. Oh yes. I have a witch.~ [BD52559]
+@52560 = ~It sounds like you've a tale to tell.~
+@52561 = ~You and Minsc will have much to discuss.~
+@52562 = ~Perhaps we'll chat more another time. For now, we need to keep moving.~
+@52563 = ~Your berserker friend can be no harder to understand than my witch, Julann. She hath a unique mind. ~ [BD52563]
+@52564 = ~Dynaheir too has a mind unlike any other. Her brilliance makes Minsc's brain feel like a hamster's! Boo does not like it when Minsc says so, so I do not say it very loud.~ [BD52564]
+@52565 = ~Dynaheir too had a mind unlike any other. Her brilliance made Minsc's brain feel like a hamster's! Not like Boo's brain, though. Ho, Minsc should be so lucky as to have a brain like that.~ [BD52565]
+@52566 = ~I thought I would learn from my witch—that she would guide me as I protected her. But each day is more confusing than the last.~ [BD52566]
+@52567 = ~I want more than his conversation. I was hoping for his advice. For years I have followed every one of Julann's orders, indulged her every whim even as we roamed further and further from home.~ [BD52567]
+@52568 = ~Wait! I do not want to make simple talk with your berserker—I seek his counsel. For years, I have followed every one of Julann's whims, obeyed her every order. For years, we have roamed farther and farther from Rashemen.~ [BD52568]
+@52569 = ~For years now I have followed every one of Julann's whims, obeyed her every wish, and for years we have roamed further and further from home.~
+@52570 = ~I despair of ever seeing my homeland again. How do you do it, brother Minsc? How do you endure the random caprices of your witch?~ [BD52570]
+@52571 = ~I'm afraid you'll not get help on this from Minsc, Rigah. He is utterly devoted to Dynaheir.~
+@52572 = ~You should know, Rigah, that when it comes to my Rashemi friends, Dynaheir is the more stable of the two, by far.~
+@52573 = ~You are on a fool's errand. Dynaheir is as predictable as the mountains.~
+@52574 = ~Can it be so? Not all witches are as flighty and irrepressible as my witch?~ [BD52574]
+@52575 = ~Minsc will follow Dynaheir to the ends of Toril, though his legs may be very sore! If she sails away, he will follow her! Preferably in the boat, but Minsc can swim.~ [BD52575]
+@52576 = ~Minsc would have followed Dynaheir to the end of Toril and beyond. I would have followed her into death, but she would not like that. So Minsc waits, and hopes she will return.~ [BD52576]
+@52577 = ~I... I see. Then I am truly alone.~ [BD52577]
+@52578 = ~Untrue. Without you, Rigah, Julann would be utterly lost. You're the only stable thing in her life.~
+@52579 = ~You're not alone, Rigah. The wisdom and strength of your lodge is behind you. You were given this dajemma because you were best suited to protect Julann. Take pride in that.~
+@52580 = ~I know something about battle and fighting terrible enemies to protect your allies. You were chosen to protect Julann because your'e the strongest. It is an honorable mission.~
+@52581 = ~Yes, you are. Continue blindly following your witch and things will only get worse.~
+@52582 = ~I've no time for your pathetic mewling. Figure this out and get on with your life.~
+@52583 = ~That is one way to look at things. ~ [BD52583]
+@52584 = ~You are Julann's protector. She wouldn't last an hour without your guidance. She needs you—your wisdom, your skill, and above all, your patience.~
+@52585 = ~Thou speakest true. I keep Julann safe. As long as she is in the world, I will protect her. Thank you. Thou hast cleared the fog from my mind.~ [BD52585]
+@52586 = ~What art thou saying? ~ [BD52586]
+@52587 = ~Julann is leading you astray. Follow her and your dajemma will last forever. You'll never see your home again while she lives.~
+@52588 = ~Perhaps thou art correct. I should resign myself to this life. I can have no other.~ [BD52588]
+@52589 = ~Of course. Apologies for taking up so much of thy time.~ [BD52589]
+@52590 = ~I wonder if birds ever die of old age while they're flying and fall RIGHT out of the sky? ~ [BD52590]
+@52591 = ~I've something here you need to see, Julann.~
+@52592 = ~I can't say I've ever thought about it. Or, in truth, that I intend to begin thinking about it now.~
+@52593 = ~Right. I'm now going to wear a helmet every time I step outside. Thank you so much for that.~
+@52594 = ~A ridiculous question. What do you think they'd do, hover?~
+@52595 = ~Hmmmm.~ [BD52595]
+@52596 = ~Where is that nice witch of yours? I was so enjoying speaking to her.~ [BD52596]
+@52597 = ~I'm afraid she's not here right now.~
+@52598 = ~We ran into some trouble underground. The stabby kind. Don't worry, we'll fix her up.~
+@52599 = ~She's dead. Let's speak of other things.~
+@52600 = ~Thou allowed thy witch to fall? Shameful. Thou shouldst do whatever it takes to restore her to life.~ [BD52600]
+@52601 = ~I know it's inconvenient, monetarily and otherwise, but I would so appreciate being able to speak to her again. It would set my mind at ease, and that generally takes a LOT of effort.~ [BD52601]
+@52602 = ~I don't have time to bring her to you. You need to see this evidence now.~
+@52603 = ~I'll return when she's able to speak to you.~
+@52604 = ~I really think she should be, don't you? Not that I don't trust you, but you know what fish say. "Better the pond you know than the lake you don't."~ [BD52604]
+@52605 = ~I agree. That is the best course of action.~ [BD52605]
+@52606 = ~What is this?~ [BD52606]
+@52607 = ~Notes from a ritual designed by Hephernaan. He sought to raise an undead army.~
+@52608 = ~Proof of the crusade's corruption.~
+@52609 = ~Papers that clearly show how foolish you were to trust anything Caelar has to say.~
+@52610 = ~What...? No! I don't believe it.~ [BD52610]
+@52611 = ~You must, mine sister. The evidence is here before thine eyes.~ [BD52611]
+@52612 = ~Anyone could have written these papers. A squirrel, even! I met a talking squirrel in a taproom once; it could happen!~ [BD52612]
+@52613 = ~You grasp at reasons to dismiss the proof before your eyes. Help me, here, Rigah. Please.~
+@52614 = ~She's mad. Rigah. See how corrupt your witch has become, consorting with necromancers!~
+@52615 = ~Dynaheir sees the truth in these pages. If another wychlaran's word cannot convince you, nothing will.~
+@52616 = ~Dynaheir agrees with my accounting of the ritual. Think! What would I gain from such an elaborate ruse?~
+@52617 = ~I am a fellow wizard. Trust me when I say, the logic of the situation points toward the crusade's corruption. You can't believe Hephernaan.~
+@52618 = ~I may not belong to the Ice Dragon lodge, but I understand honor. I would not bring you false evidence.~
+@52619 = ~It could, but it's unlikely. These papers show the truth.~
+@52620 = ~Try and think rationally. I saw the ritual performed! What would I gain from lying to you?~
+@52621 = ~You clearly have no interest in the truth. I'm done with you.~
+@52622 = ~Julann, you must trust this one. The other witch and her berserker trusted them, and so do I.~ [BD52622]
+@52623 = ~Yes, we Rashemi must stand together! Not too close together, though. Minsc has a wide swing.~ [BD52623]
+@52624 = ~I pray thee, Julann, trust this <PRO_MANWOMAN> as I do. I tell thee, <PRO_HESHE> speaks the truth.~ [BD52624]
+@52625 = ~I pray thee, Julann, trust this <PRO_MANWOMAN> as I do; <PRO_HISHER> evidence is sound.~ [BD52625]
+@52626 = ~Of course you're correct, my little beetles. What was I thinking, I don't know, truly. We shall leave this place at once, Rigah.~ [BD52626]
+@52627 = ~Perhaps you should revisit Rashemen and receive some guidance for your travels.~
+@52628 = ~Luck to you on your travels. I hope you won't need it, but a little luck's never hurt anyone.~
+@52629 = ~Finally, I can turn my attention back where it belongs.~
+@52630 = ~I do miss our home. What do you say, Rigah? Shall we visit Rashemen once more?~ [BD52630]
+@52631 = ~If that is thy wish, lady.~ [BD52631]
+@52632 = ~Onward, then! Thank you again, dear ones. Do take this as thanks; Rigah has a splendid new weapon and we've been lugging this one around for weeks. Think of me when thou look'st upon it. Not that thou wouldst forget, I am sure.~ [BD52632]
+@52633 = ~Not that thy wouldst forget.~
+@52634 = ~Yes. Yes, I see it now. Her madness hath grown unchecked. ~ [BD52634]
+@52635 = ~Do not do this, Rigah! We can still make her see reason!~ [BD52635]
+@52636 = ~What are you saying, Rigah?~ [BD52636]
+@52637 = ~Your refusal to see the evil you are in league with can mean but one thing: You must be destroyed.~
+@52638 = ~Rigah will indulge your foolishness no longer. His dajemma ends here.~
+@52639 = ~I knew from the start you were my enemy. Now you will suffer the same fate as all who stand against me.~
+@52640 = ~This cannot be!~ [BD52640]
+@52641 = ~Your proof is flimsy as a frog's eyelid. Away with you! I'll not be tricked into abandoning my new allies.~ [BD52641]
+@52642 = ~If there's nothing else I can do to convince you, then be on your way.~
+@52643 = ~Any ally of the crusade is an enemy of mine. ~
+@52644 = ~Come, Rigah. We leave immediately for Dragonspear Castle.~ [BD52644]
+@52645 = ~I cannot be believing my ears! Surely Minsc's good friend would not do such evil things!~ [BD52645]
+@52646 = ~Bodyguard! Guard my body!~ [BD52646]
+@52647 = ~Thou didst leave me with much to think on. I would be alone for a time to ponder thy words.~
+@52648 = ~What have I done...? How did I come to be this—this monster?~ [BD52648]
+@52649 = ~You are no monster, Rigah. You kept Julann from destroying countless lives in the crusade's service.~
+@52650 = ~The only monster here was Julann. She got what she deserved, and now you will too—you can finally return home.~
+@52651 = ~It takes courage to do what has to be done. You showed it here this <DAYNIGHTALL>. I respect that.~
+@52652 = ~Perhaps... perhaps thou art right. I will return to Rashemen and confess my deeds. The Lodge will set my punishment.~ [BD52652]
+@52653 = ~Minsc knows what punishment HE would deal out, and it would be more than a stern butt-kicking!~ [BD52653]
+@52654 = ~Thou helped me when I was in turmoil. Here, take this as a symbol of my thanks. I suspect I will need it no longer.~ [BD52654]
+@52655 = ~The crusade has left a trail of destruction in its wake. You cannot stand by and let such injustice continue.~
+@52656 = ~Most leaders do, my pigeon. Does the scarecrow speak truth unto the birdseed concealed in its hat? I think not.~ [BD52656]
+@52657 = ~I see. If I find evidence of the crusade's corruption, though, I will return.~
+@52658 = ~You want to head out again?~
+@52659 = ~I do. If it's all right with you, of course.~
+@52660 = ~What can I say? I'm a <PRO_MANWOMAN> of the people.~
+@52661 = ~If that's a problem for you, feel free to remain here.~
+@52662 = ~Stay close. The streets are shoulder to shoulder with people. It's a cutpurse's dream out there—and an assassin's.~
+@52663 = ~Let's go find the ones who aren't, then.~
+@52664 = ~I'm ready to leave now.~
+@52665 = ~So what are my options?~
+@52666 = ~What I'd really like to know is where all my gold went.~
+@52667 = ~Captain Corwin of the Flaming Fist knows where several people who might assist me can be found. She will escort me to their locations around the city.~
+@52668 = ~Very well.~
+@52669 = ~Where are Dynaheir and Minsc?~
+@52670 = ~Do you need a drink? I need a drink. Join me for a drink.~
+@52671 = ~Do that.~
+@52672 = ~When you leave, don't move too far ahead of me. If I lose you in the crowd, Duke Eltan will have my head.~
+@52673 = ~They've got a room on the third floor, or so I've been told.~
+@52674 = ~I like the way you think. Let's go.~
+@52675 = ~I got what I came for, but I could use a drink. How about you?~
+@52676 = ~I need a drink. You?~
+@52677 = ~When I'm finished, I'll tell you. Do not ask me again.~
+@52678 = ~It will probably be a dreadfully boring trip, but our friend wants to take no chances on something exciting happening.~ [BD52678]
+@52679 = ~Fare thee well, then, whatever thy plans for the future are.~ [BD52679]
+@52680 = ~I've changed my mind, Dynaheir. On reflection, I believe I could use your and Minsc's assistance in my quest.~
+@52681 = ~Stone Dowser~
+@52682 = ~This amulet, in the shape of an elemental's eye, is designed to lead its user to a weak point in Toril's surface.
+
+STATISTICS:
+
+Weight: 1~
+@52683 = ~The... "Bwoosh!"... is distilled explosive concentrate. Planted in the right spot under Dragonspear, it could give us a major advantage when we move against the castle.~
+@52684 = ~You want me to carry a barrel of potion of explosion under Dragonspear?~
+@52685 = ~"Bwoosh!"?~
+@52686 = ~I'm going to assume "Bwoosh!" means what I think it means and say yes, I'll do it.~
+@52687 = ~It's not a barrel of potion of explosion, it WAS a barrel of potion of explosion—a dozen barrels actually, the ones you stopped from blowing Boareskyr Bridge, <CHARNAME>. NOW it's a barrel of Bwoosh! BWOOSH! It's fun and easier to say. What's not to love?~
+@52688 = ~All right, here it is. One barrel of the most explosive material this side of—what's the nearest volcano?~
+@52689 = ~Whatever. Doesn't matter. What matters is, the material will remain inert until one of our warmages recites the right incantation to detonate it. So you shouldn't be blowing yourself up while you're down there unless I really messed up.~
+@52690 = ~Don't worry. In my entire life, I've only messed up once. This year. So take it, keep it safe, hide it where it'll hurt the crusade worst, and when you get back... Bwoosh! All right? Good.~
+@52691 = ~You have my thanks, my lady.~
+@52692 = ~But no bwoosh until I return, right?~
+@52693 = ~Very well. I will do as you ask. Farewell.~
+@52694 = ~WAIT!~
+@52695 = ~When you're inside the caverns, consult this amulet each time you come to an intersection. It will guide you to the best placement for the barrel. Now, Phossey, would you please excuse us?~ [BD52695]
+@52696 = ~Potion of Explosions sounds like pretentious twaddle. Much easier AND more satisfying to call it a potion of Bwoosh! ANYway, here it is. One barrel of the most explosive material this side of—what's the nearest volcano?~
+@52697 = ~That's it. You can go now.~
+@52698 = ~Naw, naw. No chance of that. Unless something goes wrong. I'd place the barrel soon as I could, if I were you. Just to be on the safe side. All right, off with you.~
+@52699 = ~She's right. It is.~
+@52700 = ~Tell me, how often do you "mess up"?~
+@52701 = ~Yes, yes, we get the idea. I have reservations, <CHARNAME>. This is highly explosive materiel. How are we to trust this monkey has made it safe for transport?~
+@52702 = ~We'll do our best to follow your advice, <CHARNAME>. With each of us encouraging the other, we may be able to prevent another manifestation.~
+@52703 = ~Thank you for your help. Without you, that feyr would have run rampant through the fortress. I'll do what I can to keep people calm around here.~
+@52704 = ~Disturbing Implications 
+
+I must be alert for the presence of the Hooded Man.
+
+I encountered a strange man lurking in my quarters in the Ducal Palace. He did not identify himself, but seemed to know me. His words disturbed me for reasons I cannot quite articulate.~

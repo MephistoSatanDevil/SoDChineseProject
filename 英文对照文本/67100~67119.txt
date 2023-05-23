@@ -1,0 +1,32 @@
+@67100 = ~There's no escape this way. The sewers are the only way out.~
+@67101 = ~A translucent field of force glimmers before the gate, its magic repelling any attempt to enter the courtyard.~
+@67102 = ~I found this seal of the crusade in your pocket. Care to explain?~
+@67103 = ~I picked it up off a crusader I killed. Nothing more.~
+@67104 = ~Then you won't mind coming with me to Marshal Nederlok to answer a few more questions.~
+@67105 = ~Then you won't mind submitting to a spell that compels truth, just so I can verify your story. I'm sure one of the camp clerics can oblige.~
+@67106 = ~I don't believe you. I think you're a traitor.~
+@67107 = ~I suppose I have no proof otherwise.~
+@67108 = ~Believe whatever you want, makes no difference to me.~
+@67109 = ~The Traitor
+
+I should look for evidence of Col's guilt.
+
+I found a crusader seal on a soldier named Malden Col. However, he denied being a traitor. I should follow up on the other leads Safana had and try to get some hard evidence.~
+@67110 = ~The Traitor
+
+I should inform Nederlok about the traitor.
+
+Malden Col denied being the traitor, but I could read his guilt in his eyes. I slew him for his treachery.~
+@67111 = ~Malden Col. I found this seal in his pocket.~
+@67112 = ~The Irregulars
+
+Now I can bring this ale to Kava the half-orc, near the Flaming Fist camp.
+
+I found a mug of ale in the crusader camp. It's not cold and frosty, but perhaps it will do.~
+@67113 = ~Crusader Deserter~
+@67114 = ~Bandit Archer~
+@67115 = ~Bandit Scout~
+@67116 = ~Bandit Cleric~
+@67117 = ~Bandit Leader~
+@67118 = ~Bandit Commander~
+@67119 = ~Grizzly Bear~

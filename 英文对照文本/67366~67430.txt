@@ -1,0 +1,166 @@
+@67366 = ~Mugger~
+@67367 = ~H-healing! I need... ugh...~
+@67368 = ~More crusaders come from the north!~
+@67369 = ~Important Events
+
+I found the Dragonspear water supplies. 
+
+There's enough fresh water in the castle basement to sustain the troops for a long siege.~
+@67370 = ~Crusader Tract~
+@67371 = ~(This thick sheet of parchment is rolled tightly and tied with a bit of patterned ribbon.)
+
+The Shining Lady
+The shining hair and glowing eyes of our great leader, Caelar Argent, tell a tale of the divine; she is the last and greatest member of a line birthed of gods and a family of paladins. For generations, the Argents served as noble knights of Lathander.
+
+Caelar believed she too would join the ranks of the Order of the Aster. But her vision was too vast for the Order’s limited faith. Her demands to take unflinching action against the forces of evil fell on deafened ears. Caelar left the knighthood, seeking a means by which to fulfill her righteous vision.
+
+(Scrawled notation: No mention of her transgression or its abominable repercussions. Records must exist in Waterdeep. When you receive these notes, seek out the Order’s chapterhouse and see what you can find.)
+
+An Auspicious Meeting
+Caelar wandered the world alone, learning all she could of the evils that threatened it. The knowledge she gained filled her with anguish. Hers was a vision of glory, but how could she bring that glory to a dark world doing naught but growing darker?
+
+Her doubts took her to a bridge overlooking the Winding Way. She looked into the dark waters flowing below and questioned all she had once believed to be true. Perhaps she was wrong. Perhaps she had not been chosen to rid the world of evil.
+
+It was in this, her greatest moment of doubt, that Brother Hephernaan appeared. Seeing in him a good and gentle soul, Caelar told Hephernaan of her troubles. And when her tale was told, he said, "The people of the land long for righteousness. The gods have blessed you with a vision. You know what you must do.”
+
+And Caelar did.
+
+(Scrawled notation: We know too little about this Hephernaan. Caelar relies fully on him, but does he serve her interests or his own? When I return to Berdusk, I’ll see what information I can dig up.)
+
+Our Glorious Purpose
+Together, Caelar and Hephernaan called out to the people of Faerûn. From the coasts and the plains, the mountains and the deserts, men and women of courage and righteous conviction answered Caelar’s call, flocking to the Shining Lady’s banner.
+
+The fulfillment of Caelar’s vision is at hand. Goodness and justice will prevail—with your help. Together, we will free the unjustly damned and smite the evil that dares lay claim on mortal souls. An age of light is about to break through the darkness. Will you be a part of it?
+
+(Scrawled notation: This crusade may be more dangerous than we initially thought. We have agents near Baldur’s Gate; I’ll ask them to investigate the crusader camp near Bridgefort. Perhaps we can head Caelar off before she does too much damage.)~
+@67372 = ~Beljuril~
+@67373 = ~Normally a deep, pleasant seawater green, beljurils periodically blaze with a glittering, winking, flashing light. However, this particular stone has a slightly different hue; perhaps it is a new strain, rarely if ever seen before. It looks incredibly valuable.
+
+STATISTICS:
+
+Weight: 1~
+@67374 = ~Oh, hello. How does this <DAYNIGHTALL> find you? Is there something I can do for you?~
+@67375 = ~Perhaps. Do you by any chance know anything of a woman named Caelar Argent?~
+@67376 = ~Mine is a tale of woe. I have fallen on hard times of late.~
+@67377 = ~You can give me that necklace you're wearing.~
+@67378 = ~I've no time to waste speaking to a crone like you.~
+@67379 = ~I'm truly sorry to hear that. Perhaps there is something I can do to help. Look here, at this necklace.~
+@67380 = ~It belonged to my mother. Do you like it?~
+@67381 = ~It's fantastic work.~
+@67382 = ~It is nearly as beautiful as the woman who wears it.~
+@67383 = ~I do. Hand it over.~
+@67384 = ~What? But—it's my mother's. You can't just take it—who are you? What are you— This is a private room. Get out of here. Get out! BARTLEBY!~
+@67385 = ~我已经太久没听到这样的恭维了。~
+@67386 = ~Here, take the necklace, please. It will fetch a good price at any reputable dealer in precious stones.~
+@67387 = ~I cannot take your necklace, my lady.~
+@67388 = ~You think I would sell such a fine piece of work? Nay. I will take the necklace as a token of the time we spent together, though. And now, if you'll excuse me, I must go.~
+@67389 = ~As you wish. And now I take my leave.~
+@67390 = ~Farewell, my friend. I hope we meet again, and soon.~
+@67391 = ~But you must.~
+@67392 = ~Nay. I seek not riches but information. What do you know of Caelar Argent?~
+@67393 = ~I thank you, my lady. But no, I'll not take what isn't mine. Now I must leave.~
+@67394 = ~Very well. And now I must depart.~
+@67395 = ~Of the Shining Lady herself I know little. They say she is advised by a priest named Hephernaan, though. Back in Silverymoon I knew of a boy by that name—most everyone did. A vile lad he was.~
+@67396 = ~The Hephernaan I knew was arrogant and selfish, but he had a way with words—the way an assassin has with a poisoned blade. Well, perhaps not so bad as that. Words can't kill, but his made many wish they were dead.~
+@67397 = ~People grow and change, I suppose. But if this Hephernaan who advises Caelar is the same as the youth I knew... Well, I'd believe it when I see it, and possibly not even then.~
+@67398 = ~I must go now, but before I do, let me express my thanks. You've been most helpful.~
+@67399 = ~Intriguing. Thank you, my lady. I will take my leave of you now.~
+@67400 = ~You've served me well, crone.~
+@67401 = ~I have? Well, I'm glad to hear that.~
+@67402 = ~Crone? You call me crone...? What... Who are you? What did you do to me... Bartleby! BARTLEBY, GET IN HERE THIS INSTANT!~
+@67403 = ~Important Events
+
+It seems Caelar is advised by a priest named Hephernaan. 
+
+I've learned something of Caelar's advisor. As a youth it seems this Hephernaan was not so noble as those who ally themselves with Caelar like to make out. But people can change.~
+@67404 = ~Bartleby! BARTLEBY, GET IN HERE NOW!~
+@67405 = ~Yes, yes, Delenda. I heard you, the entire inn heard you. What is it?~
+@67406 = ~This—this horrible person DID something to me. You're my bodyguard. Get this ruffian out of here!~
+@67407 = ~You just made a mistake, friend. A bad one.~
+@67408 = ~Far be it from me to stand in the way of one doing the Shining Lady's bidding. If that IS what you're doing.~ [BD67408]
+@67409 = ~It would hardly be the first time, would it, Schael? But this conversation IS over.~ [BD67409]
+@67410 = ~Hah! Cheski leader! You go now—or die!~
+@67411 = ~M'Khiin's Buckler +2~
+@67412 = ~Significant effort has been expended trying to scratch the emblem of Clangeddin Silverbeard from this small, battered buckler, but the dwarven battlegod's symbol stubbornly refuses to be completely eradicated. Stolen from its original owner by one of M'Khiin Grubdoubler's tribesmen, it was presented to her as a gift from a would-be suitor. While she had little interest in romance, M'Khiin was very interested in self-defense, and so she accepted the gift shortly before she set out to seek her destiny beyond what goblin society had prescribed for her.
+
+STATISTICS:
+
+Equipped abilities:
+– Hit Points: +10
+– Armor Class: +3
+– No protection against missile and piercing attacks
+
+Requires:
+ 4 Strength
+
+Weight: 2~
+@67413 = ~Grubdoubler's Axe +1~
+@67414 = ~Crudely fashioned but an effective weapon, this axe has a certain sentimental value to M'Khiin Grubdoubler, who stole it from her father. Though she didn't particularly want possess the axe herself, she very much wanted it not to be possessed by one of her brothers, most of whom were furious their sister managed to steal it before one of them did.
+
+STATISTICS:
+
+Combat abilities:
+– 20% chance per hit that the target must save vs. Spell or become confused for 3 rounds
+– Returns to the wielder's hand when thrown
+
+THAC0: +1, +3 vs. humans
+Damage: 1d6+2, +2 (magic) vs. humans
+Damage type (melee): Slashing
+Damage type (thrown): Missile
+Speed Factor: 3
+Proficiency Type: Axe
+Type: One-handed
+Requires:
+ 4 Strength
+
+Weight: 3~
+@67415 = ~Goblin Leathers +1~
+@67416 = ~While seasoned warriors of civilized races would doubtless turn their noses up at this patchwork of leather fragments strung together to form a small vest, most goblins cannot afford to be so choosy when it comes to personal defense. This armor may not look like much—it may barely even look like armor—but it's preferable to a blade buried in the chest.
+
+STATISTICS:
+
+Equipped abilities:
+– Wearer is immune to the Entangle spell
+
+Armor Class: 6 (4 vs. slashing, 5 vs. piercing and missile)
+Requires:
+ 6 Strength
+
+Weight: 15~
+@67417 = ~Gemblade +2~
+@67418 = ~The original Gemblade produced brilliant jewels when it struck. Now the weapon has used up its ability to create these valuable stones. Instead it has developed a new ability and increases the owner's intelligence so long as it is carried.
+
+STATISTICS:
+
+Equipped abilities:
+– Intelligence: +1
+
+THAC0: +2
+Damage: 1d4+2 (piercing) 
+Speed Factor: 0 
+Proficiency Type: Dagger 
+Type: One-handed 
+Requires: 
+ 3 Strength
+
+Weight: 1~
+@67419 = ~The gems on your dagger flash, and a glittering stone appears in your inventory.~
+@67420 = ~Hello again.~
+@67421 = ~I believe I dropped something a moment ago. I don't suppose you picked it up, by any chance?~
+@67422 = ~You just picked my pocket. Hand it over while you've still got hands at all.~
+@67423 = ~Oh, yes. Now that you mention it, I did find something—here you go.~
+@67424 = ~Wait a tick... How did— Oh, you crafty devil.~
+@67425 = ~All right, fair enough. I got one over on you, and you got one back on me. Shall we call it even?~
+@67426 = ~Let's.~
+@67427 = ~Not yet, we shan't.~
+@67428 = ~Good enough. I'll leave you to enjoy the rest of your <DAYNIGHTALL>, then.~
+@67429 = ~All the Way to the Bank
+
+I should hurry to the moneylender to deliver this purse.
+
+My pocket was picked, but I was able to regain the gold I lost after charming the thief.~
+@67430 = ~The Desperate Defenders
+
+I should return to Khalid and tell him what I've learned.
+
+I found Wynan Hess within the walls of Bridgefort. He relays that our troops are small; most of the people trapped inside the keep are merchants and travelers. We need to coordinate with the Flaming Fist if we're to attack the crusade with a hope of success. I've already spoken to Jegg Hillcarver, so I should return now to Khalid.~

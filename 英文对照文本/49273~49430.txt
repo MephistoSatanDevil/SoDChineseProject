@@ -1,0 +1,228 @@
+@49273 = ~Throwing Dagger +1~
+@49274 = ~The typical throwing dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter than the dagger. Unlike a normal dagger, this one has a smaller handle and is balanced for throwing. It is also enchanted to make it more effective in combat. Since the throwing dagger is designed differently than a normal dagger, it is not very effective as a melee weapon.
+
+STATISTICS:
+
+THAC0: +1
+Damage (melee): 1d3+1
+Damage (ranged): 1d4+1
+Damage Type (melee): Piercing
+Damage Type (ranged): Missile
+Speed Factor (melee): 2
+Speed Factor (ranged): 1
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 0~
+@49275 = ~Seditious Letter~
+@49276 = ~The crusade has reached the site of Bhaal's death, Boareskyr Bridge, according to rumor. Coincidence, I hope. The last thing I need is my past returning once again to haunt me.~
+@49277 = ~Apparently a trio of nobles have rented out a single room in the Three Old Kegs for the night. Maybe they're having a party?~
+@49278 = ~A man deep in his cups insisted there's a hidden door to the sewers beneath the Flaming Fist's headquarters. He must be seriously drunk to think the Flaming Fist would permit such a thing to exist!~
+@49279 = ~Skie Silvershield's name is being bandied about in taverns. Everyone seems to know the duke has trouble controlling his daughter. She's certainly a headstrong young woman who knows what she wants, even if what she wants isn't very wise.~
+@49280 = ~Aged~
+@49281 = ~Ghost Fear~
+@49282 = ~Magic Jar~
+@49283 = ~Strunk's Elementals
+
+Strunk is dead and will no longer assist the crusade.
+
+Near the underground river I encountered a wizard binding water elementals to fight for Caelar. When he lost control of the water elementals, I helped them kill him. A nereid who lives in the river rewarded me for it.~
+@49284 = ~What are you doing? Get away from that tree!~ [BD49284]
+@49285 = ~Slime Sickness
+
+I must bring Ferrusk 2000 gold pieces.
+
+If I return to the dark druid with 2000 gold pieces, he will consider trading for a cure to the poisoned crusader's slime-sickness.~
+@49286 = ~Slime Sickness
+
+I must find a myconid elder's bloom-sac for Ferrusk.
+
+I agreed to return to the dark druid Ferrusk with a myconid elder's bloom-sac. In exchange, he'll give me a cure for the poisoned crusader.~
+@49287 = ~Twisted Tree Roots~
+@49288 = ~A sickly light emanates from the twisted roots of the tree.~
+@49289 = ~Halfling Treasures
+
+I should look around for a shield, a mirror, and a cloak. 
+
+I found a halfling named Takos sitting in the ruins of his inn. Rowdy crusaders, mercenaries, I assume, burned the inn to smoldering timbers and they—or someone else—stole three of Takos's family heirlooms. I should keep watch for a shield, a mirror, and a cloak.~
+@49290 = ~Halfling Treasures
+
+Once I have all three items—shield, mirror, and cloak—I should return to Takos at the burned inn.
+
+I found a hand mirror within the ruins of the burned inn. I believe this is one of the items belonging to Takos the halfling.~
+@49291 = ~Halfling Treasures
+
+Once I have all three items—shield, mirror, and cloak—I should return to Takos at the burned inn.
+
+I found a cloak locked in a battered chest near the ruins of the inn. I believe this is one of the items belonging to Takos the halfling.~
+@49292 = ~Halfling Treasures
+
+Takos the halfling innkeeper was extremely happy to see the heirlooms I was able to return to him. ~
+@49293 = ~The belladonna flower.~
+@49294 = ~If you're not here to help us fight a vampire, you should be on your way.~ [BD49294]
+@49295 = ~Tell me again what kind of help you need.~
+@49296 = ~I want only to help you.~
+@49297 = ~A shield went missing at the burned-out inn just up the road. Would you know anything about that?~
+@49298 = ~Still not interested.~
+@49299 = ~We have a vampire cornered. He's got the path trapped, so we can't approach, but he has no way out except through us. Soon, we'll end his miserable existence.~
+@49300 = ~Meet us here after dark. We'll await the creature together.~
+@49301 = ~He should be here any time now. You ready to fight?~
+@49302 = ~I'm ready.~
+@49303 = ~I need a few minutes to prepare.~
+@49304 = ~Do it quickly. The vampire could appear any moment.~
+@49305 = ~Look! There, in the trees!~
+@49306 = ~What's that supposed to mean?~
+@49307 = ~A shield went missing when the Sterling Silver burned down. Did you find it?~
+@49308 = ~I'm not saying you DID take the shield, but I don't know that you DIDN'T.~
+@49309 = ~It means I think you're a thief. Hand over the shield.~
+@49310 = ~We need the shield more than an innkeeper does. Drop the matter or I'll run you through.~
+@49311 = ~There's no need for violence, Isabella. Our enemy is the vampire.~
+@49312 = ~If I help you kill the vampire, will you give me the shield?~
+@49313 = ~That shield doesn't belong to you.~
+@49314 = ~Give me the shield or I'll take it from you.~
+@49315 = ~Aye. That'll work. All right. When the vampire's destroyed, the shield is yours.~
+@49316 = ~Touch this shield and you'll regret it. My blade is sharp and ready for battle.~
+@49317 = ~I am sorry. My companion can be rather hot-tempered. She doesn't make idle threats, though, so I'd back away if I were you.~
+@49318 = ~I'm not leaving without that shield.~
+@49319 = ~You leave me no choice!~
+@49320 = ~Suit yourself. If that vampire shows up while you're here, though, you'd better be ready to fight.~
+@49321 = ~...ree us...!~
+@49322 = ~We've enchanted a seed which must be planted in the tree's roots to purify it of evil. In time, the blight growing within the land and the corruption in the forest's fauna will fade.~
+@49323 = ~Now go, and together we'll make Ferrusk pay!~
+@49324 = ~Isabella~
+@49325 = ~Ikros~
+@49326 = ~Tsolak~
+@49327 = ~Messenger~
+@49328 = ~Poisoned Crusader~
+@49329 = ~Slime Sickness
+
+I should search the caverns for someone who understands the ecology of this place.
+
+In the caverns beneath Dragonspear I found several injured crusaders, poisoned by some underground fungus. There's little I can do for them—perhaps I can find someone down here who can help them.~
+@49330 = ~Slime Sickness
+
+The crusaders have succumbed to their illness.
+
+I returned to the ill crusaders with the healing potion they needed too late. Their sickness consumed them, transforming them all into slimes.~
+@49331 = ~Why are you s-still h-here, <CHARNAME>?~
+@49332 = ~Why wouldn't I be?~
+@49333 = ~You would have me be somewhere else?~
+@49334 = ~I owe you no explanations.~
+@49335 = ~Do not play the fool, <CHARNAME>. I would like to think you're better than that.~
+@49336 = ~I rather think you do, actually.~
+@49337 = ~Thanks to that enchanted stone the c-crusade threw at us, ev-everyone in the fort is dying. You must feel it.~
+@49338 = ~That explains why I feel so weak. Is there nothing that can be done to end this blight? ~
+@49339 = ~Now that you mention it, I do feel a little under the weather. Is there anything I can do to help?~
+@49340 = ~I am made of sterner stuff than these sheep of yours. The crusaders' magic does not affect me.~
+@49341 = ~You know this already, <CHARNAME>. I see no purpose in making him repeat it.~
+@49342 = ~I w-will tell it again, a thousand times in the h-hopes that once it will m-make a difference.~
+@49343 = ~You lie! I can see the stone's effects upon you even as we speak.~
+@49344 = ~Wynan Hess believes he can end the spell if he can acquire the scroll the original wizard used to cast it. It m-must be in the c-crusade camp, but th-that puts it well b-beyond reach.~
+@49345 = ~Not my reach. Stay strong, my friend. I'll find this scroll for you.~
+@49346 = ~That is a pretty pickle you've found yourself in. But don't lose hope—<CHARNAME> is on the job. I'll get that scroll, or die trying.~
+@49347 = ~Regrettable. But any battle will have casualties.~
+@49348 = ~P-please make haste. We're all c-counting on you.~
+@49349 = ~A pity you couldn't have relied upon <PRO_HIMHER> earlier.~
+@49350 = ~I'd have you live, which is m-more than you can say of m-me and my people.~
+@49351 = ~I suppose you d-don't at that. I'll sssay good <DAYNIGHTALL> to you then.~
+@49352 = ~If they were sheep, the c-crusade would have taken B-bridgefort day ago. They are good men and wo-women. You do them a disservice.~
+@49353 = ~I've nothing more to say to y-you. Farewell.~
+@49354 = ~I'm somewhat less sanguine about dying than our friend here, Khalid, so I'll have to settle for just finding the scroll.~
+@49355 = ~Gaseous Form~
+@49356 = ~Vampire Bat~
+@49357 = ~The Myconid Tower
+
+I should look for the dead body in this tree-tower.
+
+The dying myconoid requested that I investigate the dead body in the northern part of the tree.~
+@49358 = ~The Concocter seems to have some tie to the myconid race. They asked him to join them, and he agreed. Bellowgulp decided to come along. I hope that works out for him.~
+@49359 = ~Everything was so, so—so LARGE... I was a squirrel... A squirrel! WHY WAS I A SQUIRREL?~
+@49360 = ~That might have been my fault.~
+@49361 = ~Who can say? It's a mystery.~
+@49362 = ~Stop complaining. You're fine now.~
+@49363 = ~Get away from me! I don't want to be a squirrel again! Wait... where's my tail?~
+@49364 = ~The Good Druids
+
+The druids believe I destroyed the dark druid circle.
+
+I tricked the druids into thinking I'd destroyed the dark druid circle. It was surprisingly easy to fool them.~
+@49365 = ~Take all the time you need. I'm not going to hold my breath. False hope, that's all you're giving me. False hope.~
+@49366 = ~Well. I can't say I appreciate your sense of humor, but I do appreciate you returning these to me.~
+@49367 = ~Oh, I'm fine. Just lying here in the ruin and ashes. Trying to think of a reason to continue on.~
+@49368 = ~~ [GHOST01]
+@49369 = ~~ [GHOST02]
+@49370 = ~~ [GHOST03A]
+@49371 = ~~ [GHOST03B]
+@49372 = ~~ [GHOST04A]
+@49373 = ~~ [GHOST04B]
+@49374 = ~~ [GHOST07A]
+@49375 = ~~ [GHOST07B]
+@49376 = ~~ [GHOST08A]
+@49377 = ~~ [GHOST08B]
+@49378 = ~~ [GHOST09A]
+@49379 = ~~ [GHOST09B]
+@49380 = ~~ [GHOST09C]
+@49381 = ~~ [GHOST09D]
+@49382 = ~~ [GHOST09E]
+@49383 = ~~ [GHOST10A]
+@49384 = ~~ [GHOST10B]
+@49385 = ~~ [GHOST10C]
+@49386 = ~~ [GHOST10D]
+@49387 = ~I have no scroll, but the Barghest has agreed to let everyone go if we surrender the fort.~
+@49388 = ~We won't last one round in this condition.~
+@49389 = ~Flaming Fist will assist us.~
+@49390 = ~I told Barghest we're going to surrender. He's about to find out otherwise.~
+@49391 = ~Crusaders attend some ceremony right now. We'll take them by surprise.~
+@49392 = ~You have to trust me.~
+@49393 = ~I don't know how much it will help us.~
+@49394 = ~It will, believe me.~
+@49395 = ~Perhaps I'll try to get the scroll after all.~
+@49396 = ~No, that's a certain death.~
+@49397 = ~I don't like it, but fine. Everyone get ready for attack!~
+@49398 = ~Please do.~
+@49399 = ~It's much better to surrender then go to our doom.~
+@49400 = ~Then we surrender.~
+@49401 = ~Perhaps I'll try to get the scroll after all.~
+@49402 = ~Ettin Ghost Loincloth~
+@49403 = ~(placeholder) Ettin Ghost Loincloth description~
+@49404 = ~Blind Albino Wyrmlings
+
+I put an end to the wyrmlings.
+
+I found a hatch of wyrmlings trapped in a cavern. They were pitiful blind things that had fallen to eating each other to survive. Their minds had long since decayed into fury and pain. All I could do was end them.~
+@49405 = ~The Lost
+
+A group of ghosts are trapped in a cavern, lost. If I find a way to the Fugue Plane, I should bring their remains there.~
+@49406 = ~The Lost
+
+I found an ettin ghost who I think is missing his club. If I find it, he might be able to move on.~
+@49407 = ~The Lost
+
+I returned the club to the ettin ghost. Unfortunately, he gave me a reward. I don't think I'll ever be able to un-see that. If I ever run into a giant in need of help again, I'll establish a firm "no nudity" policy beforehand.~
+@49408 = ~The Lost
+
+I was able to bring the ghosts' remains to the Fugue Plane portal. They are at rest. It's unsettling to think a ghost could get lost and not be able to find its resting place. At least I was able to help these ones.~
+@49409 = ~Tsolak's Scroll~
+@49410 = ~Drow's got a point.~
+@49411 = ~True enough. Consider me adequately chastised.~
+@49412 = ~How much longer must we wait? Crowds are fickle things. I know too well what can happen when moods turn sour.~ [BD49412]
+@49413 = ~I've had it. I have well and truly had it!~
+@49414 = ~Still haven't got rid of the fishmen, eh?~
+@49415 = ~The sahuagin? Still?~
+@49416 = ~This is in regards to your fish problem? Maybe I can help. What would you give the <PRO_MANWOMAN> who cleared them out of there?~
+@49417 = ~How does it feel to be so completely, utterly impotent, little man?~
+@49418 = ~They're laughing at us in there. They're laughing at us!~
+@49419 = ~They're laughing at us in there. They're laughing at us! I hope that's laughing, anyway.~
+@49420 = ~Stand aside. I'll deal with this.~
+@49421 = ~You and me both. Well, good luck to you.~
+@49422 = ~This is a serious matter. Caelar won't be pleased with her supply lines being held up. What'll you give me to rid you of this problem?~
+@49423 = ~Pathetic. Are you the best Caelar has to offer? It's a wonder she didn't fall to Daggerford's pitchforks weeks ago.~
+@49424 = ~Thanks. We're gonna need it. We're going in. Follow me, Orland!~
+@49425 = ~We're going in?~
+@49426 = ~We're going in. Follow me, lads!~
+@49427 = ~Our captain will have our hides if we don't get this sorted out. You've got to help us!~
+@49428 = ~Fortunately for you, I must pass through the cavern. Stay here, I'll see what I can do about your fish problem. ~
+@49429 = ~Aye, all right. Get a fire going, lads. We dine on fish this <DAYNIGHTALL>.~
+@49430 = ~What's it worth to you for me to clear the beasts out?~

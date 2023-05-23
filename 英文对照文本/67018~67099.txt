@@ -1,0 +1,172 @@
+@67018 = ~Skie's Grand Plan
+
+It would seem that Skie Silvershield is making few friends in her new life serving the Flaming Fist.~
+@67019 = ~I heard tell the crusade's already crossed the Winding Water. Burnt down an inn. Caelar's got nerve, acting the righteous warrior like she does.~
+@67020 = ~Important Events
+
+Word has reached me that the crusade has already made moves south of Coast Way Crossing. It's only a rumor, but if true, the Shining Lady is advancing even faster than expected.~
+@67021 = ~Ghel Hando says he ran into a pair of civilians hunting a vampire in the woods not too far from here. Like I didn't have enough trouble sleeping at night, right?~
+@67022 = ~I was talking to some of the refugees we passed on the road. I don't know how that Caelar does it. Her followers burned down some of these peoples' homes, and they STILL think she's the gods' gift to Toril.~
+@67023 = ~Important Events
+
+Though her minions do terrible things in her name, it seems Caelar Argent's is nigh irresistible. Even many of those wronged by her hold her in high esteem.~
+@67024 = ~You heard about the kidnappings that happened back in the Gate? It's not a good time to be worshipping Selûne, I'll tell you that much. Eh. Worshipping the Moonmaiden never made sense to me anyway. I'll take a nice cavern ceiling to stare up at over the moon any night.~
+@67025 = ~Important Events
+
+Faithful of Selûne have been going missing in Baldur's Gate. Perhaps after my mission here is complete I can investigate these disappearances.~
+@67026 = ~If it's entertainment you're looking for, I hear there's a fighting pit not too far from Coast Way Crossing. Apparently it's not much if you appreciate displays of martial skill, but some say it's good for a laugh.~
+@67027 = ~Important Events
+
+Apparently there's a fighting pit in the area. It might prove an interesting diversion.~
+@67028 = ~You heard about this? Clerics of more than a dozen gods left Baldur's Gate less than a tenday before us, heading to Dragonspear to seek an audience with the Shining Lady. They hope to turn her from her path. Waste of bloody time, you ask me.~
+@67029 = ~Important Events
+
+Caelar is certainly garnering a lot of attention. Her influence seems to be spreading.~
+@67030 = ~There was a hooded fellow here asking about you. Something about him made me real uneasy. There were the scars, and the voice, those were bad enough. But there's something more about him. Something really... off.~
+@67031 = ~Disturbing Implications
+
+The strange man in the hood was here asking about me. What could he want? What's his interest in me?~
+@67032 = ~I think we got out of Baldur's Gate at just the right time. Word is food is running out and even water's getting scarce. The city's gonna tear itself apart if Caelar isn't stopped.~
+@67033 = ~Important Events
+
+The crusade's movements are starting to affect the cities. Trade routes are disrupted and goods aren't reaching people.~
+@67034 = ~I hear the Shadow Thieves find themselves facing a little competition. Don't know who's got the steel to challenge 'em, but someone is, so I'm told.~
+@67035 = ~Important Events
+
+An unknown faction has been competing with the Shadow Thieves. I don't believe this will impact the Dragonspear mission, but perhaps someday the information will be of use.~
+@67036 = ~This is rich; you're gonna love this: That lass, the new recruit? She and Duncan have been sharing bedrolls. That's why she's got him wrapped 'round her finger. But you didn't hear it from me.~
+@67037 = ~Skie's Grand Plan
+
+Rumors of Skie Silvershield's connection to Bence Duncan have begun to spread through the camp, though for the moment her true identity remains a mystery to most of those on the Dragonspear expedition.~
+@67038 = ~Have you heard anything about a temple of Bhaal 'round these parts? I was talking to a cleric the other day who said one was once not too far from here. Same thing happened to it as happened to the Lord of Murder—Cyric destroyed it.~
+@67039 = ~Important Events
+
+Apparently there's a destroyed Temple of Bhaal in the area.~
+@67040 = ~Have you noticed how there's no one come down the road from Boareskyr Bridge of late? Something bad's happened there. I can feel it in my bones.~
+@67041 = ~Important Events
+
+Looks like the crusade is building a presence at Bridgefort.~
+@67042 = ~I heard tell from several of those fleeing Caelar of a monstrous half-orc making its way towards Bridgefort. Well-spoken for a half-orc, they say, but still a half-orc—as vicious as they come.~
+@67043 = ~Important Events
+
+Looks like the crusade is building a presence at Bridgefort.~
+@67044 = ~A cooper from Bridgefort wandered through not too long ago with an interesting story. As he tells it, there's a circle of stones outside the fort that'll magically transport people into it—when the circle works, anyway.~
+@67045 = ~Important Events
+
+A magical circle of stones might afford a way into Bridgefort.~
+@67046 = ~Seems everyone who follows Caelar Argent isn't as in love with her adviser Hephernaan. He puts on a smile for Her Shininess, but I'm told he can be a right bastard. But that's true of most worshippers of Ilmater, I suppose.~
+@67047 = ~Important Events
+
+Caelar's adviser is a priest of Ilmater named Hephernaan.~
+@67048 = ~I've heard a group of clerics looking to convince Caelar she's on an unrighteous path made it to Dragonspear and have been promised an audience with the Shining Lady when she returns. Maybe they can talk some sense into her.~
+@67049 = ~Important Events
+
+Caelar is certainly garnering a lot of attention. Her influence seems to be spreading.~
+@67050 = ~It's not all bad news to the north. The people of Innisfall village managed to escape just hours, minutes even, before the crusade attacked. They lost some supplies, but no lives. That's something, right?~
+@67051 = ~Important Events
+
+Looks like the crusade is building a presence at Bridgefort.~
+@67052 = ~I've had words with Bence Duncan about those commanding our forces at Dragonspear. Marshal Nederlok's good people, lives and breathes the Flaming Fist. General Stonehand of Daggerford's a bit of a handful, apparently. It's Cedric deLancie of Waterdeep you've gotta be careful of. He's a schemer, that one. You can't trust a schemer.~
+@67053 = ~Important Events
+
+The three commanders of the armies are Marshal Nederlok of the Flaming Fist, General Stonehand of Daggerford's milita, and Torsin deLancie of the Waterdeep City Guard.~
+@67054 = ~Some are saying those what fled Bridgefort and ended up in Soubar maybe would've been better off if they'd not fled at all. Two people want to rule the place, both are vicious, and the refugees are caught in the middle.~
+@67055 = ~Important Events
+
+The rest of Faerûn has its own share of problems, it seems.~
+@67056 = ~Say, you haven't been having any, er, visions or anything like that lately, have you? There's a man in a hood, lots of scars on his face, been asking. I don't like talking to him, but I like the look he gives me when I don't talk to him even less, you know?~
+@67057 = ~Disturbing Implications
+
+The strange man in the hood was here asking about me. What could he want? What's his interest in me?~
+@67058 = ~Things in the Gate have gotten even worse since we left. People are rioting at the Ducal Palace's gates, so I'm told, an' the only break a Flaming Fist gets now is a few hours before they're resurrected.~
+@67059 = ~Important Events
+
+The crusade's movements are starting to affect the cities. Trade routes are disrupted and goods aren't reaching people.~
+@67060 = ~That girl that joined the Fist just before we left the Gate? Watch yourself around her. She's not just another soldier. Can't say more than that, but watch yourself. She's got friends in high places.~
+@67061 = ~Skie's Grand Plan
+
+Word that Skie Silvershield is not who she claims to be has begun to spread through the camp. Whether people know she is a Grand Duke's daughter, I am not sure.~
+@67062 = ~If you're looking to enjoy a game of chance, ask around for Col. But remember what my mother told me: If you can't afford to lose it, make sure you don't bet it.~
+@67063 = ~Important Events
+
+Gossip regarding the commanders and soldiers in camp is taking up the soldiers' time. Once we move on the castle, there will be less time for idle speculation.~
+@67064 = ~You feeling all right? You may be the only one. deLancie and the other commanders are trying to keep it quiet, but plague's spreading through the camp. And I hear the clerics aren't having any luck stopping it.~
+@67065 = ~The Uncommon Cold
+
+A sickness spreads through camp. It must be stopped before more people fall ill.~
+@67066 = ~You know the dragon atop Dragonspear isn't Daeros Dragonspear's dragon? Is that weird or what?~
+@67067 = ~Important Events
+
+Gossip regarding the commanders and soldiers in camp is taking up the soldiers' time. Once we move on the castle, there will be less time for idle speculation.~
+@67068 = ~I heard Caelar's zealots leveled what was left of the dwarf houses around Dragonspear. Filled in the cellars, everything. It's a disgrace, is what it is.~
+@67069 = ~Important Events
+
+The crusade is building a strong presence at Dragonspear Castle.~
+@67070 = ~That Torsin deLancie is as cold as they come. He doesn't care a whit for his people, honor, anything but getting himself ahead. If he weren't so good at it, someone would've put a knife 'twixt his shoulders years ago.~
+@67071 = ~Important Events
+
+Gossip regarding the commanders and soldiers in camp is taking up the soldiers' time. Once we move on the castle, there will be less time for idle speculation.~
+@67072 = ~You heard about this Elvaius fellow? Always manages to disappear just before trouble starts, so they say. If everyone were like him, there'd be no war because nobody'd hang around to fight it.~
+@67073 = ~Important Events
+
+Gossip regarding the commanders and soldiers in camp is taking up the soldiers' time. Once we move on the castle, there will be less time for idle speculation.~
+@67074 = ~I was talking to that Dugdeep gel. She's mad as hats on a mongoose, that one. Says the Lords of Waterdeep are planning to transport Mirabar stone for construction in the city. Lunacy!~
+@67075 = ~Important Events
+
+Gossip regarding the commanders and soldiers in camp is taking up the soldiers' time. Once we move on the castle, there will be less time for idle speculation.~
+@67076 = ~I hear there's a rift 'twixt the Prime and the Fugue Plane in Dragonspear Castle. Wonder if that's why the crusade's made its base there?~
+@67077 = ~Important Events
+
+A portal to the Fugue Plane apparently exists beneath Dragonspear Castle. That's the plane where the spirits of the dead visit.~
+@67078 = ~Used to be Dragonspear Castle was crawling with all manner of monster. Then Caelar took it over and cleared it out—singlehandedly, so they say. You gotta wonder if she's better or worse than what was there before?~
+@67079 = ~Important Events
+
+It seems there are few who are not fascinated with Caelar Argent. Even in the camp of the coalition of forces arrayed against her, some think she may be the lesser of the evils that might reside within Dragonspear Castle.~
+@67080 = ~Officially, there's no thieves' guild in Waterdeep. That may be true, I don't know, I don't live in Waterdeep. But someone's working to put one together in camp, I can tell you that much.~
+@67081 = ~Den of Thieves
+
+I've heard rumors that a thieves' guild is starting up in camp. This could undermine the strength of our troops.~
+@67082 = ~Sounds like Vigilant Halasan's about had it with the soldiers she's been ordered to train. Way things are going, some of 'em may not live long enough to make it to Dragonspear.~
+@67083 = ~Troop Train
+
+Vigilant Halasan might need a hand training some new recruits.~
+@67084 = ~My people tell tales of a lost dwarven village that used to be around here. Kanaglym, it was called—built on the bank of an underground river that stole the memories of those that lived there.~
+@67085 = ~Important Events
+
+The ruins of a dwarven city, Kanaglym, lie somewhere in the area.~
+@67086 = ~I heard not all the crusade's prisoners willingly bend their knee to Caelar. Some are taken into caverns beneath Dragonspear, never to be heard from again. That's what some are saying, anyway.~
+@67087 = ~Important Events
+
+The crusade makes use of caverns beneath Dragonspear Castle.~
+@67088 = ~A band of clerics, clerics of all different gods, went to Dragonspear to try and convince Caelar to abandon her crusade. They were promised an audience, but the night before it was to happen, they disappeared, every last one of them, so I've heard. What does that tell you, eh?~
+@67089 = ~Important Events
+
+The crusade is building a strong presence at Dragonspear Castle.~
+@67090 = ~You know that hooded fellow, the one with the scars? You might want to watch him. I heard him talking to a couple of Daggerfordians, telling 'em things about you. Don't know if they're true or not, but either way they weren't the sort of thing that's gonna win you any admirers, you know?~
+@67091 = ~Disturbing Implications
+
+The strange man in the hood was here asking about me. What could he want? What's his interest in me?~
+@67092 = ~Important Events
+
+The Flaming Fist has too much to handle with the amount of people currently in the city.~
+@67093 = ~Important Events
+
+Rumors are flying about the leader of the crusade. I've heard speculation that she might be a Bhaalspawn. I hope I have no further surprise relatives waiting for me.~
+@67094 = ~Important Events
+
+With all the refugees in the city, business is going well for local merchants. That bounty will end if the crusade disrupts trade routes into the city, though.~
+@67095 = ~Important Events
+
+The rest of Faerûn has its own share of problems, it seems.~
+@67096 = ~Important Events
+
+The citizens of Baldur's Gate are worried that the crusade might attack the city. The loss of life in such a battle would be devastating.~
+@67097 = ~Important Events
+
+The Flaming Fist has too much to handle with the amount of people currently in the city.~
+@67098 = ~Important Events
+
+The Iron Throne building is now used as a place to house refugees. Strange that that place of commerce and greed is now used as a haven of charity.~
+@67099 = ~Important Events
+
+My presence in the city is known, but not everyone thinks my actions here are for the best.~

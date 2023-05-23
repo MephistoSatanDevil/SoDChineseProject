@@ -1,0 +1,424 @@
+@51941 = ~Shapur~
+@51942 = ~Drow War Mage~
+@51943 = ~Drow War Scout~
+@51944 = ~Drow Blademaster~
+@51945 = ~Drider~
+@51946 = ~Therli~
+@51947 = ~Kaelet~
+@51948 = ~Umar~
+@51949 = ~House Ryrrl Insignia~
+@51950 = ~This silver insignia bears the crest of a drow family.
+
+STATISTICS:
+
+Weight: 1~
+@51951 = ~House Catanzaro Insignia~
+@51952 = ~Rhinoceros Beetle~
+@51953 = ~The Drow Runaways~
+@51954 = ~The Drow Runaways
+
+Two adolescent drow have gone missing, and it's caused conflict between the drow and the crusaders. If I can find the drow, I can save some lives.~
+@51955 = ~The Drow Runaways
+
+I found the drow runaways, but they were quickly killed by an ankheg. I'd better return to Shapur and inform her of their deaths.~
+@51956 = ~The Drow Runaways
+
+I found the drow runaways, but they begged me not to return them to their families. I agreed to pretend they were dead. They gave me their house insignias to show to Shapur.~
+@51957 = ~The Drow Runaways
+
+I found the drow runaways and convinced them to return home. They will meet me back at the battle site where the drow face off against crusaders.~
+@51958 = ~Drow Flail +3~
+@51959 = ~The flail is a sturdy wooden handle attached to an iron rod, a wooden rod with spikes, or a spiked iron ball. Between the handle and its implement is either a hinge or chain link. The weapon was originally used as a tool for threshing grain.
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.
+
+STATISTICS:
+
+THAC0: +3
+Damage: 1d6+4 (crushing)
+Speed Factor: 4
+Proficiency Type: Flail/Morning Star
+Type: One-handed
+Requires:
+ 13 Strength
+
+Weight: 15~
+@51960 = ~Drow Bolt of Sleep +1~
+@51961 = ~A target hit by this bolt must save vs. Poison or fall asleep for 4 rounds. The drow often use these bolts when capturing slaves.
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.
+
+STATISTICS:
+
+Combat abilities:
+– Hit target must save vs. Poison or sleep for 4 rounds
+
+THAC0: +1
+Damage: 1d8+1 (missile)
+Launcher: Crossbow
+
+Weight: 0~
+@51962 = ~Drow Bolt of Stunning +1~
+@51963 = ~A target hit by this bolt must save vs. Death or be stunned for 4 rounds.
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.
+
+STATISTICS:
+
+Combat abilities:
+– Hit target must save vs. Death or be stunned for 4 rounds
+
+THAC0: +1
+Damage: 1d8+1 (missile)
+Launcher: Crossbow
+
+Weight: 0~
+@51964 = ~Drow Bolt +1~
+@51965 = ~Quarrels or bolts are the ammunition fired by crossbows regardless of the weapon's size. However, this bolt has been imbued with a small amount of magical properties which enhances performance in flight, almost as if the bolt was guided towards its target.
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.
+
+STATISTICS:
+
+THAC0: +1
+Damage: 1d8+1 (missile)
+Launcher: Crossbow
+
+Weight: 0~
+@51966 = ~Drow Elven Chain +3~
+@51967 = ~The delicate yet sturdy craftsmanship of the elven races allows them to design many beautiful yet utilitarian goods. Among these is elven chain mail, which is so finely wrought that it can be worn under normal clothing without revealing its presence. This and its lightness allows it to be worn by Thieves and Fighter/Mages with few restrictions.
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.
+
+This magical drow chain mail gives the wearer a bonus of 5% to Magic Resistance and takes 1 off of the Speed Factor of all spells cast by the wearer of the armor.
+
+STATISTICS:
+
+Equipped abilities:
+– Magic Resistance: +5%
+– Improves casting time by 1
+– Open Locks: -5%
+– Find Traps: -5%
+– Pick Pockets: -20%
+– Move Silently: -10%
+– Spellcasting is not disabled
+
+Armor Class: 2 (0 vs. slashing, 4 vs. crushing)
+Requires:
+ 5 Strength
+
+Weight: 12~
+@51968 = ~Drow Adamantine Chain +5~
+@51969 = ~The sturdy craftsmanship of the drow allows them to design many beautiful yet utilitarian goods. Among these is drow chain mail, which is so finely wrought that it can be worn under normal clothing without revealing its presence. This and its lightness allows it to be worn by Thieves and Fighter/Mages with few restrictions.
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.
+
+STATISTICS:
+
+Equipped abilities:
+– Open Locks: -5%
+– Find Traps: -5%
+– Pick Pockets: -20%
+– Move Silently: -10%
+– Spellcasting is not disabled
+
+Armor Class: 0 (-4 vs. crushing)
+Requires:
+ 5 Strength
+
+Weight: 12~
+@51970 = ~Drow Piwafwi Cloak~
+@51971 = ~The cloak can be made in every possible shape with just about every type of fabric. The most common forms are a circular piece of fabric with a hole in the center for the head, and fabric draped from neck, connected by a chain, brooch, cord, or pins. Talented drow weavers have woven strands of adamantine into the cloak, thus rendering it useless if exposed to the light, the effect of which will turn the cloak to dust.
+
+STATISTICS:
+
+Equipped abilities:
+– Move Silently: +75%
+– Hide In Shadows: +75%
+– Save vs. Breath: +6
+
+Weight: 3~
+@51972 = ~Adamantine Dust~
+@51973 = ~This is a pile of adamantine dust, most likely the end result of exposing a drow item to the light of day.
+
+STATISTICS:
+
+Weight: 3~
+@51974 = ~Drow Full Plate +3~
+@51975 = ~Full plate armor is the best armor a warrior can buy, both in appearance and protection. The perfectly fitted interlocking plates are specially angled to deflect arrows and blows, and the entire suit is carefully adorned with rich engraving and embossed detail. This drow armor will dissolve to dust if exposed to sunlight.
+
+STATISTICS:
+
+Armor Class: -2 (-5 vs. slashing, piercing, and missile)
+Requires:
+ 15 Strength
+
+Weight: 70~
+@51976 = ~Drow Shield +3~
+@51977 = ~A medium shield is carried in the same manner as a small shield. Unlike the small shield, however, its weight prevents the character from using <PRO_HISHER> shield hand for anything other than carrying the medium shield. Medium shields are usually made of metal, range from three to four feet in diameter, and can be of any shape, from round to square to a dragon's spread wings. A typical medieval shield resembles a triangle with one point facing downward.
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4
+
+Requires:
+ 12 Strength
+
+Weight: 7~
+@51978 = ~Drow Lance +3~
+@51979 = ~One of the earliest weapons, dating back to the most primitive of times, the first spears were simply wooden poles or sticks sharpened at one end. This drow lance is a superior version of the traditional spear, often used by drow foot soldiers.
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.
+
+STATISTICS:
+
+THAC0: +3
+Damage: 1d6+3 (piercing)
+Speed Factor: 3
+Proficiency Type: Spear 
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 5~
+@51980 = ~Drow Scimitar +3~
+@51981 = ~The long, curved, single-edged blade is characteristic of both the saber and the scimitar, even though their origins lie in different parts of Faerûn.
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight. 
+
+STATISTICS:
+
+THAC0: +3
+Damage: 1d8+3 (slashing)
+Speed Factor: 2
+Proficiency Type: Scimitar/Wakizashi/Ninjatō
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 3~
+@51982 = ~Drow Long Sword +3~
+@51983 = ~These swords are usually referred to as double-edge swords, war swords, or military swords. In many cases, the long sword has a single-edged blade. Most long swords have a double-edged blade and a sharp point at the tip. Despite the tip, the long sword is designed for slashing, not thrusting.
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.
+
+STATISTICS:
+
+THAC0: +3
+Damage: 1d8+3 (slashing)
+Speed Factor: 2
+Proficiency Type: Long Sword
+Type: One-handed
+Requires:
+ 6 Strength
+
+Weight: 4~
+@51984 = ~Drow Crossbow of Speed +3~
+@51985 = ~A crossbow is a bow mounted crosswise on a wooden or metal shaft, the latter called a tiller. The bow is usually made of ash or yew. The crossbow fires a quarrel (also called a bolt).
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.
+
+STATISTICS:
+
+Combat abilities:
+– 1 extra attack per round
+
+THAC0: +3
+Damage: +3 (missile)
+Speed Factor: 1
+Proficiency Type: Crossbow
+Type: Two-handed
+Requires:
+ 8 Strength
+
+Weight: 5~
+@51986 = ~Drow Dart of Sleep +1~
+@51987 = ~A target hit by this dart must save vs. Poison or fall asleep for 4 rounds. The drow often use these darts when capturing slaves.
+
+This item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.
+
+STATISTICS:
+
+Combat abilities:
+– Hit target must save vs. Poison or sleep for 4 rounds
+
+THAC0: +1
+Damage: 1d3+1 (missile)
+Speed Factor: 2
+Proficiency Type: Dart
+Type: One-handed
+
+Weight: 0~
+@51988 = ~Lolth be praised! All victory is her doing!~ [DRPRIS01]
+@51989 = ~Watch all about, warily, and the goddess may give you the gift of continued life!~ [DRPRIS02]
+@51990 = ~If the Queen of the Demonweb Pits calls for your heart, you shall surrender it gladly!~ [DRPRIS03]
+@51991 = ~All glory for the Dark Mother!~ [DRPRIS04]
+@51992 = ~~ [DRPRIS05]
+@51993 = ~~ [DRPRIS06]
+@51994 = ~None shall escape the wrath of the Dark Mother!~ [DRPRIS07]
+@51995 = ~Do as the matrons order and live.~ [DRFEM101]
+@51996 = ~Lolth be praised.~ [DRFEM102]
+@51997 = ~The destiny of the drow is to conquer all.~ [DRFEM103]
+@51998 = ~Do not cast your shadow upon me! I've much to accomplish, and none of it involves you.~ [DRFEM104]
+@51999 = ~~ [DRFEM105]
+@52000 = ~~ [DRFEM106]
+@52001 = ~Darkness take you! Enemies!~ [DRFEM107]
+@52002 = ~Do not question the matron mothers.~ [DRMEN101]
+@52003 = ~The path to supremacy for a male lies either in the bedchamber or the books of the mages.~ [DRMEN102]
+@52004 = ~To walk apart from House and Queen is to walk into the grave.~ [DRMEN103]
+@52005 = ~At your command!~ [DRMEN104]
+@52006 = ~~ [DRMEN105]
+@52007 = ~~ [DRMEN106]
+@52008 = ~The drow rule supreme!~ [DRMEN107]
+@52009 = ~I hail from a fallen House and am therefore without worth.~ [DRSLV101]
+@52010 = ~Would that things were different... alas, I have incurred the wrath of the Dark Mother.~ [DRSLV102]
+@52011 = ~Things... things could be worse. I could have been made into a... a drider.~ [DRSLV103]
+@52012 = ~I... I am here to serve.~ [DRSLV104]
+@52013 = ~~ [DRSLV105]
+@52014 = ~~ [DRSLV106]
+@52015 = ~Through destiny and might, we shall rule supreme!~ [DRSOL101]
+@52016 = ~At your command!~ [DRSOL102]
+@52017 = ~Victory for the Spider Queen!~ [DRSOL103]
+@52018 = ~The best surfacer is a dead surfacer!~ [DRSOL104]
+@52019 = ~~ [DRSOL105]
+@52020 = ~~ [DRSOL106]
+@52021 = ~In the name of Lolth, we fight!~ [DRSOL107]
+@52022 = ~Myrlochar~
+@52023 = ~~
+@52024 = ~~
+@52025 = ~~
+@52026 = ~Glint Gardnersonson
+
+I should keep watch for any of Glint's relatives.
+
+A most interesting fellow has insinuated himself in the Flaming Fist caravan, apparently with no one in the caravan noticing. His name is Glint "Three-Eyes" Gardnersonson. He's heading into crusade territory seeking news of his relatives. I shall help him learn their fate.~
+@52027 = ~An interesting fellow insinuated himself in the Flaming Fist caravan, apparently with no one in the caravan noticing. His name is Glint "Three-Eyes" Gardnersonson. He latched onto our troupe as a way to go into crusade territory with some protection. He seeks news of his relatives. I told him to inform the camp commander of his presence.~
+@52028 = ~Glint Gardnersonson
+
+I should keep watch for any of Glint's relatives.
+
+A gnome named Gardnersonson insinuated himself in the Flaming Fist caravan, apparently with no one in the caravan noticing. He latched onto our troupe as a way to go into crusade territory with some protection. He risks his life to learn how family members in Caelar's territory fare. A fool's errand, but "Three-Eyes" may have uses.~
+@52029 = ~The Family Gardnersonson
+
+Help Glint learn the fate of the Gardersonsons affected by Caelar's crusade.~
+@52030 = ~Glint Gardnersonson
+
+I should keep looking for more of Glint's relatives on our travels.
+
+At least one of Glint Gardnersonson's relatives in the territory held by Caelar is alive and relatively well. His uncle, Hoach Randymonk, has taken shelter in Bridgefort.~
+@52031 = ~Glint Gardnersonson
+
+I should return to Hoach Randymonk in Bridgefort in 1 day for my boots.
+
+At least one of Glint Gardnersonson's relatives in the territory held by Caelar is alive and relatively well. His uncle, the cobbler Hoach Randymonk, has taken shelter in Bridgefort. I've hired him to repair the boots—well, the boot and a half—I found around Coast Way Bridge.~
+@52032 = ~A gnome cobbler in Bridgefort has agreed to repair the boots—well, the boot and a half—I found near the Trade Way Bridge.~
+@52033 = ~Glint Gardnersonson
+
+Hoach Randymonk has finished repairing my Boots of Speed. ~
+@52034 = ~Glint Gardnersonson
+
+I should talk to Hoach Randymonk in Bridgefort about a refund.
+
+Hoach Randymonk's Boots of Speed would have been better called Boots of Too Much Speed. Fortunately, no one died. Unfortunately, what's left of the boots is completely useless now.~
+@52035 = ~Glint Gardnersonson
+
+I managed to secure a refund from Hoach Randymonk for his defective Boots of Speed.~
+@52036 = ~Glint Gardnersonson
+
+Thanks to Glint, I was able to secure a refund from Hoach Randymonk for the defective Boots of Speed he sold me.~
+@52037 = ~Glint Gardnersonson
+
+My next step is to look for Pritchard Gardnersonson.
+
+I must find the gnome Pritchard Gardnersonson and find a way to reduce his negative influence on the camp.~
+@52038 = ~Glint Gardnersonson
+
+My next step is to look for Pritchard Gardnersonson.
+
+A pair of militiamen from Daggerford seem to be having difficulty with their commanding officer, a gnome by the name of Pritchard Gardnerson.~
+@52039 = ~Glint Gardnersonson
+
+My next step is to look for Pritchard Gardnersonson.
+
+A pair of militiamen from Daggerford seem to be having difficulty with their commanding officer, a gnome by the name of Pritchard Gardnerson. I have agreed to resolve their difficulties, in exchange for a couple of valuable potions.~
+@52040 = ~Glint Gardnersonson
+
+Pritchard is apparently making a nuisance of himself.
+
+General Stonehand of the Daggerford militia is extraordinarily permissive when it comes to criticism from her underlings... But I suspect her patience is beginning to wear thin when it comes to a gnome named Pritchard.~
+@52041 = ~Glint Gardnersonson
+
+General Stonehand of the Daggerford militia is extraordinarily permissive when it comes to criticism from her underlings... How she rose to a command position in any organization defies reason.~
+@52042 = ~Glint Gardnersonson
+
+It seems I must deliver a beating to Pritchard Gardnersonson.
+
+If I beat Glint's cousin Pritchard Gardnersonson to a bloody pulp, I could save his life.~
+@52043 = ~Glint Gardnersonson
+
+It seems I must deliver a beating to Pritchard Gardnersonson.
+
+Glint has made a most unusual request, and one that I look forward to accommodating at the earliest opportunity. He wants me to beat up his cousin Pritchard to prevent the fellow from getting killed.~
+@52044 = ~Glint Gardnersonson
+
+I should continue to watch for Glint's relatives on our travels.
+
+Glint loves his cousin Pritchard, but fears for his safety in the allied camp. Having met the man, I can say Glint's fears are well-founded. However, I couldn't do as Glint asked and drive Pritchard away. When the time comes to face Caelar, we'll need every man we can get.~
+@52045 = ~Pritchard's Family Stiletto +2~
+@52046 = ~This thin, nasty-looking blade was wielded by the gnomish Gardnersonson family in two Dragonspear Wars. Though delicate in appearance and obviously designed for a smaller than human hand, the weapon is extraordinarily effective when turned against ogres, giants, ettins, and other similarly sized creatures.
+
+STATISTICS:
+
+Equipped abilities: 
+– Armor Class: +2 vs. giant humanoids
+
+THAC0: +2, +4 vs. giant humanoids
+Damage: 1d4+2 (piercing), +4 giant humanoids
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1~
+@52047 = ~Glint Gardnersonson
+
+I should continue to watch for Glint's relatives on our travels.
+
+Pritchard Gardnersonson won't be bothering anyone in the Daggerford militia anymore.~
+@52048 = ~Glint Gardnersonson
+
+I should continue to watch for Glint's relatives on our travels.
+
+Pritchard Gardnersonson has been driven from the Dragonspear siege camp. Before he left, he gifted Glint with a family heirloom—a dagger wielded by Glint's uncle in the last Dragonspear War.~
+@52049 = ~Glint Gardnersonson
+
+I should continue to watch for Glint's relatives on our travels.
+
+I didn't actually kill Pritchard Gardnersonson, but his ""friends"" don't need to know that. With Pritchard dealt with we can resume our search for the rest of Glint's relatives.~
+@52050 = ~Is there anything better than being rewarded for pursuing one's passions? I think not.~
+@52051 = ~Nimblefinger Gloves~
+@52052 = ~Fashioned from the finest doeskin available, this pair of gloves was obviously designed for gnomish hands (though dwarves and other shorter races might also be able to use them). For the right wearer, the gloves offer protection and comfort in equal proportion. Fitting like a second skin, the user becomes more sensitive to what their hands are doing; this added focus increases the wearer's nimbleness and dexterity.
+
+STATISTICS:
+
+Equipped abilities:
+– Dexterity: +2 for gnomes, +1 for halflings, dwarves, and goblins
+– Pick Pockets: +25%
+– Set Traps: +25%
+
+Weight: 2~
+@52053 = ~Important Events
+
+I should take Rhonda to speak with the ogres that lift people up into Dragonspear Castle.
+
+Glint's cousin, Rhonda, was taken by the crusade and forced to work as a seamstress in the warrens beneath Dragonspear Castle. She knows the ogres who man the lift up to the castle's basement, and has agreed to help us convince them to allow us passage.~
+@52054 = ~Glint Gardnersonson
+
+I told Rhonda that she should escape.
+
+I encountered Rhonda, a young gnome torn from her family and forced to serve the crusade as a seamstress, in the warrens beneath Dragonspear Castle. I advised her to flee through the underground river caverns. She'll not have a better chance to escape than she does now.~
+@52055 = ~Glint~

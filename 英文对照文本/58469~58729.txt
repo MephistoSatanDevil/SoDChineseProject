@@ -1,0 +1,427 @@
+@58469 = ~Spider Lair~
+@58470 = ~Seven-Legged Spider~
+@58471 = ~Judging from the rumbling and chittering, something very large has entered the caverns.~
+@58472 = ~Beetles and Spiders
+
+I have collected a few of the eggs spread throughout the cavern. Spiders have no familial bond, so the eggs' mother will not miss them overmuch. I'm not sure what I will do with these things—only certain species of giant insect find them desirable as foodstuffs. But nature provides nothing that is without purpose. I will find a use for them in time, I'm sure.~
+@58473 = ~Beetles and Spiders
+
+Something has entered the spider cave. It sounds like something big. I should find the source of the noise.~
+@58474 = ~Beetles and Spiders
+
+I discovered a giant rhino beetle was making all the noise in the caverns.~
+@58475 = ~Beetles and Spiders~
+@58476 = ~Hit Points Lowered~
+@58477 = ~Hit Points Increased~
+@58478 = ~Gloves of Gripping~
+@58479 = ~Found in the possession of Einer the ogre, these gloves, while roomy, give you a measure of gripping power, even to greased metal.
+
+STATISTICS:
+
+Weight: 2~
+@58480 = ~I will. When I'm ready.~
+@58481 = ~It's a feather. A FEATHER. What in the Nine Hells do you have in there that you can't find room for a feather?~
+@58482 = ~If there's any chance we can learn more about the crusade's plans, we have to take it.~
+@58483 = ~I was young, angry, and rebellious, then. I'm not that woman anymore. Whatever Beno and I once shared is long dead. I got Rohma, so I'm not complaining.~ [BD58483]
+@58484 = ~Beno fathered your daughter?~
+@58485 = ~I take it he hasn't been much involved in Rohma's life.~
+@58486 = ~I see. All right, then. Best we avoid the man.~
+@58487 = ~Thank you, <CHARNAME>. I appreciate this. Let's go.~ [BD58487]
+@58488 = ~She saw the Shining Lady's light, as did we all. Caelar's radiance touches the lives of many, even those who serve the Fist.~
+@58489 = ~Corwin and I heard the truth of the Shining Lady's words. We joined together.~
+@58490 = ~She's with me. We have come to see what Caelar Argent has to offer us. It makes more sense to hear out a dissenting voice than to instinctively denounce it as the words of an enemy.~
+@58491 = ~Caelar pays better than the Flaming Fist.~
+@58492 = ~You abandoned Schael and your daughter years ago. She owes you nothing.~
+@58493 = ~You've got an awfully possessive tone in your voice, friend. Could it be Schael Corwin's suckered another fool into her arms?~ [BD58493]
+@58494 = ~She's an incredible woman. You were a fool to let her go.~
+@58495 = ~That's none of your business. Now do you have a job around here or do you just harass loyal crusaders all day?~
+@58496 = ~If it's a fight you want, you're precious close to getting one.~
+@58497 = ~<CHARNAME>, stop. You're giving him what he wants. Let's go.~ [BD58497]
+@58498 = ~That's right, you should go. Before I tell you what your new lady is really like.~ [BD58498]
+@58499 = ~What do you mean by that?~
+@58500 = ~As if I'd give any weight to the words of a man who abandoned his most important responsibility.~
+@58501 = ~We're going. You'd be wise to do the same.~
+@58502 = ~She puts up a great front. Strait-laced Schael, daughter of the ever-stoic Audamar. Bet she didn't tell you about her younger days, running around with all types, getting them into trouble. Take care. She'll ruin you like she did me.~ [BD58502]
+@58503 = ~I'd committed to changing when we met, Beno. I wanted a new life. We might have made it work if you hadn't left.~ [BD58503]
+@58504 = ~The past is the past. I know who you are now, Corwin. That's all that matters to me.~
+@58505 = ~Sounds like you've some interesting tales to tell, Corwin. I look forward to hearing them.~
+@58506 = ~Enough. I'm putting an end to this. Keep talking, Famari, and I'll put an end to YOU.~
+@58507 = ~I've more important things to do than talk right now. The Shining Lady bid us ready ourselves for the attack just as soon as she and Hephernaan finish whatever they're up to in the castle.~ [BD58507]
+@58508 = ~Get on your way. ~ [BD58508]
+@58509 = ~I thought, after all this time, he wouldn't be able to hurt me anymore. Or at least that I'd be less angry.~ [BD58509]
+@58510 = ~He was a big part of your life. Of course you'd still feel emotional around him.~
+@58511 = ~What you need is more distractions. Delightful distractions.~
+@58512 = ~He's a boor and an idiot. Put him in the past where he belongs.~
+@58513 = ~I just—every time I see him I want to claw his eyes out. I hate that he can still rile me up like that. I wish I could ignore him. Forget him.~ [BD58513]
+@58514 = ~He's Rohma's father, even if he was never around for her. Your reactions are perfectly natural, Schael.~
+@58515 = ~Do you still care about him?~
+@58516 = ~Then put him out of your mind. We have more important things to focus on.~
+@58517 = ~I worry so much about Rohma. Whenever I look at Skie Silvershield, I think... Well, this might amuse you, but I was a lot like Skie at her age. I didn't appreciate what I had, and I thought the world owed me everything.~ [BD58517]
+@58518 = ~Believe me, you are NOTHING like Skie.~
+@58519 = ~We all do foolish things in our youth. Well, most of us. Some of us are locked up in a dusty library because we're secretly the spawn of evil gods.~
+@58520 = ~Rohma will be fine. Now come on, we have to get moving.~
+@58521 = ~I grew out of my wild behavior eventually, thanks to my father. Skie hasn't, though. Maybe she never will. What if Rohma turns out like that because I wasn't there enough for her?~ [BD58521]
+@58522 = ~Gods, no. I thought it was love at the time, but it never got close to that, not really. We were doomed from the start.~ [BD58522]
+@58523 = ~So I have nothing to worry about then?~
+@58524 = ~When real love comes into your life, it will be there to stay. I'm sure of it.~
+@58525 = ~Good to know you won't be running after Famari with some idea of making things right. Now let's get moving. We have important business to attend to.~
+@58526 = ~You don't. Believe me, you don't. I, on the other hand...~ [BD58526]
+@58527 = ~Real love did come into my life, the moment I held Rohma in my arms. I hope to someday share the honor of being her parent with the right person.~ [BD58527]
+@58528 = ~No point dwelling on that now. I just wanted to say thank you. That was difficult but it helped having you at my side.~ [BD58528]
+@58529 = ~You're right. Let's go.~ [BD58529]
+@58530 = ~Ring of the Crusade~
+@58531 = ~Two small round topazes flank the symbol of Caelar Argent engraved on this ring's silver band. Such rings testify to the high status of crusaders who have shown their prowess in battle or in some way demonstrated unwavering commitment to the Shining Lady's cause.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +1, +3 vs. demons and devils
+– Saving Throws: +1, +3 vs. demons and devils
+
+Weight: 0~
+@58532 = ~I'll leave you to it, then.~
+@58533 = ~Sickness runs rampant in the camp. Dozens have fallen ill. We do what we can to heal them, but it isn't enough. If we can't find a cure for these people, this siege is finished.~
+@58534 = ~May Ilmater find you worthy. Be well.~
+@58535 = ~Thank the gods for that.~
+@58536 = ~And so you should.~
+@58537 = ~You've done the coalition a great service this <DAYNIGHTALL>, Helvdar. Farewell.~
+@58538 = ~You've done the coalition a great service this <DAYNIGHTALL>, Helvdar. Enjoy the good fortune that will now come your way.~
+@58539 = ~Col, you say. I believe I'm going to have a word with him.~
+@58540 = ~I hope you're right. On an unrelated topic: If I had pieces from a broken holy symbol of Tempus, could you bless them before I repair the icon?~
+@58541 = ~Tell me, do you know a lot about different religions? Their holy symbols, for instance?~
+@58542 = ~And you have my candle. Give it here.~
+@58543 = ~You, help me? I DON'T think so.~
+@58544 = ~You're a traitor, Rendahl. Admit it now and I'll make your death quick.~
+@58545 = ~I've all the proof I need. You are an agent of the Shining Lady. Admit it.~
+@58546 = ~I bring news, Marshal. I discovered evidence of a traitor in camp. I found these notes and traced them back to the spy.~
+@58547 = ~The only reward I want is Caelar Argent's head on a pike.~
+@58548 = ~So you truly don't wish to be healed?~
+@58549 = ~I'll not heal someone who prefers to suffer.~
+@58550 = ~Alternatively, you could write a book. I understand there's quite a market for such material these days.~
+@58551 = ~You could call it "Fifty Shades of What the Hells Was I Thinking."~
+@58552 = ~I might read such a volume. I've a passing interest in the ways lesser men and women satisfy their... gods.~
+@58553 = ~He's a malingerer who'd rather suffer for his god than serve the Sword Coast. You've got to convince him to accept healing.~
+@58554 = ~He's a malingerer who'd rather suffer for his god than serve the Sword Coast. You've got to convince him to accept healing.~
+@58555 = ~My gut says, "As far away from here as possible," but that's hardly helpful.~
+@58556 = ~You can usually find her in the commander's tent. She's helping coordinate the siege. Now if you'll excuse me, duty calls.~
+@58557 = ~I'm sorry, my triage is full of very sick people. I can't deal with Hyreth until I've taken care of my patients. ~
+@58558 = ~Anniversary Gift
+
+I've helped Khalid with his request.
+
+Even after all their time together, even with a war going on, Khalid and Jaheira still find ways to show their love for each other. Khalid makes a good point; we shouldn't wait to tell the people we love how we feel about them. Who knows when it will be too late?~
+@58559 = ~Wilhelmina's Miracle Turnip Juice~
+@58560 = ~According to its creator, this "miracle" juice will regenerate lost limbs, cause deities to bless the drinker, and even help the user speak with the dead. You are fairly sure it is just juiced turnip, however. 
+
+STATISTICS:
+
+Weight: 1~
+@58561 = ~I must speak with Caelar Argent on matters of grave import.~
+@58562 = ~Stand aside. I must speak with Caelar Argent on matters of grave import.~
+@58563 = ~The coalition plans to attack us—soon. I've acquired vital intelligence regarding their strategy that I must relay to Caelar.~
+@58564 = ~You are a servant of the Lady, then?~
+@58565 = ~Of course. See here, I have Caelar's seal.~
+@58566 = ~I'd hardly be standing here talking to you if I weren't, would I?~
+@58567 = ~No, I'm with the coalition. I just thought I'd wander over here and take a tour of Dragonspear Castle. OF COURSE I'm with the crusade! And I must speak with Caelar immediately. Let me pass now.~
+@58568 = ~Don't ask foolish questions.~
+@58569 = ~Pass, then. May the Lady's light shine upon you.~
+@58570 = ~You'll not pass through here without Caelar's seal. Tell me more of your business here.~
+@58571 = ~I bring a message of great import for the Shining Lady. ~
+@58572 = ~The enemy plans to attack us—soon. I've acquired vital intelligence regarding their strategy that I must relay to Caelar.~
+@58573 = ~My business is no business of yours. Let me pass, or suffer the consequences.~
+@58574 = ~Tell me what you would have Caelar know. I'll see to it she is told.~
+@58575 = ~With respect, this is sensitive information, for the Shining Lady's ears alone.~
+@58576 = ~Tell a simple guard the details of the plan to attack Dragonspear? Do you think me mad?~
+@58577 = ~You would have me entrust a guard with vital intelligence? Unacceptable.~
+@58578 = ~If our enemies had the courage to attack, they'd have done it while Caelar was ranging about the Troll Claws.~
+@58579 = ~Do you see how battle-weary I am? Do you see my scars and my old wounds? I am a soldier. A crusader. I know more of these matters than you think and I must speak of them to Caelar.~
+@58580 = ~Things have changed. They believe they've acquired a strategic advantage. Fortunately, the gods smiled upon me—I know their scheme. I must tell Caelar, and soon.~
+@58581 = ~Our enemies have the hero of Baldur's Gate with them now—<PRO_HESHE> is closer than you can imagine. Let me pass that I might tell the Shining Lady of the threat.~
+@58582 = ~If you think I'll let you pass through here on nothing more than your word, you are mad. Now begone. I've better things to waste my time on than the likes of you.~
+@58583 = ~Hrm. Here, take this seal. It will let you pass freely. The Lady's quarters are in the castle's western tower. Go to her, quickly, before the disbelievers rally their forces.~
+@58584 = ~Caelar will thank you for this, my friend—as do I.~
+@58585 = ~You have done a great thing for the crusade this day, friend.~
+@58586 = ~Good. Now mind your post—the coalition's agents are everywhere.~
+@58587 = ~I've done nothing but what any loyal servant of the Shining Lady would. Now go—from the sound of it, we've no time to waste!~
+@58588 = ~<CHARNAME> is here? You have my thanks, friend. I'll send word to the Lady immediately.~
+@58589 = ~It would be best if I told her myself.~
+@58590 = ~I have more to tell her than that.~
+@58591 = ~I was rather hoping to tell her what I've learned face to face...~
+@58592 = ~We all have a role to play in this effort, friend. Go forth and do yours, and let me do mine. Farewell.~
+@58593 = ~More? Tell it to me.~
+@58594 = ~This is sensitive information, for the Shining Lady's ears alone.~
+@58595 = ~Tell a simple guard the coalition's plans to attack Dragonspear? Do you think me mad?~
+@58596 = ~You would have me entrust you with vital intelligence? No, no, that won't do.~
+@58597 = ~If you are truly what you claim to be, you will tell me everything you know. Now. Otherwise, begone—I must tell the Lady of <CHARNAME>'s presence.~
+@58598 = ~They'll not get past me, <PRO_SIRMAAM>, you have my word on that!~
+@58599 = ~Don't feel you have to answer that if you don't want to.~ [BD58599]
+@58600 = ~Believe us, we are here to save lives.~ [BD58600]
+@58601 = ~No, we wouldn't. We're very good at infiltration and espionage. Better than you would believe.~ [BD58601]
+@58602 = ~Stand aside, fool, lest you would have your standing days come to an abrupt and permanent end.~
+@58603 = ~The half-orc has taken leave of its senses. Kill it—kill them all!~
+@58604 = ~Unless you have Caelar's seal, you're not getting through.~
+@58605 = ~I have it right here, friend.~
+@58606 = ~I'll return, then.~
+@58607 = ~Looks like I'll have to fight the entire crusade on my own!~
+@58608 = ~Be on your way.~
+@58609 = ~You're mad... Be on your way, fool.~
+@58610 = ~Did you get through to the Shining Lady?~
+@58611 = ~I didn't, but I did have words with some of our people within. She will receive my message, I'm sure of it.~
+@58612 = ~I did. She is well aware of what is coming.~
+@58613 = ~Unfortunately, no. But I will in the end, I can promise you that.~
+@58614 = ~May she continue to smile upon you, friend.~
+@58615 = ~And on you. Keep up the good work!~
+@58616 = ~Leave me alone! Leave me alone, you animals!~ [BD58616]
+@58617 = ~We take our orders from Caelar Argent, girl—not from you!~
+@58618 = ~What is this now?~
+@58619 = ~Let the girl go, mercenary, or Caelar will know of your deeds this <DAYNIGHTALL>—and she will not be pleased by them, I promise you that.~
+@58620 = ~You'll answer to me now, dead man.~
+@58621 = ~<CHARNAME>! Help me, please! They're going to kill me!~ [BD58621]
+@58622 = ~The hero of Baldur's Gate is here? Kill <PRO_HIMHER>, quickly!~
+@58623 = ~Who are you, then?~
+@58624 = ~I am <CHARNAME>, bane of the Iron Throne and slayer of Sarevok.~
+@58625 = ~I am Ensler of Waterdeep, advisor to the Shining Lady Caelar Argent. Now let the girl go lest I tell her of this—this—this disgusting violation of the trust she has placed in you.~
+@58626 = ~You don't recognize the Barghest?~
+@58627 = ~I am the last thing you'll see in this life if you don't release the woman and leave this place. NOW.~
+@58628 = ~Oh, I recognize the Barghest, all right. But you're not him. Kill <PRO_HIMHER>!~
+@58629 = ~You tell them your name? Of all the...~ [BD58629]
+@58630 = ~Forgive us, my <PRO_LADYLORD>. We meant no harm. We—we'll, uh—we'll be about our business, then...? Yes. All right, people, these woods won't patrol themselves.~
+@58631 = ~Hyreth~
+@58632 = ~Dosia~
+@58633 = ~The Traitor
+
+I should talk to people around camp and ask about the candle, potion bottle, and page of runes.
+
+Safana came to me after picking some pockets around camp. One of her victims was carrying a notebook filled with sensitive information, meaning we might have a spy in camp. I need to investigate and find out who the traitor is. All I have to go on is the other items Safana stole.
+
+One item is a potion bottle with an unusual shape. It might have been purchased in camp. Another item is a heavy candle with a gold leaf design on it. It looks like it might have religious significance. The last item is a page of unusual runes.~
+@58634 = ~The Traitor
+
+Next I can talk to Helvdar at the northern barricade.
+
+This unusual bottle apparently belongs to Helvdar the dwarf. He guards the northern barricade.~
+@58635 = ~The Traitor
+
+I should next speak with this man, Col.
+
+Helvdar the dwarf carries all his potions in bottles matching the one Safana stole. Helvdar told me he lost a potion in a card game last night with two other soldiers, and the winner's name is Col.~
+@58636 = ~The Traitor
+
+I should alert Nederlok about the traitor.
+
+Helvdar the dwarf carries all his potions in bottles matching the one Safana stole. He must have been the traitor. I killed him for his crime.~
+@58637 = ~The Traitor
+
+I should speak to Warden Twoedged.
+
+This encoded page may have come from Warden Twoedged, who works by the commanders' tents.~
+@58638 = ~The Traitor
+
+I should speak next to this soldier, "Col."
+
+The encoded page belonged to retired Warden Simonetta Twoedged. She admitted she lent the book to Malden Col, a member of the Flaming Fist.~
+@58639 = ~The Traitor
+
+I should inform Nederlok about the traitor.
+
+The encoded page belonged to retired Warden Simonetta Twoedged. She tried to talk her way out of it, but I could tell she was the traitor. I executed her.~
+@58640 = ~The Traitor
+
+I should next speak to this soldier, "Col."
+
+A priest of Tempus named Mizhena confirmed that her holy candle was stolen. She suspects a soldier named Malden Col might have taken it.~
+@58641 = ~The Traitor
+
+I should inform Nederlok about the traitor.
+
+When I confronted Malden Col with the evidence I've uncovered, he confessed. He'll be imprisoned and eventually hanged. That we could have a traitor in our midst all this time is disturbing. I should report this development to Marshal Nederlok.~
+@58642 = ~The Traitor
+
+Baxter Rendahl admitted to being the traitor. I executed him for his crime.~
+@58643 = ~The Traitor
+
+I've reported the traitor's name.
+
+I went to Marshal Nederlok with my evidence regarding the traitor. He was upset that I took matters into my own hands but accepts the result of my investigation.~
+@58644 = ~The Traitor
+
+I've reported the traitor's name.
+
+I told Marshal Nederlok of Malden Col's treachery. He was upset at the thought of a traitor in camp but was glad I handled it. We have to be more careful going forward—no one can be trusted.~
+@58645 = ~"My Crusader Allies,
+
+I've attached to this letter a more detailed description of <CHARNAME>, the so-called hero of Baldur's Gate. The descriptions supplied by the Revered have been pitiful at best. I have turned my considerable talent to creating a decent representation of <PRO_HISHER> face. 
+
+Wait outside Dragonspear until <PRO_HESHE> passes by, then make your move. Be careful; <PRO_HESHE> is more powerful than you might expect. Subdue and capture <PRO_HIMHER> and return to the castle. Move quickly. I was almost discovered but was able to implicate another. I will remain in camp and continue to take subtle action against this coalition of fools. They will all fall to the Shining Lady.
+
+–A Friend"~
+@58646 = ~The Traitor
+
+It appears I accused the wrong person of being the traitor in our midst. Not only did an innocent person die, but we still don't know who the spy is. At this point, they're probably long gone.~
+@58647 = ~Traitor's Letter~
+@58648 = ~Pass, then. May the Lady's light shine upon you.~
+@58649 = ~Crusader Officer~
+@58650 = ~The Stone Dowser vibrates in your pack, but it will help you little there. To benefit from its guidance, it must be used as designed and worn round the neck.~
+@58651 = ~You were looking for an aquamarine gemstone, weren't you? I have one.~
+@58652 = ~Y-yes, yes of course, my friend. Battle first and sentiment second. But do let me know if you find any spider's silk all the same.~ [BD58652]
+@58653 = ~Beno Famari~
+@58654 = ~Mercenary~
+@58655 = ~Crusader Uniform~
+@58656 = ~This colorful tunic displays the sigil of Caelar's crusaders.
+
+STATISTICS:
+
+Weight: 10~
+@58657 = ~Crusader Commander~
+@58658 = ~Good enough. See you tonight.~
+@58659 = ~For your sake, I hope that's not true. I would speak with a member of the thieves' guild forming in camp. You will facilitate that—if you know what's good for you.~
+@58660 = ~There're few things I like better than a good secret. Where is Gramorn now?~
+@58661 = ~What exactly is Gramorn up to?~
+@58662 = ~I gather Gramorn's not doing this out of the goodness of his heart. What does he get from this arrangement?~
+@58663 = ~Still here? Was I not clear? Your presence here is a disruption we can ill afford. Make yourself useful and go take care of the caverns beneath Dragonspear.~ [BD58663]
+@58664 = ~I was able to interrogate a member of the camp's would-be thieves' guild. He claimed Reiss Gramorn was behind it all.~
+@58665 = ~I killed several members of the camp's would-be thieves' guild. Unfortunately, I didn't learn their leader's name.~
+@58666 = ~I plan to. But before I do, I would know everything there is to know about Caelar.~
+@58667 = ~"If"? With all due respect, sir, they have a right to know what's happened here.~
+@58668 = ~I tracked Gramorn to Dragonspear Castle. You need concern yourself with him no longer.~
+@58669 = ~The job's done, as you requested.~
+@58670 = ~I plan to. But before I do, I would know everything there is to know about Caelar.~
+@58671 = ~I thought you should know that Aumarr Gramorn has been running a thieves' guild operation in camp.~
+@58672 = ~Good <DAYNIGHTALL>, General Stonehand. I thought you should know: Aumarr Gramorn has been attempting to establish a thieves' guild operation in camp.~
+@58673 = ~Excuse me, ma'am. I must go now.~
+@58674 = ~Say it again. That's an interesting perspective. Have you heard the expression "know your enemy"? Some believe learning all you can about your foe gives you an edge. But I think it's just as important to understand the minds and motivations of those one will fight beside.~
+@58675 = ~You love it so much that you'd sacrifice your life to see it prevail?~
+@58676 = ~As long as Caelar loses more, I'll be satisfied.~
+@58677 = ~As did I. Many thanks for answering my questions.~
+@58678 = ~Thank you for answering my questions, quartermaster. It's much appreciated.~
+@58679 = ~Coast Way Forest~
+@58680 = ~Troll Claw Woods~
+@58681 = ~Forest of Wyrms~
+@58682 = ~Dead Man's Pass~
+@58683 = ~Bloodbark Grove~
+@58684 = ~Troll Shackles~
+@58685 = ~These reinforced steel manacles are extra large to fit a troll's massive wrists.
+
+STATISTICS:
+
+Weight: 5~
+@58686 = ~Sindret~
+@58687 = ~Troll Wrangler~
+@58688 = ~Gnarg's Chest~
+@58689 = ~Clever girl.~
+@58690 = ~I plan to. But before I do, I would know everything there is to know about Caelar.~
+@58691 = ~Still here? Was I not clear? Your presence is a disruption we can ill afford. Make yourself useful and go take care of the caverns beneath Dragonspear.~
+@58692 = ~Old Well~
+@58693 = ~Little Wanderer~
+@58694 = ~Dusty Chicken~
+@58695 = ~Chickens are flightless, domesticated birds valued not only for their tender meat but also for their eggs, a daily morning delicacy in many farms and cities throughout the Sword Coast region. This chicken's feathers are dusty and bedraggled. It could use a bath.
+
+STATISTICS:
+
+Weight: 1~
+@58696 = ~Well Spirit~
+@58697 = ~Troll Breakout~
+@58698 = ~Troll Breakout
+
+I need to find the troll shackles somewhere in camp.
+
+Sindret, a cleric and assistant troll-wrangler, has asked me to fetch special troll shackles. They're apparently in a chest somewhere in camp.~
+@58699 = ~Troll Breakout
+
+I should talk to the troll and convince it to let me shackle it.
+
+I've agreed to try to shackle the troll. Hopefully I can manage it without getting my head bitten off.~
+@58700 = ~Troll Breakout
+
+Sindret took on the task of shackling the troll.
+
+I bluffed Sindret into attempting to shackle the troll herself. Things did not go well for the crusaders.~
+@58701 = ~Troll Breakout
+
+I fought Sindret over who would shackle the troll.
+
+Sindret wanted me to shackle the troll, but I refused. She took offense, and a battle followed.~
+@58702 = ~Troll Breakout
+
+I should talk to Sindret again.
+
+I've successfully shackled Ulori the troll. Hopefully Sindret appreciates my hard work.~
+@58703 = ~Troll Breakout
+
+I should talk to Sindret again.
+
+I tried to put the shackles on the troll but accidentally killed it instead. Hopefully Sindret won't be too upset.~
+@58704 = ~Troll Breakout
+
+I've successfully wrangled the troll.
+
+Looks like I can add "troll wrangler" to my list of accomplishments. The crusade seems to be using the trolls as expendable muscle. I fear that will make the coming battle more difficult for the coalition.~
+@58705 = ~Troll Breakout
+
+I slew the troll the crusaders were trying to shackle.
+
+Sindret wanted me to shackle the troll, but I killed it instead. The crusade seems to be using the trolls as expendable muscle—one fewer to deal with makes things easier for our side, even if Sindret's furious.~
+@58706 = ~I know you well, child of Candlekeep, ward of Gorion. He bid me and my husband watch over you. I am Jaheira.~
+@58707 = ~Forgive me. In the heat of the moment, I didn't recognize you.~
+@58708 = ~Jaheira, yes—Gorion spoke of you. What brings you here? ~
+@58709 = ~Bridgefort Defender~
+@58710 = ~Campbell~
+@58711 = ~Tomb Key~
+@58712 = ~An old key covered in rust, designed in a fashion similar to many doors in the tomb where it was found. It likely opens one or more of the tomb's doors... but if the doors' locks are the same condition as the key, that may no longer be the case.
+
+STATISTICS:
+
+Weight: 1~
+@58713 = ~The Trial~
+@58714 = ~The Trial
+
+I should talk to Valis, Corinth, and other crusaders around the camp to determine if Corinth betrayed the crusade.
+
+I seem to have gotten myself embroiled in a bit of intrigue in the crusaders' camp. One ranger, Valis, accuses another, Corinth, of betrayal. It falls to me to determine the truth of the matter. I should talk to Valis and Corinth as well as crusaders Ravoc, Damarr, and Delton.~
+@58715 = ~The Trial 
+
+I've finished with this pack of crusaders and their trial.
+
+I found myself embroiled in some intrigue in the crusader camp. One ranger accused another of betrayal. I convinced their commander to resolve the issue via trial by combat. Now there's one less crusader between me and their Shining Lady.~
+@58716 = ~The Trial
+
+I should continue to investigate Corinth's actions, then return to Leopas when I have the truth.
+
+The ranger Valis seems utterly convinced that her fellow crusader, Corinth, betrayed the cause. She has no hard evidence that I'm aware of, but she argues her case with such passion that she may not need any.~
+@58717 = ~The Trial
+
+I should continue to investigate Corinth's actions, then return to Leopas when I have the truth.
+
+I had a conversation, if you could call it that, with the orc barbarian Ravoc regarding Valis's accusations against her fellow ranger, Corinth. He doesn't believe Corinth is guilty, if only because he thinks the man is a coward.~
+@58718 = ~The Trial
+
+A gnome suggested I speak to Leopas about someone named Corinth.~
+@58719 = ~The Trial
+
+I discussed the matter of Valis's accusations against Corinth with the gnome wizard Delton. He was rather insistent that Corinth is innocent.~
+@58720 = ~The Trial
+
+I should continue to investigate Corinth's actions, then return to Leopas when I have the truth.
+
+I have spoken with the crusader Damarr regarding Corinth's alleged actions at Innisfall. While she has few doubts that he did what Valis accuses him of, she feels the punishment a guilty verdict will inevitably bring outweighs the severity of the crime.~
+@58721 = ~The Trial
+
+I've finished with this pack of crusaders and their trial.
+
+The conflict 'twixt the crusaders Valis and Corinth has been resolved. I do not know if I did the right thing. I hope I did.~
+@58722 = ~The Trial
+
+I've finished with this pack of crusaders and their trial.
+
+The conflict 'twixt the crusaders Valis and Corinth has been resolved. Did I do the right thing? In truth, I care little. Though I took some enjoyment from playing the role of one, ultimately, crusaders are my enemies.~
+@58723 = ~The Trial
+
+I've finished with this pack of crusaders and their trial.
+
+The conflict 'twixt the crusaders Valis and Corinth has been resolved. I took no little pleasure in pitting the fools one against the other.~
+@58724 = ~Corinth~
+@58725 = ~Valis~
+@58726 = ~Leopas~
+@58727 = ~Delton~
+@58728 = ~Damarr~
+@58729 = ~Ravoc~

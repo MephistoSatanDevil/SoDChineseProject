@@ -1,0 +1,117 @@
+@67120 = ~Dragonscale Armor~
+@67121 = ~This shimmering viridian suit of leather armor is soft and supple despite the strength in the plates of green dragon scale. The wearer of this armor is protected from even the heaviest blows as well as from poison.
+
+STATISTICS:
+
+Equipped abilities:
+– Immunity to poison
+
+Armor Class: 4 (2 vs. slashing, 3 vs. piercing and missile)
+Requires:
+ 6 Strength
+
+Weight: 7~
+@67122 = ~This shimmering viridian suit of leather armor is soft and supple despite the strength in the plates of green dragon scale.
+
+STATISTICS:
+
+Weight: 5~
+@67123 = ~Is my voidstone weapon ready yet?~
+@67124 = ~Is M'Khiin's armor ready yet?~
+@67125 = ~Dragonscale Shield +3~
+@67126 = ~Semahl, his name is. Good enough fellow, not terribly bright—the talhund said a mountain fell on him when he was a babe. Killed his parents, would've killed him if a kind-hearted dwarf hadn't saved him. Anyway.~
+@67127 = ~The shimmering viridian surface of this shield is made of interlocking dragon scales, each one hard as stone. Though thin and light, the shield is strong enough to turn aside even the heaviest blows.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4
+– Save vs. Death: +3
+
+Requires:
+ 8 Strength
+
+Weight: 5~
+@67128 = ~Old Boar~
+@67129 = ~Helvdar's Lucky Charm
+
+I can bring this bearskin to Quartermaster Belegarm.
+
+I tracked down and hunted the bear. Now that I have this bearskin, Belegarm should be able to make a fine pair of boots.~
+@67130 = ~That's true enough, I suppose. All right, I'll see what I can do. Give me a day to work on them and check back.~
+@67131 = ~Helvdar's Lucky Charm
+
+I should return to Quartermaster Belegarm in one day.
+
+Belegarm agreed to make a new pair of boots for Helvdar, though he complained incessantly about it. The boots will be ready in one day.~
+@67132 = ~A word, <CHARNAME>?~ [BD67132]
+@67133 = ~Of course, Captain Corwin. What can I do for you?~
+@67134 = ~ANOTHER one? *sigh* Very well.~
+@67135 = ~Another time, Corwin.~
+@67136 = ~As you wish.~
+@67137 = ~Some of the things people are saying about you concern me.~
+@67138 = ~Such as?~
+@67139 = ~People?~
+@67140 = ~What am I accused of? What is it these people say of me?~
+@67141 = ~Be they civilian, mercenary, royalty, or even deity, I care little what people think of me.~
+@67142 = ~That you were in league with Sarevok, for instance. Some on the fringe claim you are even related.~
+@67143 = ~Like Sarevok, I am a child of Bhaal. But I assure you, a father is all we share.~
+@67144 = ~Regrettably, that last is true. You can choose your friends, but not your family.~
+@67145 = ~There are many who would to see me fall. Spread these vile lies and you'll do nothing but help them. Is that what you want?~
+@67146 = ~Most cheer your name, it's true. But some—a very few, so far, but some—say you have committed crimes against Baldur's Gate. Some accuse you of worse than that.~
+@67147 = ~Yes. Most amusing. But if I could be serious for a moment...~
+@67148 = ~I see this conversation isn't going to be the one I wanted to have. Some other time, then.~
+@67149 = ~My father has a saying: Words can comfort, but blood will tell.~
+@67150 = ~My actions will tell you all you need know of me.~
+@67151 = ~You think I like being a child of the Lord of Murder? I didn't choose to be a sibling to Sarevok. All I can do is try to demonstrate my own merit. If that doesn't satisfy you... Well, it'll have to satisfy you. I can do no more, and shouldn't have to.~
+@67152 = ~A bleak view. I prefer to think one's actions are determined by individual will.~
+@67153 = ~Your father is a fool, and you're no better if you believe that nonsense.~
+@67154 = ~I hope I like what they say. Remember, there are rumors that Caelar is a child of Bhaal as well. That could complicate matters. Significantly.~
+@67155 = ~I want to believe you.~
+@67156 = ~You should. I said nothing but the truth.~
+@67157 = ~It'd make both our lives easier if you did.~
+@67158 = ~Believe this, if nothing else: Caelar Argent tried to kill me and I will pay her back in kind. If you would see the Shining Lady fall, then we are allies, regardless of our history or bloodlines.~
+@67159 = ~Believe what you will. It matters not a whit to me.~
+@67160 = ~Very well. I'll not tell anyone else of your... connection to Sarevok. Even so, take care of how you're seen by those around you. One of those people may be all that stands between you and a sword someday. And if the rumors are true, if Caelar's a child of Bhaal, that could complicate matters. Significantly.~
+@67161 = ~Very well, I'll not speak of your alleged connection to Sarevok, or address any of the other rumors regarding you. But you should take care of how you're perceived by those around you. One of those people may be all that stand between you and a sword someday. And if the rumors are true and Caelar is also a child of Bhaal, that will complicate matters. Significantly.~
+@67162 = ~A word, <CHARNAME>? I want to talk about that little speech you made before we left the Gate.~ [BD67162]
+@67163 = ~Of course, Captain Corwin. What can I do for you?~
+@67164 = ~I wondered when you'd get around to asking about that.~
+@67165 = ~I wondered when you'd get around to asking about that.~
+@67166 = ~That is a desire we do not share.~
+@67167 = ~Some other time, then, perhaps.~
+@67168 = ~Perhaps.~
+@67169 = ~I've said all I have to say on the matter. Do not bring it up again.~
+@67170 = ~As you wish.~
+@67171 = ~Good. I'll talk to you later.~
+@67172 = ~Is it true? Are you a child of Bhaal?~
+@67173 = ~I am. Sarevok was my half-brother.~
+@67174 = ~The truth does me no favors. I am what I said I am. The Lord of Murder was my father.~
+@67175 = ~Does it make a difference?~
+@67176 = ~Did I not say as much? Do you think me a liar?~
+@67177 = ~I assume you can see why this is worrisome.~
+@67178 = ~Is there anything I can do to alleviate your concern?~
+@67179 = ~Not really, no. I am not my father, nor have I any desire to follow Sarevok's lead. I am my own <PRO_MANWOMAN>.~
+@67180 = ~Since I learned the truth I've done little BUT worry about it. Unfortunately, there's not a lot else that can be done, so far as I can tell.~
+@67181 = ~I see why it worries you, but in truth, I don't really care how you feel.~
+@67182 = ~I'll keep that in mind. Thanks.~
+@67183 = ~My father has a saying: Words comfort, but blood will tell.~
+@67184 = ~My actions will tell you all you need know of me.~
+@67185 = ~A bleak view, if he truly believes his words. I prefer to think one's actions are determined by individual will.~
+@67186 = ~Your father is a fool, and you're no better if you believe that nonsense.~
+@67187 = ~I'm to keep you safe as long as I can and I will fulfill my orders. But if you do anything to needlessly endanger the men and women under my command, there will be a price to pay. I trust we understand one another? Good. I'll leave you to your business.~
+@67188 = ~There are some who would enjoy the notoriety. I thought you might be one of those—hoped it, even. It would make things easier were you not a child of the Lord of Murder.~
+@67189 = ~I'll be watching your actions carefully, you may be sure of that.~
+@67190 = ~You're not supposed to be in here!~
+@67191 = ~Sorry, it's my first day. I don't have my robes yet.~
+@67192 = ~I got separated from the tour.~
+@67193 = ~You're absolutely right. Good work there. Now DIE.~
+@67194 = ~You must be new to the worship of the Prince of Lies. We are experienced and you must do everything we say. That means don't interrupt our conversations! Get out of my sight.~
+@67195 = ~Is that the best you can do? You'd best hope you're a better fighter than a liar.~
+@67196 = ~The Mad God laughs at your feeble efforts. Your death will please him!~
+@67197 = ~Stop bothering me, or I'll cut your tongue out while you sleep!~
+@67198 = ~A crown can be made of any precious metal and is usually decorated with gemstones. Heavy crowns can be worn for ceremonial purposes, with lighter diadems or circlets crafted for everyday use.
+
+STATISTICS:
+
+Weight: 1~
