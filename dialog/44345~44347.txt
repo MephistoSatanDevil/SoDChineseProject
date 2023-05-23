@@ -1,0 +1,23 @@
+@44345 = ~Growing weary, you set down for the night. As you drift into sleep, a sudden chill falls over you. Your eyes open, and you are not where you were.
+
+You stand upon a lake of ice. The lake stretches into a haze in every direction, with no shoreline visible. Below, you can make out the form of a terrifying abomination roving along the lake bed, consumed with hatred and malice. It cannot break through the ice to reach you. You are immune to the beast's impotent rage, shielded from its fury.
+
+On the horizon, the sun begins to rise. As it rises, it grows brighter... then brighter still. You try to shield your eyes from its radiance to no avail. Its brilliant light burns your eyes, and you are struck blind. 
+
+An ear-splitting crack fills the air. The ice beneath you rumbles and shifts. You feel yourself falling, but before you land, you awake.~
+@44346 = ~You are on a small raft, drifting over the waters of an unknown sea. For a time, all is calm. The rhythmic slap of the waves against the raft and the prickling of the saltwater air is even pleasurable.
+
+Then the sky begins to darken. Gentle winds grow stronger. Caught in a sudden storm, you cling to the raft as it's tossed wildly about. The waters around you turn black, then red. A familiar scent fills your nostrils. You are floating on a sea of blood.
+
+A bolt of lightning slices down from the darkened sky. It strikes your raft, blasting it to splinters. As you sink beneath waves of blood, you see the dark shapes of buildings, trees, and statues. This land was once above the waves. As you touch the foul sea's bottom, a familiar voice growls in your ear: "Did you think I had left you?" 
+
+You awake.~
+@44347 = ~As you toss and turn in your sleep, the feeling that someone is watching you begins to creep across your mind. You rouse yourself, and your suspicions are confirmed.
+
+Imoen sits before you. You can see her, but she cannot see you. She waits back in her quarters at the Ducal Palace, sitting upon her bed, facing away from the locked door.
+
+Someone knocks at her door, but she continues to look forward. The knocking does not stop; it continues, the impacts on the wood growing in volume and force. Soon the entire door shakes from the furious assault on the other side. Imoen continues to stare through you. 
+
+Whatever is on the other side of the door has a sinister intent. You hear growls, whines, and scratching in addition to pounding. You try to warn Imoen, but no sound comes from your mouth. You try to reach out to her, but you cannot move.
+
+Suddenly, the scrabbling stops. A key can be heard unlocking the door. The handle turns, and the door swings open. The inhuman figure beyond the threshold is shrouded in darkness. Imoen does not look at it, but you now see the terror in her eyes. "He will not be ignored," she says. You awaken.~

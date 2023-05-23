@@ -1,0 +1,280 @@
+@45475 = ~Days of Wine and Stealing
+
+I could sneak into the cellar of the Ducal Palace to obtain ruby wine.
+
+Irina, a halfling employee in the Elfsong Tavern, wants me to pilfer a barrel of ruby wine from the Ducal Palace's cellar. The wine is known to have a sharp, spicy smell.~
+@45476 = ~Days of Wine and Stealing
+
+I've been rewarded for providing a ruby wine substitute.
+
+Irina, a halfling employee in the Elfsong Tavern, was out of ruby wine. I was able to provide her with a substitute and she rewarded me for my trouble.~
+@45477 = ~Stack of Barrels~
+@45478 = ~The wine within these oaken barrels has a deep purple tint.~
+@45479 = ~These dusty oaken barrels have a strong grape scent.~
+@45480 = ~These dusty oaken barrels have a sharp, spicy scent.~
+@45481 = ~These dusty oaken barrels contain a fruity, fragrant liquid.~
+@45482 = ~These dusty oaken barrels contain a dark red, highly concentrated liquid.~
+@45483 = ~Barrel of Wine~
+@45484 = ~Battle Tankard~
+@45485 = ~An oaken barrel filled with wine.
+
+STATISTICS:
+
+Weight: 20~
+@45486 = ~This enormous tankard seems sized for a giant. Indeed, a rune on the tankard's base indicates it may come from the halls of Gerti Orelsdottr far to the north. Someone has carved eye and mouth holes in the tankard's side so it can be used as a helmet. Wine stains and the pervasive smell of stale beer indicate that the wearer of this "helmet" is used to reveling late into the night (or perhaps early into the morning).
+
+STATISTICS:
+
+Equipped abilities:
+– Immunity to fatigue
+– Protects against critical hits
+
+Weight: 2~
+@45487 = ~Days of Wine and Stealing
+
+I procured a barrel of ruby wine for Irina.
+
+Irina, a halfling employee of the Elfsong Tavern, was out of ruby wine. I managed to provide her with a barrel from the Ducal Palace and was rewarded for my efforts.~
+@45488 = ~Cobalt Moss~
+@45489 = ~A scraping of deep blue moss.
+
+STATISTICS:
+
+Weight: 0~
+@45490 = ~Jamven's Head~
+@45491 = ~Chorster's Head~
+@45492 = ~The head of Jamven the druid.
+
+STATISTICS:
+
+Weight: 5~
+@45493 = ~(placeholder) Keg~
+@45494 = ~Crusader Recruit~
+@45495 = ~Irina~
+@45496 = ~Three drops of lemon balm oil... a half-pinch of powdered silver...~ [BD45496]
+@45497 = ~Greetings.~
+@45498 = ~Who are you? What are you doing in a tomb full of traps and mercenaries?~
+@45499 = ~If you are Korlasz, I've come for you. If you're one of her followers, you're in my way. Either way, you're my enemy.~
+@45500 = ~Oh, pardon! I didn't hear you come in. I'm conducting an experiment.~
+@45501 = ~Tell me about this experiment.~
+@45502 = ~In a tomb filled with dangerous mercenaries. Right. Pull the other leg, lady. What are you up to?~
+@45503 = ~Give me a single reason not to slay you where you stand, minion of Korlasz. Make it a good one.~
+@45504 = ~I AM a researcher, I swear! The—the leader of the group here, um, Korlasz, yes, I know her. I supplied her with some rare books in exchange for entry into this tomb.~ [BD45504]
+@45505 = ~What business have you here?~
+@45506 = ~So you ARE allied with Korlasz.~
+@45507 = ~You should not have aligned yourself with Sarevok's minion. That mistake will cost you your life.~
+@45508 = ~No, I'm not, I swear! I only needed into the tomb. After I'm done here, I'll go my own way and never see Korlasz again.~ [BD45508]
+@45509 = ~I'm creating an alchemical concoction to reveal magically concealed writings. A mercenary was supposed to guide me further into the tomb to find the component I'm missing...~ [BD45509]
+@45510 = ~Just now their leader summoned them away, though. She bid me stay here for my own safety. If you happen to come across cobalt moss and bring some to me, I'd be truly grateful.~ [BD45510]
+@45511 = ~Certainly. I'll keep an eye out for some.~
+@45512 = ~Are you allied with Korlasz? I find it hard to believe you just happened to wander down here.~
+@45513 = ~Does it have to be cobalt moss? With my magic, I might be able to concoct a substitute. Let me see what you have here...~
+@45514 = ~I'd be happy to fetch you some, provided you pay for the service.~
+@45515 = ~I've no time to waste running errands for you, old woman.~
+@45516 = ~I don't know the name Korlasz. I did see some tough-looking individuals moving deeper within the tomb. I stayed far away from them. I assure you that I'm only here looking for my alchemical component.~
+@45517 = ~In that case, I'll keep an eye out for this cobalt moss.~
+@45518 = ~It was cobalt moss you're looking for? With my magic, I might be able to concoct a substitute. Let me see what you have here...~
+@45519 = ~I'd be happy to fetch you some, provided you pay for the service.~
+@45520 = ~I don't trust you. I'll be going now.~
+@45521 = ~Yes, I see... crush the anise in with the lemon balm... Let me try it out. Give me one moment.~
+@45522 = ~Oh, thank you. Do come back if you find any.~
+@45523 = ~That's too bad. Come back if you change your mind.~
+@45524 = ~It worked! You're a genius.~ [BD45524]
+@45525 = ~I'm curious—what do you intend to use this potion for?~
+@45526 = ~Simplicity itself, for a practitioner of my skill.~
+@45527 = ~Now tell me your plans for this concoction.~
+@45528 = ~Hello again. ~ [BD45528]
+@45529 = ~I'm still looking for that cobalt moss.~
+@45530 = ~I found the cobalt moss you were looking for.~
+@45531 = ~Best of luck to you.~
+@45532 = ~That's it, yes! The potion is ready!~
+@45533 = ~I'm curious. What exactly are you going to use this potion for?~
+@45534 = ~It was no great feat for a hero of my skill.~
+@45535 = ~Now tell me your plans for this concoction.~
+@45536 = ~Of course, of course! Here's some gold for your troubles. Now the potion is ready!~
+@45537 = ~And you are skilled indeed, yes. You've been such help, I suppose I should tell you why I want such a potion. If all goes according to plan, I'll be able to apply it to a tome in Candlekeep!~
+@45538 = ~Candlekeep? I was raised there.~
+@45539 = ~That will be difficult.~
+@45540 = ~You're joking. This is a joke, no?~
+@45541 = ~I suppose you will do no harm. I want to apply the potion to a rare tome hidden away in Candlekeep!~
+@45542 = ~You seek entry to my childhood home?~
+@45543 = ~Truly? Well, luck to you—you'll need it.~
+@45544 = ~You can't be serious.~
+@45545 = ~Ah. You know the place, do you?~
+@45546 = ~I should hope so. I was raised there.~
+@45547 = ~I know something of the Keep, yes. What of you? What do you know of it—or believe you know, at least?~
+@45548 = ~Not at all.~
+@45549 = ~I realize it sounds silly, m'dear. Do you know much about Candlekeep?~
+@45550 = ~Actually, I was raised there.~
+@45551 = ~Only a little.~
+@45552 = ~Nothing at all.~
+@45553 = ~To enter Candlekeep, you must relinquish a book of your own, something of great rarity and value. I've searched far and wide for such a volume, but Tymora has yet to smile upon my efforts.~
+@45554 = ~I grew up in Candlekeep. Visitors were exceedingly rare.~
+@45555 = ~Yes, it seems like that would be difficult.~
+@45556 = ~I believe I'll go now.~
+@45557 = ~Inside the keep is an ancient Netherese book, a record of the events just prior to Karsus's Folly. I believe there's writing hidden upon its pages. My potion can reveal it!~
+@45558 = ~I was raised in Candlekeep. The monks there would surely have discovered such hidden writing, were it there to be found.~
+@45559 = ~Interesting—if it's true.~
+@45560 = ~But it can do nothing to take you through Candlekeep's gates. I wish you good fortune, for you will surely need it.~
+@45561 = ~Yes, well. As I've had no luck acquiring a tome of sufficient value, I plan to petition the monks to admit me, in exchange for my potion. ~
+@45562 = ~I was raised in Candlekeep. I've never heard of them letting in anyone without a book.~
+@45563 = ~How did you learn of this Netherese book?~
+@45564 = ~Interesting. But there other matters I must attend to now. Fare thee well, old woman.~
+@45565 = ~You wouldn't think it to look at me, but I'm a wizard. I uncovered this book's secret after years, decades of study. Now I just need to get to it!~
+@45566 = ~Maybe I can help you. I grew up in Candlekeep.~
+@45567 = ~Good luck with your quest.~
+@45568 = ~I'm grateful to you for helping me out. Take this gold—I was saving what I could in the hopes of purchasing a tome worthy of entrance to Candlekeep, but it's not near enough. Perhaps you can find a use for it.~
+@45569 = ~You were raised in Candlekeep, you say? Tell me more.~
+@45570 = ~It was a quiet, peaceful childhood. I learned a great deal and always felt safe.~
+@45571 = ~The monks were kind enough, but in the end Candlekeep just... didn't satisfy. I set out to see what else the world had to offer.~
+@45572 = ~ 'Twas a boring, tedious place. I always longed to escape. Now that I have, I'll never return.~
+@45573 = ~And did the monks there raise you?~
+@45574 = ~No, my mentor, Gorion, did that. I had other friends, but he was the closest I ever had to a family. Sarevok Anchev killed him.~
+@45575 = ~No. A man named Gorion did that. He was murdered just as I left Candlekeep. In the end, I avenged him.~
+@45576 = ~The monks couldn't raise their heads from whatever book absorbed their attention at any given moment. A man named Gorion cared for me. He was murdered for the trouble. After that, I went my own way.~
+@45577 = ~You've never been back?~
+@45578 = ~Once. It was... unpleasant. I made my peace there and haven't returned since.~
+@45579 = ~Only to hunt down my murderous half-brother. It's a long story.~
+@45580 = ~Return to that mausoleum? Not by choice. Now if you'll excuse me, I must be on my way.~
+@45581 = ~That's very dramatic, yes. Thank you for telling me your story. I could use your help for certain, m'dear. ~
+@45582 = ~Very dramatic, yes. Erm, I could use some advice. I wish to visit Candlekeep and view a Netherese tome—there are secret writings upon its pages my potion will reveal. But I lack a book of great value with which to gain entry.~
+@45583 = ~How can I help?~
+@45584 = ~Yeah, the gatekeeper is really determined not to let anyone in without a book.~
+@45585 = ~Get to the point.~
+@45586 = ~It seems to me that enhancing an existing volume by revealing hidden text is almost like giving them a book, yes? Do you think such an argument would carry water with the gatekeepers?~
+@45587 = ~I'm not sure it will work, but you can try.~
+@45588 = ~That's a tricky needle to thread. The guards are not renowned for flexibility in interpreting the rules.~
+@45589 = ~That will never work.~
+@45590 = ~I know my chances are slim, but a letter from you endorsing my offer might help. As it happens, I've a draft of just such a letter here—I was hoping Grand Duke Jannath might sign it, but a <PRO_SONDAUGHTER> of Candlekeep would surely have greater influence.~
+@45591 = ~Certainly I'll sign your letter. Here you go.~
+@45592 = ~I'm not entirely comfortable with that...~
+@45593 = ~You would have me risk my good name on your account? Think again, old woman.~
+@45594 = ~Oh, thank you, thank you! I'll leave for Candlekeep at once. Here, take this as a small token of my appreciation.~
+@45595 = ~The letter makes no claims on your behalf. Your reputation won't be in danger of any harm—it simply explains the situation. Won't you help me?~
+@45596 = ~Very well. Here you are.~
+@45597 = ~The gatekeeper will judge your argument on its merits. My signature, or anyone else's, for that matter, will not sway him one way or the other.~
+@45598 = ~Fair enough. I had to ask, you understand, yes? Well, I'm off to Candlekeep regardless. Here's a little reward for your help with the moss.~
+@45599 = ~Brevin's Quarterstaff +1~
+@45600 = ~The soldier Brevin brought this quarterstaff from home when he first left to make his fortune. Once he earned enough money to purchase a better weapon, the quarterstaff wound up in a weapons supply in Candlekeep. At some point it was retrieved and enchanted, switching owners several times along the way.
+
+STATISTICS:
+
+Equipped abilities:
+– Lore: +10
+
+Charge abilities:
+– Friends once per day
+
+THAC0: +1
+Damage: 1d6+1 (crushing)
+Speed Factor: 3
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+@45601 = ~Buckler of the Fist +2~
+@45602 = ~Members of the Flaming Fist mercenary company that serves Baldur's Gate and surrounding areas often carry these bucklers. A red flame emblazoned on the front of the shining bucklers clearly identifies the bearer's loyalty. Experienced Flaming Fist members often have their shields enchanted.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +3
+– No protection against missile and piercing attacks
+– Immunity to Hold Person
+
+Requires:
+ 4 Strength
+
+Weight: 1~
+@45603 = ~Ammon~
+@45604 = ~Reed of Echoes~
+@45605 = ~A Harper bard crafted this item, intending it to be a gift for Storm Silverhand. Once completed, however, its maker decided that the reed was simply too plain. He gave it instead to a fellow Harper, the bard who carried it on missions for many years. The reed has changed hands many times since, and though it still serves its original purpose—allowing its bearer to prepare additional spells—when played as an instrument, it emits a mournful tone no musician, however skilled, can vitiate.
+
+STATISTICS:
+
+Equipped abilities: 
+– Can memorize 2 extra 1st-level, 1 extra 2nd-level, and 1 extra 3rd-level wizard spell
+
+Weight: 1~
+@45606 = ~Instrument~
+@45607 = ~(placeholder) generic instrument description~
+@45608 = ~Ancient Menhir~
+@45609 = ~Ancient Menhirs
+
+I've solved the mystery of the menhirs.
+
+By activating each menhir, I released the voice of Crommus, a long-dead minstrel, setting his spirit free to be with his love Carline.~
+@45610 = ~Ancient Menhirs
+
+I need to find all six ancient menhirs in the area.
+
+Singing to one of the ancient menhirs around Coast Way caused it to emit a pleasing tone. I wonder what would happen if I did the same to the others I've seen?~
+@45611 = ~Runes eroded by time mark one face of this tall stone menhir.~
+@45612 = ~Runes eroded by time mark one face of this tall stone menhir. One set of faint markings seem to spell out a name: CR__M_S.~
+@45613 = ~Runes eroded by time mark one face of this tall stone menhir. One image shows a man exhaling a billowing cloud, a look of terror on his face.~
+@45614 = ~Runes eroded by time mark one face of this tall stone menhir. An image on its surface shows a man with a billowing cloud issuing from his mouth. A second man, clad in robes, stands with his arm outstretched and magical energy flying from his hand. The energy has struck the cloud and divided it into six pieces.~
+@45615 = ~Runes eroded by time mark one face of this tall stone menhir. An image shows a winding river. On one bank stands a robed figure clutching a woman to his chest. She looks across the river at a second man, who kneels on the bank clutching his throat.~
+@45616 = ~Prin~
+@45617 = ~Blind Albino Wyrmling~
+@45618 = ~Journal of Ithtaerus~
+@45619 = ~This journal has disintegrated over the years, but a few tattered pages are still legible. It might be valuable to a historian interested in Dragonspear Castle.
+
+"DR 1290
+
+"My triumph is at hand. Daeros Dragonspear lies dead. Halatathlaer fell to the might of my one-time draconic allies, who cannot have been pleased to learn that I snatched Halatathlaer's treasures out from under them. Her gold, gems, and items of all sorts are mine now, but more than that, I found her clutch. The eggs are now concealed in caverns far beneath the Castle. Halatathlaer's wyrmling offspring will make perfect subjects for my necromantic experiments. I will continue to add to the series of spells that will sustain them on minimal food and water while they are prepared for their final fate. Wards throughout the cavern will prevent their escape until I return to complete the rites that will transform them into my undead servitors. If I am successful in this working, the dragons will be more than able to protect me from those who hunt me now. And should I fail—considering the intricacy of the magic involved, it is a possibility—the results will still be worthy of study."~
+@45620 = ~Ettin Ghost~
+@45621 = ~Ettin Club +1~
+@45622 = ~This club, fashioned out of a single giant legbone, is as unwieldy as it is heavy. In a giant's hands it would be a formidable weapon.
+
+STATISTICS:
+
+THAC0: -5 penalty
+Damage: 2d6+1 (crushing)
+Speed Factor: 9
+Proficiency Type: Club
+Type: One-handed
+Requires:
+ 18 Strength
+
+Weight: 20~
+@45623 = ~Remains~
+@45624 = ~These brittle bones are held together only by tattered remnants of cloth.
+
+STATISTICS:
+
+Weight: 20~
+@45625 = ~Woris~
+@45626 = ~Litla~
+@45627 = ~Sotuk~
+@45628 = ~Takos~
+@45629 = ~Crommus~
+@45630 = ~Peacock Cap~
+@45631 = ~Decades ago, Yeren the bard traveled the jungles of Chult to learn the stories and songs of those who lived within them. Though the trip was fraught with danger, Yeren's bravery was rewarded when he discovered a Chultan village. The villagers welcomed him. Over the next month, he learned of their history and art while telling them stories of life in Waterdeep. When Yeren departed, the villagers gifted him a headdress trimmed with peacock feathers. Too distinctive to wear on the streets of Waterdeep, Yeren selected one feather to sew into his cap, which he later enchanted.
+
+STATISTICS:
+
+Equipped abilities:
+– Charisma: +1 (+2 for Bards)
+
+Weight: 0~
+@45632 = ~Crommus's Capelet~
+@45633 = ~This homespun capelet appears to have been hand-embroidered. The delicate scrollwork around its edges shows how much time and care went into the garment's creation. Crommus, the cloak's original owner, was a ghost for many years, and some of his incorporeal essence seems to have seeped into the fabric of the capelet.
+
+STATISTICS:
+
+Equipped abilities:
+– Each time the wearer is hit, there is a 5% chance that <PRO_HESHE> will be affected by the Blur spell
+– Saving Throws vs. Enchantment spells: +2
+
+Weight: 3~
+@45634 = ~Star-Strewn Boots~
+@45635 = ~These boots belonged to Crommus the Minstrel many centuries ago. When Artipheon the mage slew Crommus and severed the bard's voice, some of Artipheon's power infused Crommus's boots. The once ordinary midnight-blue leather boots now glitter as if hundreds of twinkling stars were embedded in the material.
+
+STATISTICS:
+
+Equipped abilities:
+– Magic Resistance: +7% (+15% for Wizard Slayers)
+
+Weight: 4~

@@ -1,0 +1,134 @@
+@46261 = ~Gameplay~
+@46262 = ~Game Screens~
+@46263 = ~Class Abilities~
+@46264 = ~Basic Gameplay~
+@46265 = ~Action Bar~
+@46266 = ~Journal~
+@46267 = ~Inventory~
+@46268 = ~Character Record~
+@46269 = ~Mage Spellbook~
+@46270 = ~Priest Scrolls~
+@46271 = ~Map Screen~
+@46272 = ~Cleric Abilities~
+@46273 = ~Thief Abilities~
+@46274 = ~Mage Abilities~
+@46275 = ~Basic Melee Combat~
+@46276 = ~Basic Magic Combat~
+@46277 = ~HOW TO PLAY~
+@46278 = ~Move characters by pressing them and then pressing on the ground.~
+@46279 = ~You can order each party member around separately.~
+@46280 = ~Blue circles are neutral. To speak to a neutral target, press it.~
+@46281 = ~Red circles are hostile. To attack a hostile target, press it.~
+@46282 = ~By default, characters will attack any hostile targets they see.~
+@46283 = ~To travel between areas, press on doors or map edges. Be sure to gather your party before venturing forth.~
+@46284 = ~To open containers, such treasure chests or drawers, press them.~
+@46285 = ~You can take items from containers or place items within them.~
+@46286 = ~This button allows you to speak with someone.~
+@46287 = ~These are your Quick Weapon slots. Press once to select that weapon, press twice to use it on someone.~
+@46288 = ~To the right are your special abilities, and any items you have placed in your Quick Item slots.~
+@46289 = ~The Quickloot bar is activated with this red gem. It displays all nearby items that are on the ground.~
+@46290 = ~Your character will automatically move to pick up the item you select.~
+@46291 = ~Your journal is where your current objectives are.~
+@46292 = ~Entries can be expanded or collapsed by clicking on them.~
+@46293 = ~Quests you have completed are found in the Done Quests section.~
+@46294 = ~The journal contains a record of most things you encounter.~
+@46295 = ~Check your journal for clues on what to do next.~
+@46296 = ~This is a list of things that impact your Armor Class (AC). The lower your AC, the harder it is for enemies to hit you.~
+@46297 = ~This is how your current and total Hit Points are calculated.~
+@46298 = ~Your Hit Points and THAC0 are shown below. A lower THAC0 makes it easier to hit enemies.~
+@46299 = ~This is the currently selected character, and these are the items they have equipped.~
+@46300 = ~These are your weapon and ammunition slots.~
+@46301 = ~To equip items, press and drag them to an empty Quick Weapons slot.~
+@46302 = ~You can make items available in the main game screen by pressing and dragging them to an empty Quick Items slot.~
+@46303 = ~To equip and unequip items, press and drag them in and out of slots.~
+@46304 = ~You can also drop items on the ground or pick them up from the Inventory Screen.~
+@46305 = ~Items have weight, and too much weight can prevent you from being able to move.~
+@46306 = ~This is the record of the selected character. It shows their proficiencies, resistances, and current status effects.~
+@46307 = ~These are your abilities scores. Red scores have been altered with an item or status effect.~
+@46308 = ~This is a list of things that impact your Armor Class (AC). The lower your AC, the harder it is for enemies to hit you.~
+@46309 = ~This is how your current and total Hit Points are calculated.~
+@46310 = ~This is your THAC0 (To Hit Armor Class Zero). The lower your THAC0, the easier it is to hit enemies.~
+@46311 = ~Here your weapons and possible damage output are displayed.~
+@46312 = ~Your race, alignment, and gender are in the center.~
+@46313 = ~Information has statistics about your character, and you can add/remove people with Reform Party.~
+@46314 = ~Kit Description has more details about your character class.~
+@46315 = ~You can Export your character for use in a new game, and Customize their look and behavior here.~
+@46316 = ~When available, you can dual-class or level up your character here.~
+@46317 = ~The spellbook is divided by spell level. This is the list of level 1 spells. The spellbook is primarily used by Mages and Sorcerers.~
+@46318 = ~These are the spells that this character knows. They can learn more by memorizing spell scrolls.~
+@46319 = ~These are the memorized spell slots. To prepare a spell, it must be selected from the spellbook, and then the character must rest to memorize it.~
+@46320 = ~To remove a memorized spell, press it and it will be forgotten.~
+@46321 = ~The same spell can be memorized multiple times.~
+@46322 = ~To view detailed information about a spell, press and hold on its icon.~
+@46323 = ~The cleric scroll is divided by spell level. This is the list of Level 1 spells.~
+@46324 = ~These are the cleric spells that this character knows. They learn more as they level up.~
+@46325 = ~These are the memorized spell slots. To prepare a spell, it must be selected from the scroll, and then the character must rest to memorize it.~
+@46326 = ~The same spell can be memorized multiple times.~
+@46327 = ~To remove a memorized spell, press it and it will be forgotten.~
+@46328 = ~To view detailed information about a spell, press and hold on its icon.~
+@46329 = ~You can press and drag your game view around on the map screen.~
+@46330 = ~Press the icon in the upper right to access the world map.~
+@46331 = ~The world map is updated as you are informed of new locations.~
+@46332 = ~Clerics can cast divine spells granted to them by their god.~
+@46333 = ~They can restore Hit Points with healing spells such as Cure Light Wounds.~
+@46334 = ~They can also summon minions, such as this skeleton.~
+@46335 = ~Clerics have the ability to Turn Undead, which will cause undead creatures to flee or be destroyed.~
+@46336 = ~Thieves have a variety of useful adventuring skills.~
+@46337 = ~Pick Locks is the most useful ability—it allows you to open locked doors and containers.~
+@46338 = ~Locks can sometimes be opened through bashing.~
+@46339 = ~Thieves can Pick Pockets, which lets them steal gold or useful items from their target.~
+@46340 = ~Thieves can also Hide in Shadows, which allows them to move undetected.~
+@46341 = ~While hidden, a Thief can scout or backstab an enemy for a damage bonus.~
+@46342 = ~Mages, Bards, and Sorcerers cast arcane spells. Mages and Bards must find new spell scrolls, while Sorcerers learn magic as they level up.~
+@46343 = ~To cast a spell at a target, select the spell from the spell list and then press on your target.~
+@46344 = ~Spellcasters can summon allies to the battlefield.~
+@46345 = ~It's important to use defensive spells that prevent attackers from harming your spellcasters, as they are typically weak in close combat.~
+@46346 = ~There are many different kinds of melee combat characters. Fighters, Paladins, Clerics, Druids, and others can fill this role with the proper equipment.~
+@46347 = ~While in combat, protect your spellcasters from attackers with your melee characters. ~
+@46348 = ~Pause often to reassess the situation and assign new targets to your party members.~
+@46349 = ~You can block doorways to prevent your weaker or ranged party members from being reached.~
+@46350 = ~You can block doorways to prevent your weaker or ranged party members from being reached.~
+@46351 = ~A useful tactic is to pepper the enemy with ranged shots before switching to a melee weapon and moving into close combat.~
+@46352 = ~Spellcasters are vulnerable to physical attacks. Keep them out of melee combat.~
+@46353 = ~Some spells do damage, others make enemies less effective. There are also spells that enhance your party members, making them stronger.~
+@46354 = ~At the outset of battle, be sure to cast as many spells that enhance your party as you can.~
+@46355 = ~Hang your magic users back, and have them hit the enemy with magic. Magic Missile is a great first spell to learn for this.~
+@46356 = ~Pause often to reassess the situation and assign new targets to your party members.~
+@46357 = ~Some spells impact a large area. Position your party to avoid being hit by friendly fire.~
+@46358 = ~Disable enemies to make a fight more fair. Spells such as Sleep, Cloudkill, and Hold Person are excellent for this purpose.~
+@46359 = ~Advanced~
+@46360 = ~password:~
+@46361 = ~players:~
+@46362 = ~description:~
+@46363 = ~name:~
+@46364 = ~Did you hear that?~
+@46365 = ~Flaming Fist Battlemage~
+@46366 = ~Follow me.~
+@46367 = ~Wait here.~
+@46368 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter. This particular dagger is magical, having special bonuses to its speed, accuracy, and damage. Also, since it is magical, is it capable of striking opponents that are immune to normal weapons, such as vampires, elementals, and mummies.
+
+STATISTICS:
+
+THAC0: +2
+Damage: 1d4+2 (piercing)
+Speed Factor: 0 
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1~
+@46369 = ~Thank the gods! I thought I'd never get out of this cell.~
+@46370 = ~This chest's lock is damaged and half-melted. No key will open it.~
+@46371 = ~A pile of charred wood. A pleasing aroma lingers in the air around it.~
+@46372 = ~A heap of sooty stones.~
+@46373 = ~Fire has eaten through the floor here. Below, mice and other vermin cavort.~
+@46374 = ~You heard the master. Get him now!~ [BD46374]
+@46375 = ~Tail Constriction~
+@46376 = ~Constricted~
+@46377 = ~Half-Digested Sword~
+@46378 = ~A once-fine sword has become a pocked mass of twisted metal in the wyrmling's stomach. The outline of a dragon, wings spread, is barely discernible on the pommel.
+
+STATISTICS:
+
+Weight: 2~

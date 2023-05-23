@@ -1,0 +1,425 @@
+@45099 = ~Ssssssss... ~
+@45100 = ~Can you understand me?~
+@45101 = ~Hiss?~
+@45102 = ~Ah, an evil shadow. Just what I wanted to destroy.~
+@45103 = ~Yessssss... ~
+@45104 = ~What do you want, shadow?~
+@45105 = ~This is a riveting conversation. Is there anything I can help you with?~
+@45106 = ~It's time for you to die now.~
+@45107 = ~Void... the ssspace between the ssstars...~
+@45108 = ~I see. You're nothing but a creature of nihilism.~
+@45109 = ~As much as I'm enjoying this little chat, I have to get going. And that means you must die.~
+@45110 = ~If it's death you crave, there's a pack of bugbears down the tunnel there you might want to have a word with.~
+@45111 = ~As I freed you, perhaps you would be willing to do me a service? Say, destroying the bugbears at the end of the tunnel?~
+@45112 = ~Viconia, can you speak to this creature?~
+@45113 = ~Your time is at an end, shadow.~
+@45114 = ~Shadows are sacred to the Nightsinger. I shall try.~ [BD45114]
+@45115 = ~It is a creature of violence that seeks to destroy the living. I can direct it against the bugbears if you wish.~ [BD45115]
+@45116 = ~Yes, please.~
+@45117 = ~No, I will kill this thing myself.~
+@45118 = ~I... I am free. After so long... ~ [BD45118]
+@45119 = ~Greetings. My name is <CHARNAME>. You are?~
+@45120 = ~You can thank me for that.~
+@45121 = ~I expect a reward for freeing you.~
+@45122 = ~I am Zhadroth. You are the one who released me from my eternal imprisonment in the far realm?~ [BD45122]
+@45123 = ~I suppose I am. What were you imprisoned for?~
+@45124 = ~I like to think of myself as a traveling liberator, freer of the unjustly imprisoned. You WERE unjustly imprisoned, right?~
+@45125 = ~You can thank me with gold.~
+@45126 = ~The reasons are of no consequence. What matters is that I can now wreak my vengeance on those who locked me away.~ [BD45126]
+@45127 = ~That sounds unpleasant.~
+@45128 = ~I'm not sure this was the best idea I ever had.~
+@45129 = ~I know what you are, lich. My training taught me to deal with creatures like you!~
+@45130 = ~Wreak your vengeance after you've rewarded me.~
+@45131 = ~I have but one item upon my person, but you may have it. You have my thanks, liberator.~ [BD45131]
+@45132 = ~I have killed more priests than I can count, mortal! You will be the next!~ [BD45132]
+@45133 = ~Meddler! Freer of evil! Destroyer of the balance! ~ [BD45133]
+@45134 = ~Who are you, spirit? ~
+@45135 = ~This is about Zhadroth, isn't it?~
+@45136 = ~Out of my way or I'll show you how destructive I can be.~
+@45137 = ~For centuries, I watched over the lich's prison. In one moment, you annihilated everything I secured for so long.~ [BD45137]
+@45138 = ~Forgive me, please. I didn't mean to destroy your work.~
+@45139 = ~You're not a very good guard, are you? You might have set up an alarm or something.~
+@45140 = ~What of it?~
+@45141 = ~Zhadroth is no more. After freeing the lich, I slew him and ended his evil.~
+@45142 = ~Now Zhadroth is free to wreak havoc on the land. Thousands will die! This is YOUR fault, and you will pay!~ [BD45142]
+@45143 = ~You lie! Zhadroth is too powerful to be slain by such as you. ~ [BD45143]
+@45144 = ~Zhadroth is no more? Then I am free as well. Thank you, good hero. Take my weapon as a reward. I need it no longer.~ [BD45144]
+@45145 = ~Now we are even, liberator. But should you ever ascend, please look kindly upon the pain I will soon inflict upon the betrayers of H'Catha.~ [BD45145]
+@45146 = ~Aaah! The essence of evil suffuses this place!~
+@45147 = ~I don't think you belong here.~
+@45148 = ~This is one of the Nine Hells. Pure evil is what it does.~
+@45149 = ~Stop your wailing.~
+@45150 = ~Aaah! The essence of evil suffuses this place! What fiend would subject me to such an infernal pit?~
+@45151 = ~I didn't mean to. You see, I have these magic spectacles...~
+@45152 = ~I didn't realize you were an angel. If you want to leave, you're free to go. I sure can't stop you.~
+@45153 = ~Fair deva, I am a holy warrior. I swear on my soul I meant no harm in calling you here. Your agony shames me.~
+@45154 = ~One that is amused to see you flutter about so pitifully.~
+@45155 = ~Fool! It is too late!~
+@45156 = ~Ah! That I should be soiled by such base fiends as these. You! I should strike you dead for this trespass! Your ignorance insults the divine powers I serve.~
+@45157 = ~I believe you. Now assist me in fighting off the denizens of this wretched place!~
+@45158 = ~I sense dark power in your blood. The shadow on your soul spreads like an inky stain. You belong here, creature of darkness.~
+@45159 = ~I am what I am. I'll make no apologies, least of all to you.~
+@45160 = ~That's a bit harsh, isn't it?~
+@45161 = ~We both belong here, radiant one. I as a ruler, you as my vassal—or a corpse!~
+@45162 = ~If I must be trapped in the Hells, at least I can end your evil! ~
+@45163 = ~Wait! Hold your attack and I will do the same.~ [BD45163]
+@45164 = ~This had better not be a trick.~
+@45165 = ~You don't seriously expect me to fall for THAT, do you?~
+@45166 = ~No mercy. Die, demon!~
+@45167 = ~I thought you were intruders in my home, but this... this isn't the Abyss. This is Avernus!~ [BD45167]
+@45168 = ~And that makes a difference, does it?~
+@45169 = ~You're one sharp demon. Only took a blow to the head for you to notice where you were.~
+@45170 = ~Make your point, if you have one.~
+@45171 = ~Heh heh... I could not have planned this better myself! I thank you, mortal, for giving me access to the inner demesne of a hated rival.~ [BD45171]
+@45172 = ~Don't be so quick to thank me. I'm not going to let you leave. You're a demon and therefore must die.~
+@45173 = ~Always happy to have a fiend's gratitude.~
+@45174 = ~I don't do favors for demons.~
+@45175 = ~I shall take my leave of you. There are many plans I have to foil, many preparations to ruin. Take this blade as my gift. Treat it well. A boon from my kind is rare.~ [BD45175]
+@45176 = ~Die if you wish. I will enjoy devouring your soul.~ [BD45176]
+@45177 = ~Pike that! I'm no full-on fiend, bound by my blood. I can be good or evil as I like.~ [BD45177]
+@45178 = ~Stay by the door and ensure we're not disturbed.~
+@45179 = ~Keep an eye on the hall, Sallo.~
+@45180 = ~Man the door and don't let anyone in while we're talking.~
+@45181 = ~Lord Maxwell,
+
+The time has come to take action. Araya agrees with me that we can't risk openly challenging the Grand Dukes of Baldur's Gate. They wield too much influence, and their motives cannot be trusted. I've heard disturbing whispers regarding the killer of Sarevok, whom the dukes are now in league with. How can we trust them to lead our city and reap the profits thereof? Meet us at the Three Old Kegs on the morrow and we'll decide on a plan of action. Elric should also be joining us. Burn this letter.
+
+–Therton~
+@45182 = ~It's nothing.~
+@45183 = ~If you say so. I'll follow you outside when you're ready to leave.~
+@45184 = ~You're back. Excellent.~
+@45185 = ~<CHARNAME> is back.~
+@45186 = ~Nathbaera~
+@45187 = ~Belegarm~
+@45188 = ~Quartermaster~
+@45189 = ~Ah. You've returned, Sallo.~
+@45190 = ~Therton, the muscle is here.~
+@45191 = ~Oh dear, I really don't handle these matters. Therton? Could you...?~
+@45192 = ~Yes, I'm here.~
+@45193 = ~I never said I was Sallo. ~
+@45194 = ~Delenda~
+@45195 = ~Bartleby~
+@45196 = ~Summon Deva~
+@45197 = ~Summon Deva
+(Conjuration/Summoning)
+
+Level: Quest
+Range: 120 ft.
+Duration: 4 rounds + 1 round/level
+Casting Time: 5
+Area of Effect: Special
+Saving Throw: None
+
+This spell opens a celestial gate and calls forth an angelic deva to fight at the caster's side until the spell expires or the deva's earthly avatar is slain.~
+@45198 = ~Mail of the Hallowed Hero +3~
+@45199 = ~This armor was first worn by Olen Argent, Caelar's great-grandfather. Olen Argent's quest to hunt down a cult of Malar led him to the Misty Forest, where he encountered a group of elves living in the woods. At first, the elves were suspicious of Olen and tried to drive him out of the forest, but he spoke so eloquently of his quest that they agreed to help him. The elves tracked the cult to their hiding place within the forest, where Olen eradicated the cultists for their murderous deeds. Thankful to have the evil presence out of their homeland, the elves crafted a fine suit of mail for the paladin.
+
+STATISTICS:
+
+Equipped abilities:
+– Immunity to poison and disease
+– Protection From Evil
+
+Armor Class: 2 (0 vs. slashing, 4 vs. crushing)
+Requires:
+ 6 Strength
+
+Weight: 7~
+@45200 = ~Solar Aegis +3~
+@45201 = ~Engraved wings stretch across the face of this ornate shield. The silver shield, inlaid with pure sapphire, gleams with a high polish no matter how much damage it suffers or what rough environs it is carried through. Often crafted for paladins and members of holy militaristic orders, a solar aegis provides substantial protection for the pure of heart.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4
+– Constitution: +1
+– Fire Resistance: +40%
+
+Requires:
+ 12 Strength
+
+Weight: 3~
+@45202 = ~Aster's Edge +3~
+@45203 = ~Legend tells that a powerful angelic being gifted this blade to a member of the Order of the Aster long ago. Details of the legend have been lost over time, but many believe the sword was a reward for slaying a monstrous fiend, perhaps even a balor. Delicate etchings of asters decorate the blade, which glows with a silver-blue flame when drawn.
+
+STATISTICS:
+
+Equipped abilities:
+– Magic Resistance: +30%
+
+THAC0: +3
+Damage: 1d8+3, +2 extra vs. fiends
+Damage type: Slashing
+Speed Factor: 2
+Proficiency Type: Long Sword
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 2~
+@45204 = ~Sable Cloak~
+@45205 = ~An explorer traveling to the Spine of the World commissioned this cloak when she heard a white dragon had been spotted in the area. After she safely returned to the warmth of the south, she sold the elegant sable cloak.
+
+STATISTICS:
+
+Equipped abilities:
+– Cold Resistance: +40%
+– Immunity to slow
+
+Weight: 3~
+@45206 = ~Ostentatious Boots~
+@45207 = ~These irridescent scaled boots gleam with a hundred shades of color. On a trade voyage across the Alamber Sea, a ship passed by a pitched battle between sahuagin marauders and a colony of merfolk. The ship's bard leaned over the rail and played a rousing ballad of courage. Bolstered, the merfolk overcame and drove off the vicious sahuagin. One of the mermaids swam up to the ship and handed the bard a glittering shed mermaid tail, telling him that any item fashioned from the scales would gain a valuable enchantment. The bard had the tail made into a pair of boots that have been passed on to his descendants, though their flashy nature makes the wearer quite memorable.
+
+STATISTICS:
+
+Equipped abilities: 
+– Charisma: +1
+
+Weight: 4~
+@45208 = ~Gemblade +1~
+@45209 = ~A halfling named Tinny originally owned this bejeweled dagger. A thief on the streets of Saerloon, Tinny always scraped to make ends meet. Sick of being poor, he prayed to Brandobaris every night for a month, begging the god to help him become the richest thief in Saerloon. 
+
+Finally, one night Tinny stabbed his mark in a mugging gone wrong and was shocked to see a gem fall out of the victim's wound. Tinny eagerly grabbed the gem, rejoicing in his newfound wealth. Stories of Tinny's good fortune spread quickly. A few days later, he was found stabbed to death in his bed, his dagger gone.
+
+STATISTICS:
+
+Combat abilities:
+– 20% chance per hit that a random gem will be generated in the wielder's inventory
+
+THAC0: +1 
+Damage: 1d4+1 (piercing) 
+Speed Factor: 0 
+Proficiency Type: Dagger 
+Type: One-handed 
+Requires: 
+ 3 Strength
+
+Weight: 1~
+@45210 = ~Cudgel of Montgomer +1~
+@45211 = ~As a young man, the adventurer Montgomer signed aboard the "Fairest Wind" and worked twice as hard as any other mate. When pirates attacked, Montgomer threw himself into battle but promptly took a blow to the arm and lost his cutlass. Undaunted, he grabbed a belaying pin and used it bash pirate skulls. After the attack was over, Montgomer's mates praised his bravery and joked that he should always keep his "cudgel" at his side. Montgomer did so, eventually having the belaying pin enchanted with healing powers, but later traded it in for a more powerful (and wieldy) weapon.
+
+STATISTICS:
+
+Combat abilities:
+– 10% chance of casting Cure Minor Wounds on the wielder on each hit
+
+THAC0: +1
+Damage: 1d6+2 (crushing)
+Speed Factor: 6
+Proficiency Type: Mace
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 8~
+@45212 = ~Eadro's Blade +1~
+@45213 = ~Legend has it that this elegant curving blade was forged deep beneath the sea by merfolk and its hilt bound in enchanted eelskin. The truth of the matter is more mundane. The blade was crafted in Iriaebor and given to a mercenary commander who protected cargo barges moving up and down the river Chionthar. Still, it is a finely made and serviceable weapon.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +2 vs. elementals and mephits
+
+Combat abilities:
+– A critical hit scored against an elemental or a mephit will instantly banish the creature to its home plane
+
+THAC0: +1, +2 vs. elementals and mephits
+Damage: 1d8+1 (slashing), +2 vs. elementals and mephits
+Speed Factor: 4
+Proficiency Type: Scimitar/Wakizashi/Ninjatō
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 3~
+@45214 = ~Summon Water Elemental~
+@45215 = ~Banish Water Elemental~
+@45216 = ~Clasp of Helm~
+@45217 = ~Those who revere Helm, the Watcher, often carry his mark engraved on a necklace, brooch, or ring. While many of these items are simple reminders that Helm is ever vigilant, some items bearing the god's mark also grant their bearer a modicum of protection.
+
+STATISTICS:
+
+Equipped abilities:
+– Saving Throws vs. Necromancy spells: +3
+– Wisdom: +1 (Priests of Helm only)
+
+Charge abilities:
+– Detect Illusion once per day
+
+Weight: 0~
+@45218 = ~Protected From Backstabs~
+@45219 = ~Zaviak~
+@45220 = ~Zaviak's Vision Quest
+
+If I wear the Spectacles of Spectacle, I can see extraplanar creatures and "pull" up to three of them into this world.
+
+I obtained a pair of magic spectacles from the eccentric elf Zaviak. He claims I can use them to see spirits and creatures from other planes and "pull" these creatures into our world a finite number of times. I have no idea how many of these extraplanar creatures I'll see on my journey. I must think carefully before drawing one into the Prime Material Plane.~
+@45221 = ~Zaviak's Vision Quest
+
+I called forth a fire elemental in the Elfsong Tavern. 
+
+Al-Alai, First Fury of the White Forge, attacked me. I was forced to destroy it.~
+@45222 = ~Zaviak's Vision Quest
+
+I called forth a gauth in the woods near Coast Way Crossing. 
+
+The creature immediately attacked me for my magic items and treasure, and I was forced to slay it.~
+@45223 = ~Zaviak's Vision Quest
+
+I called forth a gauth in the woods near Coast Way Crossing. 
+
+The creature wanted my magic items and treasure. I managed to steer it toward the crusader camp by Dragonspear Castle.~
+@45224 = ~Zaviak's Vision Quest
+
+Using Zaviak's spectacles, I called forth an earth elemental that had been battling another creature.
+
+It wasted no time in attacking me. I was forced to kill it.~
+@45225 = ~Zaviak's Vision Quest
+
+Using Zaviak's spectacles, I called forth an earth elemental that had been battling another creature.
+
+It wasted no time in attacking me, but, unable to kill me—at least not easily—it ultimately fled.~
+@45226 = ~Zaviak's Vision Quest
+
+I called forth a tiefling named Raeanndra, who had been fighting an earth elemental. 
+
+The tiefling was grateful for my intervention and rewarded me with a magic ring.~
+@45227 = ~Ring of the Tiny Fiend~
+@45228 = ~Every elemental plane has its own native creatures, the lowest of which are the mephits. These imp-like creatures appear composed of whatever element dominates their home plane. They are remarkably clever for such unintelligent creatures and can often be found serving as wizard familiars. This ornate gold ring displays four chips of precious stone—emerald, ruby, sapphire, and diamond—surrounding a grinning mephit's face.
+
+STATISTICS:
+
+Equipped abilities:
+– Fire Resistance: +10%
+– Cold Resistance: +10%
+– Electricity Resistance: +10%
+– Acid Resistance: +10%
+
+Charge abilities: 
+– Summon 1d4 mephits once per day
+  Duration: 1 turn
+
+Weight: 0~
+@45229 = ~Zaviak's Vision Quest
+
+I called forth the djinn Nazramu from the Elemental Plane of Air. 
+
+Intrigued by life on the Prime Material Plane, the djinn chose to remain here for a time.~
+@45230 = ~Jester's Bracers~
+@45231 = ~These bracers once belonged to a traveling bard famed for his sharp tongue and quick retorts. One rainy night, the bard took refuge in a rickety inn on the road to Shadowdale. There he performed for his supper, sprinkling his routine with caustic jibes as was his custom. One of the drinkers in the tavern, an old woman, stood up midway through the performance and snapped, "You think it clever to insult and belittle others? Do so, then, for as long as you live!" The bard found himself unable to remove his now-cursed protective bracers and was forced to spout corny jokes until he could pay a wizard to remove them.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: 5
+– Charisma: -1 (except for Jesters)
+– Wearer is forced to tell corny jokes 
+– May only be removed with a Remove Curse spell
+
+Weight: 2~
+@45232 = ~Why do honeybees hum? They know not the words!~ [BD45232]
+@45233 = ~How do ettins leave messages for one another? On a bull-ettin board!~ [BD45233]
+@45234 = ~Where is the safest place in all the land for diving? Waterdeep!~ [BD45234]
+@45235 = ~Never listen to a tale from a wyrm—they tend to drag on!~ [BD45235]
+@45236 = ~Why do skeletons never battle with one another? They lack guts.~ [BD45236]
+@45237 = ~Two orcs walk into a bar. Ouch!~ [BD45237]
+@45238 = ~Last time I told a joke to a ghoul, he laughed his head off!~ [BD45238]
+@45239 = ~What has the body of a lion, the wings of a dragon, and tastes great covered in butter? A manti-corn!~ [BD45239]
+@45240 = ~Al-Alai~
+@45241 = ~Gauth~
+@45242 = ~Raeanndra~
+@45243 = ~Summon Mephit~
+@45244 = ~Modron Heart~
+@45245 = ~Modrons are mechanical creatures of utter law and efficiency that make their home on Mechanus. Many think of modrons as soulless, emotionless beings without a heart to speak of, but this item proves those beliefs false. The Modron Heart is a core of pure law that strengthens its wearer in battle against chaotic creatures.
+
+STATISTICS:
+
+Equipped abilities: 
+– THAC0: +2 vs. chaotic
+– Damage: +2 vs. chaotic
+– Armor Class: +2 vs. chaotic
+
+Weight: 1~
+@45246 = ~Vidyadhar~
+@45247 = ~Rakshasa~
+@45248 = ~Zaviak's Vision Quest
+
+I called forth a rakshasa named Vidyadhar, who was annoyed at having been summoned. 
+
+The creature and I fought and I triumphed, but he disappeared before I could strike the killing blow.~
+@45249 = ~Zaviak's Vision Quest
+
+I called forth a rakshasa named Vidyadhar, who was annoyed at having been summoned. 
+
+After I solved a riddle the creature asked, he gave me a Modron Heart and left peacefully.~
+@45250 = ~~
+@45251 = ~The <PRO_MANWOMAN> from Baldur's Gate was good as <PRO_HISHER> word! The Flaming Fist marches on the crusade! To arms!~
+@45252 = ~This is the moment we've b-been waiting for. To arms! It's time for Bridgefort to strike back!~
+@45253 = ~Zaviak's Vision Quest
+
+I called forth a shadow in a cavern full of bugbears and was able to direct its violence toward the foul creatures.~
+@45254 = ~Zaviak's Vision Quest
+
+I called forth a shadow in an underground cavern but I had to kill it.~
+@45255 = ~Zaviak's Vision Quest
+
+I called forth an imprisoned lich from Kanaglym. 
+
+The undead was grateful and rewarded me for releasing him from his imprisonment.~
+@45256 = ~Zaviak's Vision Quest
+
+I called forth an imprisoned lich from Kanaglym and then destroyed his evil presence.~
+@45257 = ~Zaviak's Vision Quest
+
+A creature called an Endless Watcher appeared and said I had released its prisoner, Zhadroth. 
+
+The Endless Watcher attacked me and I slew it after a mighty battle.~
+@45258 = ~Astral Crossbow +2~
+@45259 = ~The silvery string of this elegant weapon gleams like the silver strings connecting Astral Travelers to their bodies. Legends speak of a deva who crafted this weapon out of bits of soul from astral travelers, willingly given to the deva to forge a weapon of good. The deva passed the crossbow down to a champion of good on the mortal Plane, who wielded it for many years before falling under a glabrezu's claws.
+
+STATISTICS:
+
+Combat abilities: 
+– On a critical hit, the target falls to the ground rendered unconscious for 1 round (no save) as they are stricken with a vision of their soul leaving their body.
+
+THAC0: +2, +4 vs. evil aligned creatures
+Damage: +2 (missile), +4 vs. evil aligned creatures
+Speed Factor: 3
+Proficiency Type: Crossbow
+Type: Two-handed
+Requires:
+ 8 Strength
+
+Weight: 5~
+@45260 = ~Zaviak's Vision Quest
+
+I used the spectacles to draw a deva into Avernus. 
+
+I didn't realize the damage I was doing, and the deva was understandably horrified at finding herself in Hell. I tried to clarify my actions, but she would hear none of it and attacked.~
+@45261 = ~Zaviak's Vision Quest
+
+I brought a demon into Avernus.
+
+I summoned a demon and he was actually happy about it. Apparently, the devils and the demons are constantly at war, and through my actions I'd brought the demon into the stronghold of his enemy. He gave me a sword by way of thanks.~
+@45262 = ~Zaviak's Vision Quest
+
+I brought a demon into Avernus.
+
+I summoned a demon and he was actually happy about it. I could not allow him to roam freely, though, and so I slew him.~
+@45263 = ~Gift of the Demon +5~
+@45264 = ~This onyx blade pulses with a sickly green light. The hilt is carved of bone and the pommel resembles the grinning skull of a gelugon. Demons rarely give gifts to mortals, and those they do always possess some sort of drawback.
+
+STATISTICS:
+
+Equipped abilities:
+– May only be removed with a Remove Curse spell
+
+THAC0: +5
+Damage: 1d8+5 (slashing)
+Speed Factor: 0
+Proficiency Type: Long Sword
+Type: One-handed
+Requires:
+ 6 Strength
+
+Weight: 2~

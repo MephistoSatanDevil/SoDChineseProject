@@ -1,0 +1,136 @@
+@67199 = ~Judging by the graying flesh and the ragged bits of cloth wrapped around this body, it's been a long time since this person died down here.~
+@67200 = ~You did not think me truly dead, did you?~ [BD67200]
+@67201 = ~We’ve a bond between us, you and I. A connection even the sharpest blade cannot sever. A bond forged in blood, hatred, death.~ [BD67201]
+@67202 = ~I held the Sword Coast by its throat. It wriggled and squealed in my grip, and then... YOU.
+~ [BD67202]
+@67203 = ~I should have killed you, as I had so many others. But something stayed my hand, a weakness I had never known before.~ [BD67203]
+@67204 = ~Are we one and the same, my brother? One soul in two bodies, born of the Lord of Murder?~ [BD67204]
+@67205 = ~We will never end, you and I. Even in death.~ [BD67205]
+@67206 = ~Prove it, if you can. I felled you once. I will do so again.~
+@67207 = ~The end has come and gone already, brother. I’ve had my fill of vengeance.~
+@67208 = ~You are naught but ashes. Return from whence you came, and bother me no more.~
+@67209 = ~A cycle continued. Intriguing.~ [BD67209]
+@67210 = ~Have you truly? In the end, vengeance is all you will have left.~ [BD67210]
+@67211 = ~You understood none of this, did you?~ [BD67211]
+@67212 = ~Do you see now?~ [BD67212]
+@67213 = ~Books for bones, words for blood. Candlekeep. Our home. It wasn't your fault we had to leave.~ [BD67213]
+@67214 = ~Only... it was. Wasn’t it?~ [BD67214]
+@67215 = ~You were all I had left in the world. And you abandoned me. I've got nothing left now. Nothing.~ [BD67215]
+@67216 = ~I'm tired, <CHARNAME>. I'm so tired. Please.~ [BD67216]
+@67217 = ~I don’t understand.~
+@67218 = ~You can't ask this of me, Imoen. I can't kill you—I can't!~
+@67219 = ~You think you're tired? You know nothing.~
+@67220 = ~I need you to do it. For me.~ [BD67220]
+@67221 = ~Do as she asks. After everything you have done, everything you have put her through, you owe her this.~ [BD67221]
+@67222 = ~If this is what you want, Imoen… I will. For you.~
+@67223 = ~Never! It won't happen.~
+@67224 = ~I will do it, and happily. I never liked her, anyway.~
+@67225 = ~Her end may not come at your hand, but it will come. It cannot be denied.~ [BD67225]
+@67226 = ~A wise choice.~ [BD67226]
+@67227 = ~Curious.~ [BD67227]
+@67228 = ~How do you feel?~ [BD67228]
+@67229 = ~The queen does not relent. "You must surrender the crown," she says, "or the worst will come."~ [BD67229]
+@67230 = ~Does she have to give up the crown? Why can’t she just stay a princess?~ [BD67230]
+@67231 = ~Duty. Duty compels us, above all else.~ [BD67231]
+@67232 = ~Do you see, <CHARNAME>? Do you understand now?~ [BD67232]
+@67233 = ~It's your turn. Do your duty.~ [BD67233]
+@67234 = ~Never! I won't do it!~
+@67235 = ~Farewell, Corwin. I wish there was something I could have done for you.~
+@67236 = ~What is my duty? I don’t understand.~
+@67237 = ~My duty is done. The consequences are all that remain.~ [BD67237]
+@67238 = ~You cannot refuse. It is far too late for that.~ [BD67238]
+@67239 = ~There is much that can yet be done.~ [BD67239]
+@67240 = ~Understanding is not required. You are compelled.~ [BD67240]
+@67241 = ~Let us try this one more time.~ [BD67241]
+@67242 = ~So much death. And to what end?~ [BD67242]
+@67243 = ~I had to make it right. I had to save them—save him. Whatever the cost.~ [BD67243]
+@67244 = ~There can be no victory without sacrifice. What are you prepared to lose, <CHARNAME>? Have you anything left to surrender?~ [BD67244]
+@67245 = ~Whatever I have, I'll give in service to a righteous cause.~
+@67246 = ~There must be another way.~
+@67247 = ~I'll die before I lose anything more.~
+@67248 = ~An easy claim to make, and one that means little if it goes untested. Only in the crucible can the truth be known.~ [BD67248]
+@67249 = ~Then fight and claw your way through life. Cling to the past, like a child does its mother's teat. You struggle against the inevitable.~ [BD67249]
+@67250 = ~You can walk but a single path. Dire consequences await those who try to find another way. Believe me. I speak from experience.~ [BD67250]
+@67251 = ~You need not embrace your fate. But ultimately, you will accept it. You can do nothing else.~ [BD67251]
+@67252 = ~Your sword blade snaps in half with a crack that almost sounds like a rasping laugh.~ [SHAEL_04]
+@67253 = ~Alveus Note 01~
+@67254 = ~Dear Greenbough Publishing,
+
+I write to rectify the confusion in which your last missive was apparently sent. Your reply in regards to my next manuscript, "Adventuring With All Your Limbs Attached: Both There And Back Again" is my latest treatsie on the adventuring mage's life. As the greatest first-level mage who has ever lived (so far), my musings and experiences are of considerable value to both the novice and seasoned adventurer. Not only is my writing style light and entertaining to read, but the contents of my manuscript could save many lives.
+
+You understand my confusion, then, when I recieved your reply that your line of comedic tomes was full for this year and to try again in future seasons. Please check your informative travelogue lineup and respond at your earliest convenience.
+
+Sincerely,
+
+Alveus Malcanter~
+@67255 = ~Alveus Note 02~
+@67256 = ~(This parchment has been torn at the top. It seems to have been ripped from a larger piece.)
+
+Rule Three: Taverns can be of great use for surviving an adventure. Before venturing into that dank tomb or bleak dungeon, visit the local tavern. Buy lots of drinks. Soon your party will be merrily singing and drinking the night away. While they sleep off their excesses the next morning, you can quietly leave town.
+
+Rule Four: Some will tell you that second-level spells are necessary for a successful career. Don't believe them! With great power comes great responsibility, so if you stick to first-level spells, no one will expect you to stick your neck out into a dangerous situation.
+
+Rule Five: A mage is only as good as their robe. Though you may never rival my exquisite collection of Faerûn's finest robes (may? I am too humble. None could rival that collection of finery), you would do well to obtain a quality tailor at the first opportunity.
+
+Remember, with intelligence, discretion, and an overwhelming, shrieking, constant fear of death, you too can be a successful adventuring mage!~
+@67257 = ~Alveus Note 03~
+@67258 = ~Potential Aphorisms
+
+A green slime in the hand is worth nothing, and also you now have no hand. Wear gloves at all times.
+
+A statue is just a potential gargoyle. Carry a statue-poking stick and give it to someone in heavy armor.
+
+A pocketful of gold is good; a sackful of gold is better. But carrying a huge sack of gold makes it hard to run away, so a bag of holding is a good investment.
+
+Something about bacon? "Your bacon's in the fire" is bad, but bacon is also delicious...
+
+(The writing trails off, and doodles fill the rest of the page.)~
+@67259 = ~Alveus Note 04~
+@67260 = ~(This note is titled "Advice to a Novice Mage.")
+
+If you are reading this, then you are, perhaps, a young mage just starting out on your career. You might aspire to the heights of some of the greatest wizards in Faerûn. "Elminster," you think to yourself. "Blackstaff. Malcanter."
+
+NO, not Malcanter! You chuckle at your foolishness. Who could ever compete with the greatest first-level mage to have ever lived (so far)?
+
+I am here to tell you that while, in truth, you cannot hope to ever acquire the seasoned and respected name I have made for myself, you can at least hope to reach the plateau from which my shadow seems just slightly less long and chilly as it envelops you. If you follow my advice, you will be well on your way to becoming a second-rate imitation of myself.
+
+Rule One: There are some that believe taking credit for a job well done is the easiest way to build a reputation. But taking credit for a job someone ELSE did well and is now dead so they can't contradict you anyway is, in fact, more effic—
+
+(The scroll has been torn off here, and the rest is missing.)~
+@67261 = ~Alveus Note 05~
+@67262 = ~This crumpled piece of parchment has been signed over and over again with the name "Alveus Malcanter" in increasingly flourishing style. Interspersed among the signatures are sentence fragments, inclduing, "I hope this book saves your life!" and "May you never need the advice contained herein because you listened to me and decided to become a cobbler instead!" ~
+@67263 = ~Alveus Note 06~
+@67264 = ~Ideas for Next Book
+
+(The following notes are written in meticulous point-form.)
+
+– Always stay at the back of the party. Monsters rarely attack from the rear.
+
+– Middle, Middle is good too. Surround yourself with hulking companions in full plate armor.
+
+(Here follows a doodle of a stick figure in a pointy hat surrounded by armored individuals carrying enormous swords.)
+
+– Can also follow way behind group. Say one hundred yards. Cast spells from a distance and join in when the looting begins.
+
+– Perhaps one mile behind party? They can scream if they need help.
+
+(The next few points are scratched out.)
+
+– Could just stay home.~
+@67265 = ~Alveus Note 07~
+@67266 = ~My Dearest Agythi,
+
+It was with no little joy that I received your missive. Corresponding with those who have read my books and learning how my advice has positively affected their lives is a source of great pleasure for me. That you were able to write such a letter without the use of your arms makes the feat even more impressive—I suspect in the future you will take my oft-repeated mantra "Do not wrestle an angry ogre, or indeed any ogre, if it can be avoided" to heart.
+
+I gather from your note that you found my words less useful than one might have hoped when it came to the matter of the ogre wrestling. I have some questions regarding the events that led to such an unfortunate happenstance:
+
+1) How did you come to find yourself in amongst a pack of savage, bloodthirsty ogres? Over the years, I have offered many suggestions and strategies designed to help the prudent adventurer avoid just such a situation as this. If nothing else, my advice regarding the fortifying of one's home and the frequency with which one leaves it (my advice being "never"), if followed, should have prevented such a circumstance as this from ever occurring.
+
+2) Who challenged whom to the wrestling match? I do hope that it was the ogre's idea, as I'm quite certain the flaws in such a scheme originating from your side of the equation have become painfully self-evident.
+
+3) Had you ever considered a profession that carries with it slightly less risk of having one's arms torn off by a redblooding great ogre? Those who aren't cut out for adventure will often find themselves torn from it if they fail to act with the appropriate level of caution. Though they lack the potential glory a lucky few are able to wrest from a life of exploration and action, there is no shame whatsoever in fulfilling the role of a farmer, a courtesan, a tailor, or any number of other, more banal occupations. Someone has to shine my boots, after all.
+
+However you came to this regrettable state, I hope you will take some solace in the enclosed copy of my latest book. As you are a reader of my work, I have signed the volume and shall have the messenger take ten percent off the price I generally charge. May you find some enlightenment or entertainment in its pages during your period of convalescence.
+
+Yours very truly,
+Alveus Malcanter~

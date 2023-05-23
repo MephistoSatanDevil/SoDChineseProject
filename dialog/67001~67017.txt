@@ -1,0 +1,17 @@
+@67001 = ~Can you turn these stones I retrieved during the attack on Bridgefort into something useful?~
+@67002 = ~Huh... Those are—those are kinda disturbing, aren't they? Yeah, I think I could do something with them. What kind of weapon were you thinking of?~
+@67003 = ~Could you craft a fine sword?~
+@67004 = ~How about a warhammer?~
+@67005 = ~Keen arrows would serve me well.~
+@67006 = ~They look like they would make fine sling bullets.~
+@67007 = ~Actually, I'll hang onto them a little longer.~
+@67008 = ~I'll have your weapon ready for you.~
+@67009 = ~That's fine by me. The less time I have to spend with the cursed things, the happier I'll be.~
+@67010 = ~Let me take a look... Aye, aye. I should be able to do something with 'em. Come see me in three days.~
+@67011 = ~Oh. I think you'll be very happy with the result.~
+@67012 = ~I've been run ragged since I got here. It'll take a while yet. Check back later.~
+@67013 = ~My work calls to me. Axes high, right?~
+@67014 = ~Here's what I have—what I've got that I'm comfortable sending into battle, anyway.~
+@67015 = ~Armor'd be nice. Sick of being poked. Sicker of bleeding.~
+@67016 = ~You want me to make armor... for a goblin. Next you'll want a two handed sword for a dog. All right, I'll see what I can do.~
+@67017 = ~You heard about that new recruit, right? Comely lass, but she can't open her mouth without complaining. It's driving her commanding officer mad, but every time he tries to discipline her, Duncan countermands him.~

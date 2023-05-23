@@ -1,0 +1,130 @@
+@67267 = ~I've broken eighteen kneecaps so far.~
+@67268 = ~Now I'm getting all the combat practice I'll ever need.~
+@67269 = ~This is worse than I ever thought it could be, but I have to keep fighting.~
+@67270 = ~Death surrounds me like a cloak.~
+@67271 = ~Luck be with us!~
+@67272 = ~Tempus! Foehammer! Hear our battle cry and bestow your favor upon us!~
+@67273 = ~Let's show these crusaders what Waterdeep soldiers can do!~
+@67274 = ~Burn the crusade! Drown them in our arcane might!~
+@67275 = ~Bridgefort Crusader~
+@67276 = ~You are awakened from your rest.~
+@67277 = ~I love this city as much as the next girl—probably more, really. But time is in short supply. We should think about returning to the Ducal Palace soon.~ [BD67277]
+@67278 = ~In due course. I've not been everywhere I want to go yet.~
+@67279 = ~As assassins attacked me in the Ducal Palace, I'm sure you can appreciate a certain reluctance on my part to return there.~
+@67280 = ~We'll return when I'm ready.~
+@67281 = ~Who among us has? I'll escort you 'round the city as long as you want, but again, getting back to the palace is something we should do sooner than later. Let's go.~
+@67282 = ~I never said we wouldn't—I just thought you might be ready now. If you're not, fine, but when you are, all I'm suggesting is that getting back to the palace is something best done sooner than later. Let's go.~
+@67283 = ~I can understand that. But you need to understand that, regardless of what happened, you're still far safer there than you are exposed out here.~
+@67284 = ~When you're satisfied you've done everything you're able to prepare for our journey, the Ducal Palace is where we want to be.~
+@67285 = ~Recruitment Drive
+
+Once I'm done in the city, I should return to the palace.
+
+Captain Corwin believes it best we return to the Ducal Palace as soon as I conclude my business in the city.~
+@67286 = ~Nobody's getting any rest out here. If you want to sleep, we should head back to the palace or find an inn. I'm sure they'd clear out a room for the hero of Baldur's Gate.~
+@67287 = ~My son was a mercenary, hired by the Iron Throne. You never knew his name, but you killed him all the same.~
+@67288 = ~You could have saved me. You could have, if you tried, but you didn't. My blood is on your hands.~
+@67289 = ~My momma’s gone. ~
+@67290 = ~We’re all gone now.~
+@67291 = ~Do you see it now? Death is your inheritance. It follows in your wake.
+~
+@67292 = ~Even in death, there is a bond between you, a bond of blood, violence, death. Had you the power, would you sever that connection? ~
+@67293 = ~Go on. There is only one way to end this.~
+@67294 = ~I slew Sarevok once. I can do so again.~
+@67295 = ~I am not my brother. I’ve had my fill of vengeance.~
+@67296 = ~His end has come and gone. Return him from whence he came.~
+@67297 = ~The crusade is defeated. I've routed them and the survivors have retreated.~
+@67298 = ~The crusade has taken Bridgefort. Your crusade is victorious, for the moment.~
+@67299 = ~What? That's impossible! No one could have defeated the crusade. Let us out so we can see for ourselves.~ [BD67299]
+@67300 = ~I knew we'd triumph! Ha! That's what you get for messin' with the crusade. Let us out of here and we'll join the rest of the force.~ [BD67300]
+@67301 = ~Thanks, stranger!~ [BD67301]
+@67302 = ~The Missing Patrol
+
+It's up to me what to do with the imprisoned crusaders.
+
+I found the missing patrol, but have no need for them now. I can free them or kill them as I wish; it makes no difference.~
+@67303 = ~This towering statue of Bhaal, the dead lord of murder, glares across the length of Boareskyr Bridge at an equally imposing stone likeness of Cyric, the mad god that killed him.~
+@67304 = ~A mammoth statue of Cyric stands at the north end of Boareskyr Bridge. His arm is outstretched, reaching for the giant stone figure that glares accusingly at him from the bridge's southern side.~
+@67305 = ~In showing mercy, you showed weakness. When you spoke to Caelar Argent, you sought diplomacy, an end to the "damage wrought across the land." Do you think your enemies understand compassion? Do you think they care for the greater good?~ [BD67305]
+@67306 = ~Compassion and strength aren't incompatible. I will help as many people as I can. That doesn't make me weak.~
+@67307 = ~You judge my actions out of context. Everything I said was calculated to reach a larger end than you can see.~
+@67308 = ~How do you know what I said at the bridge?~
+@67309 = ~You know what truly matters. Caelar called for a meeting; you called for her head. Your plan could not be executed, but I was impressed with your... efficiency.~ [BD67309]
+@67310 = ~I saw no reason to prolong this war needlessly.~
+@67311 = ~The "Shining Lady" has proved herself a threat to me. I don't allow threats to live.~
+@67312 = ~How do you know what I said at the bridge?~
+@67313 = ~You lack direction. You drift along your path, neither asserting your strength nor taking that which you deserve. I expected more from you.~ [BD67313]
+@67314 = ~Oh? And yet you free a priestess of Bhaal, a mad murderess, on only her word that she would obey your directive. You show both weakness and stunning optimism.~ [BD67314]
+@67315 = ~You claim selfishness, that your actions were meant to benefit only you. And yet you set free a priestess of Bhaal, a mad murderess, with the directive to kill in Bhaal's name. How does that serve your interests, Bhaalspawn?~ [BD67315]
+@67316 = ~You must know by now that nothing you do escapes my sight. I know your past. I watch your present. Thus, I know your future. It was written in your blood long ago.~ [BD67316]
+@67317 = ~Peasant~
+@67318 = ~Andrus Gath~
+@67319 = ~Though large, this chest is inordinately heavy. Only a giantkin could hope to move it more than a few feet without risking substantial personal harm.~
+@67320 = ~The image of a fiery landscape appears, accompanied by a blast of unearthly heat. You realize that it was in such a place as this that the Coldhearth lich's phylactery was formed.~
+@67321 = ~You cast the golden box down into the flames. As it falls, the metal turns molten, its surface bubbling and sloughing off. The soul within screams in rage and fear as the fire consumes it.~
+@67322 = ~The massive set of double doors stubbornly refuse to move. Of handles, there is no sign; the doors were likely operated by some other, less traditional mechanism.~
+@67323 = ~Pushed to a corner of the table, a lumpen golden box sits collecting dust among a pile of parchments covered in fading ink.~
+@67324 = ~Several sheets of parchment are covered in notations written by a steady, methodical hand. Much of the writing is faded beyond legibility or consists of arcane equations beyond your understanding. A few lines near the bottom of the pile, however, can be deciphered:
+
+"Though the gold alloy proved more difficult to work than anticipated, I remain convinced that, once it is rendered sufficiently malleable, it will be an ideal substance from which to construct a phylactery. The heat of the Elemental Plane of Fire should render the material more pliant. I will use the portal to access that searing inferno shortly; first, I must scry a suitably private location there in which to do my work."~
+@67325 = ~Made of gold-colored, lumpy metal, the sides of this box are so uneven that its top cannot fully close. Melted down, it may have some value; as a container, it is worthless.
+
+STATISTICS:
+
+Weight: 1~
+@67326 = ~Important Events
+
+I must make my way to the crypt's entrance when I'm ready to return to the Ducal Palace.
+
+With the threat of Korlasz dealt with, I am free to explore the crypt as I see fit. When I am ready to leave this place, I should speak with Imoen and the Flaming Fist at the crypt entrance.~
+@67327 = ~Failed Phylactery~
+@67328 = ~Notes on a Failed Experiment~
+@67329 = ~Important Events
+
+When I am ready to leave Baldur's Gate, I must speak to Captain Corwin.
+
+Flaming Fist Captain Schael Corwin has asked me to let her know when my preparations are complete and I'm ready to embark on the journey north. After I've done so, the caravan will set out for Dragonspear.~
+@67330 = ~If there's anything I can do to help, please let me know.~
+@67331 = ~Crown~
+@67332 = ~I long to breathe fresh air again, and have some time for Dynaheir and myself to rest! Even mighty berserkers can tire of adventuring... Who would have thought, eh, Boo?~
+@67333 = ~When we are done here, I must report to my sisters in Rashemen. Our time together is drawing to a close.~
+@67334 = ~I will be glad when this is over, my friend. The city is in pain, and I feel I could aid it in a less... violent manner.~
+@67335 = ~One last joyride and then I'm done for a while. I want hot baths and silk sheets.~
+@67336 = ~The darkness soothes me, but soon I must part ways with you and venture into the light.~
+@67337 = ~Orders and demands! No more! When we finish here, Edwin shall move on!~
+@67338 = ~I can't wait to be d-done with all this. The constant d-d-danger has st-started to wear on me.~
+@67339 = ~When this is over, Khalid, you and I will spend some quality time together.~
+@67340 = ~When this is over, I shall require some time to myself... I believe I have earned it, no?~
+@67341 = ~My patron... I can feel the call. I must depart soon, and then I will see what tasks he has in store for me.~
+@67342 = ~The sooner we're done here, the sooner I can take that trip I've always wanted!~
+@67343 = ~This has been a memorable journey. I know it won't last forever, but I'm glad we had this time together.~
+@67344 = ~Righteous work always waits. I hear its call even now, and I fear it will lead us in opposing directions.~
+@67345 = ~It has been good to fight for you, and of course I owe you much. Soon, though, I must make my own path.~
+@67346 = ~I think we could all use a good, long rest after this is done. Or at least a good, long romp.~
+@67347 = ~This nobility and service has worn me away. I must take some time for myself soon.~
+@67348 = ~This city pins me in on all sides. When we are done here, I shall return to the forest in peace.~
+@67349 = ~I must start composing an epic ballad about this! It will take time, but just wait until you see my rhyming couplets.~
+@67350 = ~I'm nae sayin' this hasn't been profitable, but it might be time for me to shuffle on. ~
+@67351 = ~Your quest is almost ended. Perhaps I will return home when we are done.~
+@67352 = ~All this jumpin' at the dukes' orders is givin' me gut pains. Time to put these rooftops behind me.~
+@67353 = ~Fascinating as this has been, I will have to leave soon. I've a trip south planned—I'll be taking over a family business of sorts.~
+@67354 = ~I've followed you as I said I would, but the time to follow is almost ended.~
+@67355 = ~I will be a strong leader such as yourself some day. When this is done, I will forge my own group to lead.~
+@67356 = ~Guh, I'm sick of all this dust and grime. Being a hero isn't as great as it sounds.~
+@67357 = ~Tiax follows because it PLEASES him to! For NOW. But soon... SOON, CYRIC WILL REVEAL HIS PLAN FOR ME!~
+@67358 = ~We've been digging around in old and horrible tombs for so long... I fear exhaustion will take me soon.~
+@67359 = ~We've been digging around in old and horrible tombs for so long... I fear exhaustion will take me soon.~
+@67360 = ~Monsters and mayhem have dogged our heels long enough. Once we trek out of here, this is OVER.~
+@67361 = ~Aye, I look forward to leaving this place and putting all this tragedy behind me.~
+@67362 = ~[DEBUG] Bridgefort Wardstone (plot item used by Bridgefort teleport).~
+@67363 = ~Lightning Mephit~
+@67364 = ~Blood Red Ioun Stone~
+@67365 = ~This spherical stone gleams crimson, like a hardened globe of blood. Once activated, it can enhance the wearer's hand-eye coordination, reflexes, and balance, which makes it a highly prized accessory among rogues.
+
+STATISTICS:
+
+Equipped abilities:
+– Dexterity: +1
+– Weapon Speed Factor: +2
+
+Weight: 0~
