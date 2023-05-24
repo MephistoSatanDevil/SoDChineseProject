@@ -1,11 +1,11 @@
-@32752 = ~The estate is located just southeast of here. I wish all of you the best of luck. Remember, once you're done at the Seven Sun's estate, it's imperative that you meet me back inside the Flaming Fist compound.~
-@32753 = ~I'm sorry to hear that. You're free to go. If you ever have any trouble, or if you change your mind about helping me, you can find me right here.~
-@32754 = ~See those cages? They appear to have been opened recently.~
-@32755 = ~By Tempus! These cages were used to house combat beasts and monsters. Thus do the clerics of the Foehammer hone their combat skills.~
-@32756 = ~Just a minute. You said something about needing help. We're interested in working for you now.~
-@32757 = ~Landrin's Possessions
-I have completed all of Landrin's tasks.~
-@32758 = ~It would be a fitting last service to Gorion.~
-@32759 = ~Kivan's bandit hunt~
-@32760 = ~Kivan's bandit hunt
-Kivan has asked us to work together in the hunt for bandits. I got the feeling he is quite eager to track them down.~
+@32752 = ~庄园就在这里的东南方。祝你们所有人好运。请记住，完成在七太阳庄园的任务后，务必回到焰拳的营地与我汇合。~
+@32753 = ~很遗憾听到这个。你可以离开了。如果你遇到任何问题，或者你改变主意想要帮助我，你可以在这里找到我。~
+@32754 = ~看到那些笼子了吗？它们似乎是最近被打开的。~
+@32755 = ~坦帕斯在上！这些笼子是饲养用来的战斗野兽和怪物的。因此，仇敌之锤的牧师们也在磨练他们的战斗技巧。~
+@32756 = ~请稍等。你说过需要帮助的事。我们现在有兴趣为你工作。~
+@32757 = ~兰德陵的财宝
+我已经完成了兰德陵的所有任务。~
+@32758 = ~这将是对葛立安的最后一次服务。~
+@32759 = ~齐冯的捕盗行动~
+@32760 = ~齐冯的捕盗行动
+齐冯要求我们在追捕土匪的过程中合作。我感觉他很想追到他们。~
