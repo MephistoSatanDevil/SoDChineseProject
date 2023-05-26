@@ -6,11 +6,11 @@
 @32773 = ~你要为你的背信弃义付出血的代价，Rieltar!~
 @32774 = ~我很遗憾。我希望你能理智对待。~
 @32775 = ~Reason with this!~
-@32776 = ~You will be pleased to know that Tranzig has been dealt with.~
+@32776 = ~你会很高兴地知道，Tranzig已经被处理了。~
 @32777 = ~By Tempus, can it be! To be freed by those who put an end to that fiend. A triumphant day, indeed!~
 @32778 = ~Why the hurry, Tranzig? You delay the inevitable.~
-@32779 = ~What? Who do ya think ya are, woman?~
-@32780 = ~Is it so commonplace for you to turn others to stone, mage?~
+@32779 = ~什么？你以为你是谁，女人？~
+@32780 = ~把别人变成石头对你来说很平常吗，法师？~
 @32781 = ~YOU. How did you—~
 @32782 = ~I said I would see you dead before I see the shores of the Isles once more, coward, and in Tempus's name I shall! Prepare yourself!~
 @32783 = ~You shall get no quarter from us, fiend! In Tempus's name I will strike you down!~
